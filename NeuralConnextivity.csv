@@ -1,0 +1,3530 @@
+Source,Target,Type,Id,Label,timeset,Weight
+FRP,FRP,Directed,0,Hippocampal Formation,,0.000000
+FRP,MOp,Directed,1,Hippocampal Formation,,0.000000
+FRP,MOs,Directed,2,Hippocampal Formation,,0.000000
+FRP,GU,Directed,3,Hippocampal Formation,,0.001101
+FRP,AId,Directed,4,Hippocampal Formation,,0.000000
+FRP,AIv,Directed,5,Hippocampal Formation,,0.013712
+FRP,CLA,Directed,6,Hippocampal Formation,,0.006761
+FRP,CP,Directed,7,Hippocampal Formation,,0.000006
+FRP,FS,Directed,8,Hippocampal Formation,,0.008854
+FRP,GPe,Directed,9,Hippocampal Formation,,0.000000
+FRP,SPA,Directed,10,Hippocampal Formation,,0.000130
+MOp,FRP,Directed,11,Pallidum,,0.000000
+MOp,MOp,Directed,12,Pallidum,,0.000000
+MOp,MOs,Directed,13,Pallidum,,0.000000
+MOp,SSp-n,Directed,14,Pallidum,,0.000000
+MOp,SSp-bfd,Directed,15,Pallidum,,0.000000
+MOp,SSp-ll,Directed,16,Pallidum,,0.001703
+MOp,SSp-m,Directed,17,Pallidum,,0.000000
+MOp,SSp-ul,Directed,18,Pallidum,,0.000000
+MOp,SSs,Directed,19,Pallidum,,0.000000
+MOp,GU,Directed,20,Pallidum,,0.000000
+MOp,VISC,Directed,21,Pallidum,,0.000000
+MOp,AId,Directed,22,Pallidum,,0.000000
+MOp,CLA,Directed,23,Pallidum,,0.000000
+MOp,CP,Directed,24,Pallidum,,0.000000
+MOp,FS,Directed,25,Pallidum,,0.000004
+MOp,CEA,Directed,26,Pallidum,,0.000249
+MOp,GPe,Directed,27,Pallidum,,0.000000
+MOp,GPi,Directed,28,Pallidum,,0.000000
+MOp,SI,Directed,29,Pallidum,,0.000663
+MOp,VAL,Directed,30,Pallidum,,0.000000
+MOp,VM,Directed,31,Pallidum,,0.000000
+MOp,VPL,Directed,32,Pallidum,,0.000000
+MOp,VPM,Directed,33,Pallidum,,0.000000
+MOp,VPMpc,Directed,34,Pallidum,,0.000000
+MOp,SPFp,Directed,35,Pallidum,,0.000000
+MOp,PO,Directed,36,Pallidum,,0.000000
+MOp,IMD,Directed,37,Pallidum,,0.000000
+MOp,MD,Directed,38,Pallidum,,0.000000
+MOp,RH,Directed,39,Pallidum,,0.000016
+MOp,CM,Directed,40,Pallidum,,0.000000
+MOp,CL,Directed,41,Pallidum,,0.000000
+MOp,PF,Directed,42,Pallidum,,0.000000
+MOp,RT,Directed,43,Pallidum,,0.000000
+MOp,STN,Directed,44,Pallidum,,0.000000
+MOp,SNr,Directed,45,Pallidum,,0.000000
+MOp,VTA,Directed,46,Pallidum,,0.000000
+MOp,RR,Directed,47,Pallidum,,0.000000
+MOp,MRN,Directed,48,Pallidum,,0.000000
+MOp,SCm,Directed,49,Pallidum,,0.000109
+MOp,APN,Directed,50,Pallidum,,0.000432
+MOp,NOT,Directed,51,Pallidum,,0.000006
+MOp,NPC,Directed,52,Pallidum,,0.000060
+MOp,RN,Directed,53,Pallidum,,0.000006
+MOp,SNc,Directed,54,Pallidum,,0.000000
+MOp,PPN,Directed,55,Pallidum,,0.000388
+MOp,IPN,Directed,56,Pallidum,,0.000000
+MOp,CLI,Directed,57,Pallidum,,0.000000
+MOp,DR,Directed,58,Pallidum,,0.000000
+MOp,PSV,Directed,59,Pallidum,,0.000393
+MOp,PB,Directed,60,Pallidum,,0.000000
+MOp,PG,Directed,61,Pallidum,,0.000000
+MOp,PRNc,Directed,62,Pallidum,,0.000000
+MOp,SUT,Directed,63,Pallidum,,0.000000
+MOp,TRN,Directed,64,Pallidum,,0.000000
+MOp,V,Directed,65,Pallidum,,0.000000
+MOp,CS,Directed,66,Pallidum,,0.000000
+MOp,PRNr,Directed,67,Pallidum,,0.000308
+MOp,NTS,Directed,68,Pallidum,,0.000000
+MOp,SPVO,Directed,69,Pallidum,,0.000000
+MOp,GRN,Directed,70,Pallidum,,0.000000
+MOp,IO,Directed,71,Pallidum,,0.000000
+MOp,IRN,Directed,72,Pallidum,,0.000000
+MOp,MARN,Directed,73,Pallidum,,0.000000
+MOp,MDRNv,Directed,74,Pallidum,,0.000280
+MOp,PARN,Directed,75,Pallidum,,0.000000
+MOp,PGRNd,Directed,76,Pallidum,,0.000000
+MOp,PGRNl,Directed,77,Pallidum,,0.000010
+MOp,RM,Directed,78,Pallidum,,0.000000
+MOs,FRP,Directed,79,Thalamus,,0.000000
+MOs,MOp,Directed,80,Thalamus,,0.000000
+MOs,MOs,Directed,81,Thalamus,,0.000000
+MOs,SSp-bfd,Directed,82,Thalamus,,0.000922
+MOs,SSp-ll,Directed,83,Thalamus,,0.000001
+MOs,SSp-tr,Directed,84,Thalamus,,0.000000
+MOs,AUDd,Directed,85,Thalamus,,0.000001
+MOs,AUDv,Directed,86,Thalamus,,0.000394
+MOs,VISal,Directed,87,Thalamus,,0.000000
+MOs,VISl,Directed,88,Thalamus,,0.001180
+MOs,VISp,Directed,89,Thalamus,,0.003957
+MOs,ACAd,Directed,90,Thalamus,,0.000117
+MOs,ORBl,Directed,91,Thalamus,,0.000000
+MOs,ORBvl,Directed,92,Thalamus,,0.000401
+MOs,AIv,Directed,93,Thalamus,,0.002319
+MOs,PTLp,Directed,94,Thalamus,,0.000003
+MOs,TEa,Directed,95,Thalamus,,0.004302
+MOs,PERI,Directed,96,Thalamus,,0.001444
+MOs,ECT,Directed,97,Thalamus,,0.002611
+MOs,AOB,Directed,98,Thalamus,,0.000000
+MOs,CLA,Directed,99,Thalamus,,0.000045
+MOs,CP,Directed,100,Thalamus,,0.000003
+MOs,GPe,Directed,101,Thalamus,,0.002108
+MOs,VAL,Directed,102,Thalamus,,0.000000
+MOs,VM,Directed,103,Thalamus,,0.000000
+MOs,VPL,Directed,104,Thalamus,,0.000837
+MOs,SPFp,Directed,105,Thalamus,,0.000509
+MOs,SPA,Directed,106,Thalamus,,0.000009
+MOs,PO,Directed,107,Thalamus,,0.000000
+MOs,POL,Directed,108,Thalamus,,0.000221
+MOs,AV,Directed,109,Thalamus,,0.000164
+MOs,AMd,Directed,110,Thalamus,,0.000000
+MOs,AMv,Directed,111,Thalamus,,0.000000
+MOs,IMD,Directed,112,Thalamus,,0.000022
+MOs,MD,Directed,113,Thalamus,,0.000000
+MOs,SMT,Directed,114,Thalamus,,0.000000
+MOs,RH,Directed,115,Thalamus,,0.000000
+MOs,CM,Directed,116,Thalamus,,0.000030
+MOs,CL,Directed,117,Thalamus,,0.000000
+MOs,PF,Directed,118,Thalamus,,0.001264
+MOs,RT,Directed,119,Thalamus,,0.000000
+MOs,STN,Directed,120,Thalamus,,0.000000
+MOs,SNr,Directed,121,Thalamus,,0.000100
+MOs,VTA,Directed,122,Thalamus,,0.000000
+MOs,RR,Directed,123,Thalamus,,0.000000
+MOs,MRN,Directed,124,Thalamus,,0.000002
+MOs,SCm,Directed,125,Thalamus,,0.000691
+MOs,PAG,Directed,126,Thalamus,,0.003378
+MOs,APN,Directed,127,Thalamus,,0.000505
+MOs,NOT,Directed,128,Thalamus,,0.000100
+MOs,NPC,Directed,129,Thalamus,,0.000000
+MOs,SNc,Directed,130,Thalamus,,0.000008
+MOs,PPN,Directed,131,Thalamus,,0.000241
+MOs,IPN,Directed,132,Thalamus,,0.000006
+MOs,DR,Directed,133,Thalamus,,0.000010
+MOs,PB,Directed,134,Thalamus,,0.000472
+MOs,PCG,Directed,135,Thalamus,,0.000218
+MOs,PG,Directed,136,Thalamus,,0.000000
+MOs,PRNc,Directed,137,Thalamus,,0.001472
+MOs,TRN,Directed,138,Thalamus,,0.000000
+MOs,CS,Directed,139,Thalamus,,0.000024
+MOs,PRNr,Directed,140,Thalamus,,0.001340
+MOs,MARN,Directed,141,Thalamus,,0.000121
+MOs,PGRNl,Directed,142,Thalamus,,0.000387
+MOs,SUV,Directed,143,Thalamus,,0.000008
+MOs,RM,Directed,144,Thalamus,,0.000000
+SSp-n,MOp,Directed,145,Midbrain,,0.030422
+SSp-n,SSp-m,Directed,146,Midbrain,,0.001043
+SSp-n,SSs,Directed,147,Midbrain,,0.000921
+SSp-n,GU,Directed,148,Midbrain,,0.000074
+SSp-n,VISC,Directed,149,Midbrain,,0.000011
+SSp-n,CP,Directed,150,Midbrain,,0.023135
+SSp-n,GPi,Directed,151,Midbrain,,0.000000
+SSp-n,VAL,Directed,152,Midbrain,,0.003330
+SSp-n,VPM,Directed,153,Midbrain,,0.000016
+SSp-n,VPMpc,Directed,154,Midbrain,,0.000000
+SSp-n,SPFp,Directed,155,Midbrain,,0.000430
+SSp-n,RT,Directed,156,Midbrain,,0.000401
+SSp-n,SNr,Directed,157,Midbrain,,0.000192
+SSp-n,PG,Directed,158,Midbrain,,0.000001
+SSp-n,SPVO,Directed,159,Midbrain,,0.000443
+SSp-n,RM,Directed,160,Midbrain,,0.000042
+SSp-bfd,FRP,Directed,161,Hypothalamus,,0.000007
+SSp-bfd,MOp,Directed,162,Hypothalamus,,0.000000
+SSp-bfd,MOs,Directed,163,Hypothalamus,,0.000000
+SSp-bfd,SSp-bfd,Directed,164,Hypothalamus,,0.000000
+SSp-bfd,SSp-ll,Directed,165,Hypothalamus,,0.000003
+SSp-bfd,SSp-ul,Directed,166,Hypothalamus,,0.000000
+SSp-bfd,SSp-tr,Directed,167,Hypothalamus,,0.000000
+SSp-bfd,SSs,Directed,168,Hypothalamus,,0.000000
+SSp-bfd,AUDd,Directed,169,Hypothalamus,,0.000000
+SSp-bfd,AUDp,Directed,170,Hypothalamus,,0.003032
+SSp-bfd,AUDv,Directed,171,Hypothalamus,,0.000000
+SSp-bfd,VISal,Directed,172,Hypothalamus,,0.000001
+SSp-bfd,ORBl,Directed,173,Hypothalamus,,0.000757
+SSp-bfd,ORBvl,Directed,174,Hypothalamus,,0.000244
+SSp-bfd,PTLp,Directed,175,Hypothalamus,,0.000059
+SSp-bfd,TEa,Directed,176,Hypothalamus,,0.000001
+SSp-bfd,PERI,Directed,177,Hypothalamus,,0.000266
+SSp-bfd,ECT,Directed,178,Hypothalamus,,0.000512
+SSp-bfd,CP,Directed,179,Hypothalamus,,0.000000
+SSp-bfd,VM,Directed,180,Hypothalamus,,0.000247
+SSp-bfd,VPL,Directed,181,Hypothalamus,,0.000000
+SSp-bfd,VPM,Directed,182,Hypothalamus,,0.000000
+SSp-bfd,SPFm,Directed,183,Hypothalamus,,0.000152
+SSp-bfd,SPFp,Directed,184,Hypothalamus,,0.000000
+SSp-bfd,PP,Directed,185,Hypothalamus,,0.000000
+SSp-bfd,MGm,Directed,186,Hypothalamus,,0.000000
+SSp-bfd,PO,Directed,187,Hypothalamus,,0.000000
+SSp-bfd,POL,Directed,188,Hypothalamus,,0.000000
+SSp-bfd,SMT,Directed,189,Hypothalamus,,0.000002
+SSp-bfd,RH,Directed,190,Hypothalamus,,0.000007
+SSp-bfd,CL,Directed,191,Hypothalamus,,0.000012
+SSp-bfd,PF,Directed,192,Hypothalamus,,0.000718
+SSp-bfd,RT,Directed,193,Hypothalamus,,0.000000
+SSp-bfd,SNr,Directed,194,Hypothalamus,,0.000853
+SSp-bfd,RR,Directed,195,Hypothalamus,,0.000343
+SSp-bfd,MRN,Directed,196,Hypothalamus,,0.000032
+SSp-bfd,SCm,Directed,197,Hypothalamus,,0.000039
+SSp-bfd,APN,Directed,198,Hypothalamus,,0.000000
+SSp-bfd,NOT,Directed,199,Hypothalamus,,0.000001
+SSp-bfd,NPC,Directed,200,Hypothalamus,,0.000000
+SSp-bfd,PG,Directed,201,Hypothalamus,,0.000000
+SSp-bfd,TRN,Directed,202,Hypothalamus,,0.000043
+SSp-bfd,MARN,Directed,203,Hypothalamus,,0.000256
+SSp-bfd,PRP,Directed,204,Hypothalamus,,0.000023
+SSp-bfd,RM,Directed,205,Hypothalamus,,0.000014
+SSp-ll,MOs,Directed,206,Hypothalamus,,0.000001
+SSp-ll,SSp-ll,Directed,207,Hypothalamus,,0.000000
+SSp-ll,SSp-tr,Directed,208,Hypothalamus,,0.000000
+SSp-ll,AUDd,Directed,209,Hypothalamus,,0.000000
+SSp-ll,AUDp,Directed,210,Hypothalamus,,0.000000
+SSp-ll,AUDv,Directed,211,Hypothalamus,,0.000000
+SSp-ll,ACAd,Directed,212,Hypothalamus,,0.000000
+SSp-ll,PL,Directed,213,Hypothalamus,,0.002606
+SSp-ll,ILA,Directed,214,Hypothalamus,,0.002005
+SSp-ll,ORBvl,Directed,215,Hypothalamus,,0.000313
+SSp-ll,PTLp,Directed,216,Hypothalamus,,0.000029
+SSp-ll,TEa,Directed,217,Hypothalamus,,0.001182
+SSp-ll,CP,Directed,218,Hypothalamus,,0.007472
+SSp-ll,VPL,Directed,219,Hypothalamus,,0.000000
+SSp-ll,SPFm,Directed,220,Hypothalamus,,0.000096
+SSp-ll,SPFp,Directed,221,Hypothalamus,,0.000000
+SSp-ll,MGm,Directed,222,Hypothalamus,,0.000009
+SSp-ll,LP,Directed,223,Hypothalamus,,0.000261
+SSp-ll,PO,Directed,224,Hypothalamus,,0.000000
+SSp-ll,POL,Directed,225,Hypothalamus,,0.000000
+SSp-ll,AMd,Directed,226,Hypothalamus,,0.000232
+SSp-ll,AMv,Directed,227,Hypothalamus,,0.000116
+SSp-ll,SMT,Directed,228,Hypothalamus,,0.000344
+SSp-ll,RH,Directed,229,Hypothalamus,,0.000130
+SSp-ll,CL,Directed,230,Hypothalamus,,0.000001
+SSp-ll,RT,Directed,231,Hypothalamus,,0.000000
+SSp-ll,PH,Directed,232,Hypothalamus,,0.000948
+SSp-ll,ICe,Directed,233,Hypothalamus,,0.000065
+SSp-ll,SNr,Directed,234,Hypothalamus,,0.000068
+SSp-ll,MRN,Directed,235,Hypothalamus,,0.010135
+SSp-ll,SCm,Directed,236,Hypothalamus,,0.013945
+SSp-ll,PAG,Directed,237,Hypothalamus,,0.000004
+SSp-ll,APN,Directed,238,Hypothalamus,,0.000000
+SSp-ll,NOT,Directed,239,Hypothalamus,,0.000199
+SSp-ll,NPC,Directed,240,Hypothalamus,,0.000000
+SSp-ll,CUN,Directed,241,Hypothalamus,,0.000459
+SSp-ll,RN,Directed,242,Hypothalamus,,0.000000
+SSp-ll,PPN,Directed,243,Hypothalamus,,0.000000
+SSp-ll,PCG,Directed,244,Hypothalamus,,0.000000
+SSp-ll,PG,Directed,245,Hypothalamus,,0.000002
+SSp-ll,PRNc,Directed,246,Hypothalamus,,0.000423
+SSp-ll,TRN,Directed,247,Hypothalamus,,0.000000
+SSp-ll,CS,Directed,248,Hypothalamus,,0.000000
+SSp-ll,NI,Directed,249,Hypothalamus,,0.000000
+SSp-ll,PRNr,Directed,250,Hypothalamus,,0.000000
+SSp-ll,IO,Directed,251,Hypothalamus,,0.000000
+SSp-ll,LRN,Directed,252,Hypothalamus,,0.000000
+SSp-ll,MARN,Directed,253,Hypothalamus,,0.000000
+SSp-ll,PGRNd,Directed,254,Hypothalamus,,0.000154
+SSp-ll,PGRNl,Directed,255,Hypothalamus,,0.000001
+SSp-ll,PRP,Directed,256,Hypothalamus,,0.000000
+SSp-ll,MV,Directed,257,Hypothalamus,,0.000000
+SSp-ll,SUV,Directed,258,Hypothalamus,,0.000001
+SSp-ll,FN,Directed,259,Hypothalamus,,0.000014
+SSp-m,FRP,Directed,260,Hypothalamus,,0.000072
+SSp-m,MOp,Directed,261,Hypothalamus,,0.000000
+SSp-m,MOs,Directed,262,Hypothalamus,,0.001785
+SSp-m,SSp-n,Directed,263,Hypothalamus,,0.000000
+SSp-m,SSp-m,Directed,264,Hypothalamus,,0.000000
+SSp-m,SSp-ul,Directed,265,Hypothalamus,,0.000000
+SSp-m,SSs,Directed,266,Hypothalamus,,0.000000
+SSp-m,VISC,Directed,267,Hypothalamus,,0.000896
+SSp-m,CP,Directed,268,Hypothalamus,,0.005610
+SSp-m,GPe,Directed,269,Hypothalamus,,0.000005
+SSp-m,GPi,Directed,270,Hypothalamus,,0.000000
+SSp-m,VAL,Directed,271,Hypothalamus,,0.000000
+SSp-m,VPL,Directed,272,Hypothalamus,,0.001579
+SSp-m,VPM,Directed,273,Hypothalamus,,0.000003
+SSp-m,VPMpc,Directed,274,Hypothalamus,,0.000020
+SSp-m,PF,Directed,275,Hypothalamus,,0.002247
+SSp-m,RT,Directed,276,Hypothalamus,,0.000001
+SSp-m,STN,Directed,277,Hypothalamus,,0.000128
+SSp-m,SNr,Directed,278,Hypothalamus,,0.002893
+SSp-m,PG,Directed,279,Hypothalamus,,0.000800
+SSp-ul,FRP,Directed,280,Midbrain,,0.000519
+SSp-ul,MOp,Directed,281,Midbrain,,0.000000
+SSp-ul,MOs,Directed,282,Midbrain,,0.001150
+SSp-ul,SSp-bfd,Directed,283,Midbrain,,0.000000
+SSp-ul,SSp-ll,Directed,284,Midbrain,,0.000000
+SSp-ul,SSp-m,Directed,285,Midbrain,,0.004489
+SSp-ul,SSp-ul,Directed,286,Midbrain,,0.000000
+SSp-ul,SSs,Directed,287,Midbrain,,0.000000
+SSp-ul,AUDv,Directed,288,Midbrain,,0.000000
+SSp-ul,CLA,Directed,289,Midbrain,,0.001278
+SSp-ul,CP,Directed,290,Midbrain,,0.000000
+SSp-ul,GPe,Directed,291,Midbrain,,0.000000
+SSp-ul,GPi,Directed,292,Midbrain,,0.000000
+SSp-ul,VAL,Directed,293,Midbrain,,0.000000
+SSp-ul,VM,Directed,294,Midbrain,,0.000186
+SSp-ul,VPL,Directed,295,Midbrain,,0.000000
+SSp-ul,VPM,Directed,296,Midbrain,,0.000000
+SSp-ul,PO,Directed,297,Midbrain,,0.000003
+SSp-ul,CL,Directed,298,Midbrain,,0.000745
+SSp-ul,PF,Directed,299,Midbrain,,0.000000
+SSp-ul,RT,Directed,300,Midbrain,,0.000002
+SSp-ul,STN,Directed,301,Midbrain,,0.000000
+SSp-ul,SNr,Directed,302,Midbrain,,0.000000
+SSp-ul,MRN,Directed,303,Midbrain,,0.000584
+SSp-ul,IPN,Directed,304,Midbrain,,0.000084
+SSp-ul,PG,Directed,305,Midbrain,,0.000000
+SSp-ul,IO,Directed,306,Midbrain,,0.000001
+SSp-ul,RM,Directed,307,Midbrain,,0.000012
+SSp-tr,MOp,Directed,308,Midbrain,,0.000002
+SSp-tr,MOs,Directed,309,Midbrain,,0.000069
+SSp-tr,SSp-bfd,Directed,310,Midbrain,,0.006526
+SSp-tr,SSp-ll,Directed,311,Midbrain,,0.000000
+SSp-tr,SSp-tr,Directed,312,Midbrain,,0.000000
+SSp-tr,AUDd,Directed,313,Midbrain,,0.000000
+SSp-tr,AUDp,Directed,314,Midbrain,,0.000000
+SSp-tr,AUDv,Directed,315,Midbrain,,0.000000
+SSp-tr,VISal,Directed,316,Midbrain,,0.000176
+SSp-tr,ACAd,Directed,317,Midbrain,,0.000166
+SSp-tr,ORBvl,Directed,318,Midbrain,,0.001730
+SSp-tr,PTLp,Directed,319,Midbrain,,0.000000
+SSp-tr,CP,Directed,320,Midbrain,,0.000201
+SSp-tr,VM,Directed,321,Midbrain,,0.000219
+SSp-tr,VPL,Directed,322,Midbrain,,0.000000
+SSp-tr,VPM,Directed,323,Midbrain,,0.000069
+SSp-tr,SPFp,Directed,324,Midbrain,,0.000000
+SSp-tr,PP,Directed,325,Midbrain,,0.000022
+SSp-tr,MGv,Directed,326,Midbrain,,0.001072
+SSp-tr,MGm,Directed,327,Midbrain,,0.000000
+SSp-tr,LGd,Directed,328,Midbrain,,0.000256
+SSp-tr,LP,Directed,329,Midbrain,,0.000000
+SSp-tr,PO,Directed,330,Midbrain,,0.000000
+SSp-tr,POL,Directed,331,Midbrain,,0.000000
+SSp-tr,AV,Directed,332,Midbrain,,0.000529
+SSp-tr,AMd,Directed,333,Midbrain,,0.000774
+SSp-tr,AMv,Directed,334,Midbrain,,0.000191
+SSp-tr,LD,Directed,335,Midbrain,,0.000006
+SSp-tr,SMT,Directed,336,Midbrain,,0.000003
+SSp-tr,RH,Directed,337,Midbrain,,0.000033
+SSp-tr,CL,Directed,338,Midbrain,,0.000003
+SSp-tr,RT,Directed,339,Midbrain,,0.000000
+SSp-tr,LGv,Directed,340,Midbrain,,0.000058
+SSp-tr,ICe,Directed,341,Midbrain,,0.000055
+SSp-tr,SNr,Directed,342,Midbrain,,0.000729
+SSp-tr,MRN,Directed,343,Midbrain,,0.002780
+SSp-tr,SCm,Directed,344,Midbrain,,0.000012
+SSp-tr,PAG,Directed,345,Midbrain,,0.001665
+SSp-tr,APN,Directed,346,Midbrain,,0.000000
+SSp-tr,NOT,Directed,347,Midbrain,,0.000000
+SSp-tr,NPC,Directed,348,Midbrain,,0.000000
+SSp-tr,RN,Directed,349,Midbrain,,0.000752
+SSp-tr,PCG,Directed,350,Midbrain,,0.000387
+SSp-tr,PG,Directed,351,Midbrain,,0.000000
+SSp-tr,TRN,Directed,352,Midbrain,,0.000141
+SSp-tr,CS,Directed,353,Midbrain,,0.000119
+SSp-tr,NI,Directed,354,Midbrain,,0.000045
+SSp-tr,PRP,Directed,355,Midbrain,,0.000194
+SSs,FRP,Directed,356,Midbrain,,0.000073
+SSs,MOp,Directed,357,Midbrain,,0.000000
+SSs,MOs,Directed,358,Midbrain,,0.000268
+SSs,SSp-n,Directed,359,Midbrain,,0.000000
+SSs,SSp-bfd,Directed,360,Midbrain,,0.000000
+SSs,SSp-ll,Directed,361,Midbrain,,0.000103
+SSs,SSp-m,Directed,362,Midbrain,,0.000000
+SSs,SSp-ul,Directed,363,Midbrain,,0.000000
+SSs,SSs,Directed,364,Midbrain,,0.000000
+SSs,GU,Directed,365,Midbrain,,0.000001
+SSs,VISC,Directed,366,Midbrain,,0.000000
+SSs,AUDv,Directed,367,Midbrain,,0.001266
+SSs,AIp,Directed,368,Midbrain,,0.000000
+SSs,CLA,Directed,369,Midbrain,,0.000000
+SSs,CP,Directed,370,Midbrain,,0.000000
+SSs,GPe,Directed,371,Midbrain,,0.000000
+SSs,GPi,Directed,372,Midbrain,,0.000000
+SSs,VAL,Directed,373,Midbrain,,0.000000
+SSs,VM,Directed,374,Midbrain,,0.000322
+SSs,VPL,Directed,375,Midbrain,,0.000000
+SSs,VPM,Directed,376,Midbrain,,0.000000
+SSs,VPMpc,Directed,377,Midbrain,,0.000000
+SSs,SPFp,Directed,378,Midbrain,,0.000415
+SSs,MGm,Directed,379,Midbrain,,0.000001
+SSs,PO,Directed,380,Midbrain,,0.000000
+SSs,CL,Directed,381,Midbrain,,0.000392
+SSs,PF,Directed,382,Midbrain,,0.000000
+SSs,RT,Directed,383,Midbrain,,0.000000
+SSs,STN,Directed,384,Midbrain,,0.000439
+SSs,MRN,Directed,385,Midbrain,,0.001610
+SSs,PG,Directed,386,Midbrain,,0.000059
+SSs,SUT,Directed,387,Midbrain,,0.000195
+SSs,MARN,Directed,388,Midbrain,,0.000226
+SSs,RM,Directed,389,Midbrain,,0.000006
+GU,MOp,Directed,390,Hippocampal Formation,,0.000004
+GU,MOs,Directed,391,Hippocampal Formation,,0.006850
+GU,SSp-m,Directed,392,Hippocampal Formation,,0.014384
+GU,AId,Directed,393,Hippocampal Formation,,0.000021
+GU,TEa,Directed,394,Hippocampal Formation,,0.004625
+GU,ECT,Directed,395,Hippocampal Formation,,0.011529
+GU,CLA,Directed,396,Hippocampal Formation,,0.002061
+GU,CP,Directed,397,Hippocampal Formation,,0.057496
+GU,FS,Directed,398,Hippocampal Formation,,0.000353
+GU,CEA,Directed,399,Hippocampal Formation,,0.000002
+GU,IA,Directed,400,Hippocampal Formation,,0.000058
+GU,GPe,Directed,401,Hippocampal Formation,,0.000012
+GU,GPi,Directed,402,Hippocampal Formation,,0.000000
+GU,VM,Directed,403,Hippocampal Formation,,0.000000
+GU,VPMpc,Directed,404,Hippocampal Formation,,0.000000
+GU,SPA,Directed,405,Hippocampal Formation,,0.000000
+GU,IMD,Directed,406,Hippocampal Formation,,0.000000
+GU,MD,Directed,407,Hippocampal Formation,,0.000004
+GU,SMT,Directed,408,Hippocampal Formation,,0.000162
+GU,PVT,Directed,409,Hippocampal Formation,,0.000203
+GU,RH,Directed,410,Hippocampal Formation,,0.000010
+GU,CM,Directed,411,Hippocampal Formation,,0.000000
+GU,PF,Directed,412,Hippocampal Formation,,0.000114
+GU,RT,Directed,413,Hippocampal Formation,,0.001474
+GU,STN,Directed,414,Hippocampal Formation,,0.000130
+GU,SNr,Directed,415,Hippocampal Formation,,0.000001
+GU,VTA,Directed,416,Hippocampal Formation,,0.000234
+GU,RR,Directed,417,Hippocampal Formation,,0.000451
+GU,MRN,Directed,418,Hippocampal Formation,,0.026399
+GU,SNc,Directed,419,Hippocampal Formation,,0.001570
+GU,IPN,Directed,420,Hippocampal Formation,,0.000143
+GU,PB,Directed,421,Hippocampal Formation,,0.000023
+GU,SUT,Directed,422,Hippocampal Formation,,0.000015
+GU,NTS,Directed,423,Hippocampal Formation,,0.000036
+VISC,GU,Directed,424,Midbrain,,0.006800
+VISC,PARN,Directed,425,Midbrain,,0.000001
+VISC,RM,Directed,426,Midbrain,,0.000041
+AUDd,SSp-bfd,Directed,427,Isocortex,,0.016832
+AUDd,SSp-tr,Directed,428,Isocortex,,0.000000
+AUDd,AUDd,Directed,429,Isocortex,,0.000000
+AUDd,AUDp,Directed,430,Isocortex,,0.000000
+AUDd,AUDv,Directed,431,Isocortex,,0.000000
+AUDd,VISal,Directed,432,Isocortex,,0.000000
+AUDd,VISam,Directed,433,Isocortex,,0.000000
+AUDd,VISl,Directed,434,Isocortex,,0.000000
+AUDd,PTLp,Directed,435,Isocortex,,0.000000
+AUDd,TEa,Directed,436,Isocortex,,0.000000
+AUDd,ECT,Directed,437,Isocortex,,0.000312
+AUDd,CP,Directed,438,Isocortex,,0.050833
+AUDd,SPFp,Directed,439,Isocortex,,0.000003
+AUDd,PP,Directed,440,Isocortex,,0.000000
+AUDd,MGd,Directed,441,Isocortex,,0.000000
+AUDd,MGv,Directed,442,Isocortex,,0.000000
+AUDd,MGm,Directed,443,Isocortex,,0.000000
+AUDd,LGd,Directed,444,Isocortex,,0.000000
+AUDd,POL,Directed,445,Isocortex,,0.000037
+AUDd,RT,Directed,446,Isocortex,,0.004875
+AUDd,LGv,Directed,447,Isocortex,,0.000003
+AUDd,ICc,Directed,448,Isocortex,,0.000000
+AUDd,ICd,Directed,449,Isocortex,,0.000005
+AUDd,ICe,Directed,450,Isocortex,,0.000000
+AUDd,RR,Directed,451,Isocortex,,0.000099
+AUDd,MRN,Directed,452,Isocortex,,0.025285
+AUDd,SCm,Directed,453,Isocortex,,0.000261
+AUDd,NOT,Directed,454,Isocortex,,0.000084
+AUDd,NLL,Directed,455,Isocortex,,0.000764
+AUDd,CENT,Directed,456,Isocortex,,0.001359
+AUDp,AUDv,Directed,457,Isocortex,,0.005332
+AUDp,PTLp,Directed,458,Isocortex,,0.007107
+AUDp,PP,Directed,459,Isocortex,,0.000008
+AUDp,MGv,Directed,460,Isocortex,,0.000096
+AUDp,ICd,Directed,461,Isocortex,,0.000000
+AUDp,ICe,Directed,462,Isocortex,,0.000000
+AUDv,MOs,Directed,463,Isocortex,,0.023984
+AUDv,SSp-bfd,Directed,464,Isocortex,,0.000000
+AUDv,SSp-ll,Directed,465,Isocortex,,0.000000
+AUDv,SSp-ul,Directed,466,Isocortex,,0.000000
+AUDv,SSs,Directed,467,Isocortex,,0.000001
+AUDv,VISC,Directed,468,Isocortex,,0.003949
+AUDv,AUDd,Directed,469,Isocortex,,0.000000
+AUDv,AUDp,Directed,470,Isocortex,,0.000000
+AUDv,AUDv,Directed,471,Isocortex,,0.000000
+AUDv,TEa,Directed,472,Isocortex,,0.000000
+AUDv,ECT,Directed,473,Isocortex,,0.000126
+AUDv,LA,Directed,474,Isocortex,,0.000001
+AUDv,BLA,Directed,475,Isocortex,,0.004737
+AUDv,CEA,Directed,476,Isocortex,,0.000427
+AUDv,VPL,Directed,477,Isocortex,,0.000000
+AUDv,VPM,Directed,478,Isocortex,,0.000007
+AUDv,SPFm,Directed,479,Isocortex,,0.000219
+AUDv,SPFp,Directed,480,Isocortex,,0.000000
+AUDv,SPA,Directed,481,Isocortex,,0.000156
+AUDv,PP,Directed,482,Isocortex,,0.000000
+AUDv,MGd,Directed,483,Isocortex,,0.000000
+AUDv,MGv,Directed,484,Isocortex,,0.000000
+AUDv,MGm,Directed,485,Isocortex,,0.000000
+AUDv,PO,Directed,486,Isocortex,,0.000022
+AUDv,POL,Directed,487,Isocortex,,0.000060
+AUDv,RT,Directed,488,Isocortex,,0.002654
+AUDv,ICc,Directed,489,Isocortex,,0.000038
+AUDv,ICd,Directed,490,Isocortex,,0.000000
+AUDv,ICe,Directed,491,Isocortex,,0.000000
+AUDv,RR,Directed,492,Isocortex,,0.000342
+AUDv,MRN,Directed,493,Isocortex,,0.032375
+AUDv,PAG,Directed,494,Isocortex,,0.026147
+AUDv,CUN,Directed,495,Isocortex,,0.000912
+AUDv,PB,Directed,496,Isocortex,,0.002847
+AUDv,PG,Directed,497,Isocortex,,0.000495
+VISal,VISam,Directed,498,Midbrain,,0.000000
+VISal,VISl,Directed,499,Midbrain,,0.000000
+VISal,VISp,Directed,500,Midbrain,,0.000000
+VISal,VISpl,Directed,501,Midbrain,,0.005444
+VISal,PTLp,Directed,502,Midbrain,,0.000254
+VISal,TEa,Directed,503,Midbrain,,0.012071
+VISal,ECT,Directed,504,Midbrain,,0.011755
+VISal,PP,Directed,505,Midbrain,,0.000004
+VISal,MGd,Directed,506,Midbrain,,0.001646
+VISal,MGv,Directed,507,Midbrain,,0.001579
+VISal,LGd,Directed,508,Midbrain,,0.000000
+VISal,LP,Directed,509,Midbrain,,0.000000
+VISal,LD,Directed,510,Midbrain,,0.000045
+VISal,RT,Directed,511,Midbrain,,0.004066
+VISal,LGv,Directed,512,Midbrain,,0.000000
+VISal,APN,Directed,513,Midbrain,,0.000404
+VISal,NOT,Directed,514,Midbrain,,0.000000
+VISal,PG,Directed,515,Midbrain,,0.002349
+VISam,MOs,Directed,516,Midbrain,,0.018697
+VISam,VISal,Directed,517,Midbrain,,0.000000
+VISam,VISam,Directed,518,Midbrain,,0.000000
+VISam,VISl,Directed,519,Midbrain,,0.000000
+VISam,VISp,Directed,520,Midbrain,,0.000000
+VISam,VISpl,Directed,521,Midbrain,,0.001655
+VISam,VISpm,Directed,522,Midbrain,,0.000000
+VISam,ACAd,Directed,523,Midbrain,,0.000000
+VISam,ACAv,Directed,524,Midbrain,,0.000020
+VISam,ILA,Directed,525,Midbrain,,0.005353
+VISam,ORBvl,Directed,526,Midbrain,,0.000046
+VISam,RSPagl,Directed,527,Midbrain,,0.000000
+VISam,RSPd,Directed,528,Midbrain,,0.000000
+VISam,RSPv,Directed,529,Midbrain,,0.000000
+VISam,PTLp,Directed,530,Midbrain,,0.000000
+VISam,POST,Directed,531,Midbrain,,0.000477
+VISam,CP,Directed,532,Midbrain,,0.094660
+VISam,VPL,Directed,533,Midbrain,,0.002080
+VISam,PP,Directed,534,Midbrain,,0.000112
+VISam,LGd,Directed,535,Midbrain,,0.000000
+VISam,LP,Directed,536,Midbrain,,0.000000
+VISam,PO,Directed,537,Midbrain,,0.006838
+VISam,AV,Directed,538,Midbrain,,0.000000
+VISam,AMd,Directed,539,Midbrain,,0.000032
+VISam,AMv,Directed,540,Midbrain,,0.000007
+VISam,AD,Directed,541,Midbrain,,0.000000
+VISam,LD,Directed,542,Midbrain,,0.000000
+VISam,SMT,Directed,543,Midbrain,,0.000828
+VISam,RH,Directed,544,Midbrain,,0.000001
+VISam,CL,Directed,545,Midbrain,,0.000007
+VISam,RT,Directed,546,Midbrain,,0.000000
+VISam,LGv,Directed,547,Midbrain,,0.000000
+VISam,SCs,Directed,548,Midbrain,,0.000951
+VISam,APN,Directed,549,Midbrain,,0.000154
+VISam,NOT,Directed,550,Midbrain,,0.000000
+VISam,PG,Directed,551,Midbrain,,0.000825
+VISl,AUDd,Directed,552,Midbrain,,0.000000
+VISl,AUDp,Directed,553,Midbrain,,0.008251
+VISl,VISal,Directed,554,Midbrain,,0.000000
+VISl,VISam,Directed,555,Midbrain,,0.000000
+VISl,VISl,Directed,556,Midbrain,,0.000157
+VISl,VISp,Directed,557,Midbrain,,0.000000
+VISl,VISpl,Directed,558,Midbrain,,0.000000
+VISl,VISpm,Directed,559,Midbrain,,0.000000
+VISl,ILA,Directed,560,Midbrain,,0.002266
+VISl,ORBvl,Directed,561,Midbrain,,0.007131
+VISl,RSPagl,Directed,562,Midbrain,,0.000000
+VISl,RSPd,Directed,563,Midbrain,,0.000000
+VISl,RSPv,Directed,564,Midbrain,,0.000037
+VISl,PTLp,Directed,565,Midbrain,,0.000000
+VISl,TEa,Directed,566,Midbrain,,0.000000
+VISl,PERI,Directed,567,Midbrain,,0.002326
+VISl,ECT,Directed,568,Midbrain,,0.000000
+VISl,ENTl,Directed,569,Midbrain,,0.002056
+VISl,ENTm,Directed,570,Midbrain,,0.000830
+VISl,POST,Directed,571,Midbrain,,0.000000
+VISl,MGd,Directed,572,Midbrain,,0.000061
+VISl,MGm,Directed,573,Midbrain,,0.000730
+VISl,LGd,Directed,574,Midbrain,,0.000000
+VISl,LP,Directed,575,Midbrain,,0.000000
+VISl,AD,Directed,576,Midbrain,,0.000014
+VISl,LD,Directed,577,Midbrain,,0.000000
+VISl,RT,Directed,578,Midbrain,,0.000000
+VISl,LGv,Directed,579,Midbrain,,0.000000
+VISl,SCs,Directed,580,Midbrain,,0.000000
+VISl,MPT,Directed,581,Midbrain,,0.000769
+VISl,NOT,Directed,582,Midbrain,,0.000196
+VISp,VISal,Directed,583,Midbrain,,0.000000
+VISp,VISam,Directed,584,Midbrain,,0.000000
+VISp,VISl,Directed,585,Midbrain,,0.000000
+VISp,VISp,Directed,586,Midbrain,,0.000000
+VISp,ACAd,Directed,587,Midbrain,,0.000000
+VISp,ACAv,Directed,588,Midbrain,,0.000377
+VISp,RSPagl,Directed,589,Midbrain,,0.000000
+VISp,RSPd,Directed,590,Midbrain,,0.000000
+VISp,RSPv,Directed,591,Midbrain,,0.000469
+VISp,PTLp,Directed,592,Midbrain,,0.000000
+VISp,ECT,Directed,593,Midbrain,,0.000686
+VISp,POST,Directed,594,Midbrain,,0.000006
+VISp,CP,Directed,595,Midbrain,,0.029330
+VISp,VPL,Directed,596,Midbrain,,0.000237
+VISp,PP,Directed,597,Midbrain,,0.000000
+VISp,MGd,Directed,598,Midbrain,,0.000259
+VISp,MGv,Directed,599,Midbrain,,0.000722
+VISp,LGd,Directed,600,Midbrain,,0.000000
+VISp,LP,Directed,601,Midbrain,,0.000000
+VISp,PO,Directed,602,Midbrain,,0.000418
+VISp,LD,Directed,603,Midbrain,,0.000000
+VISp,RH,Directed,604,Midbrain,,0.000270
+VISp,CL,Directed,605,Midbrain,,0.000022
+VISp,RT,Directed,606,Midbrain,,0.000000
+VISp,LGv,Directed,607,Midbrain,,0.000000
+VISp,SCs,Directed,608,Midbrain,,0.000000
+VISp,APN,Directed,609,Midbrain,,0.000000
+VISp,NOT,Directed,610,Midbrain,,0.000000
+VISp,PG,Directed,611,Midbrain,,0.000000
+VISpl,VISal,Directed,612,Midbrain,,0.007843
+VISpl,RSPv,Directed,613,Midbrain,,0.008556
+VISpl,ENTl,Directed,614,Midbrain,,0.025119
+VISpl,ENTm,Directed,615,Midbrain,,0.005332
+VISpl,PAR,Directed,616,Midbrain,,0.003975
+VISpl,POST,Directed,617,Midbrain,,0.000028
+VISpl,PRE,Directed,618,Midbrain,,0.009362
+VISpl,LGd,Directed,619,Midbrain,,0.000000
+VISpl,LD,Directed,620,Midbrain,,0.001815
+VISpl,LGv,Directed,621,Midbrain,,0.000000
+VISpm,VISl,Directed,622,Midbrain,,0.000681
+VISpm,VISpm,Directed,623,Midbrain,,0.000099
+VISpm,LGd,Directed,624,Midbrain,,0.000000
+VISpm,LGv,Directed,625,Midbrain,,0.000000
+ACAd,MOs,Directed,626,Isocortex,,0.000000
+ACAd,VISal,Directed,627,Isocortex,,0.000000
+ACAd,VISam,Directed,628,Isocortex,,0.000000
+ACAd,VISl,Directed,629,Isocortex,,0.000203
+ACAd,VISp,Directed,630,Isocortex,,0.000007
+ACAd,ACAd,Directed,631,Isocortex,,0.000000
+ACAd,ACAv,Directed,632,Isocortex,,0.000000
+ACAd,PL,Directed,633,Isocortex,,0.002712
+ACAd,ILA,Directed,634,Isocortex,,0.002697
+ACAd,ORBl,Directed,635,Isocortex,,0.004642
+ACAd,ORBm,Directed,636,Isocortex,,0.004656
+ACAd,ORBvl,Directed,637,Isocortex,,0.000000
+ACAd,RSPagl,Directed,638,Isocortex,,0.000061
+ACAd,RSPd,Directed,639,Isocortex,,0.000000
+ACAd,RSPv,Directed,640,Isocortex,,0.000000
+ACAd,PTLp,Directed,641,Isocortex,,0.000000
+ACAd,DP,Directed,642,Isocortex,,0.001300
+ACAd,POST,Directed,643,Isocortex,,0.000465
+ACAd,CP,Directed,644,Isocortex,,0.198515
+ACAd,VM,Directed,645,Isocortex,,0.008895
+ACAd,SPFm,Directed,646,Isocortex,,0.000553
+ACAd,SPFp,Directed,647,Isocortex,,0.000000
+ACAd,PP,Directed,648,Isocortex,,0.000410
+ACAd,MGm,Directed,649,Isocortex,,0.000334
+ACAd,LP,Directed,650,Isocortex,,0.000000
+ACAd,PO,Directed,651,Isocortex,,0.000433
+ACAd,POL,Directed,652,Isocortex,,0.000118
+ACAd,AV,Directed,653,Isocortex,,0.000000
+ACAd,AMd,Directed,654,Isocortex,,0.000000
+ACAd,AMv,Directed,655,Isocortex,,0.000000
+ACAd,LD,Directed,656,Isocortex,,0.000000
+ACAd,SMT,Directed,657,Isocortex,,0.000126
+ACAd,RH,Directed,658,Isocortex,,0.000000
+ACAd,CL,Directed,659,Isocortex,,0.000000
+ACAd,RT,Directed,660,Isocortex,,0.000000
+ACAd,LGv,Directed,661,Isocortex,,0.001547
+ACAd,PH,Directed,662,Isocortex,,0.001936
+ACAd,STN,Directed,663,Isocortex,,0.000025
+ACAd,VTA,Directed,664,Isocortex,,0.004052
+ACAd,MRN,Directed,665,Isocortex,,0.004718
+ACAd,SCm,Directed,666,Isocortex,,0.000000
+ACAd,PAG,Directed,667,Isocortex,,0.057259
+ACAd,APN,Directed,668,Isocortex,,0.000000
+ACAd,MPT,Directed,669,Isocortex,,0.000000
+ACAd,NOT,Directed,670,Isocortex,,0.000002
+ACAd,NPC,Directed,671,Isocortex,,0.000000
+ACAd,IPN,Directed,672,Isocortex,,0.000119
+ACAd,PCG,Directed,673,Isocortex,,0.001311
+ACAd,PG,Directed,674,Isocortex,,0.000000
+ACAd,TRN,Directed,675,Isocortex,,0.000166
+ACAd,CS,Directed,676,Isocortex,,0.000000
+ACAd,NI,Directed,677,Isocortex,,0.000000
+ACAv,ACAv,Directed,678,Isocortex,,0.000218
+ACAv,ORBm,Directed,679,Isocortex,,0.005955
+ACAv,RSPagl,Directed,680,Isocortex,,0.000000
+ACAv,SPA,Directed,681,Isocortex,,0.000237
+ACAv,SUM,Directed,682,Isocortex,,0.000769
+ACAv,RR,Directed,683,Isocortex,,0.000570
+ACAv,MPT,Directed,684,Isocortex,,0.000034
+ACAv,IPN,Directed,685,Isocortex,,0.000006
+ACAv,PCG,Directed,686,Isocortex,,0.000288
+PL,ORBm,Directed,687,Thalamus,,0.001734
+PL,BST,Directed,688,Thalamus,,0.008441
+PL,SPA,Directed,689,Thalamus,,0.000002
+PL,AMd,Directed,690,Thalamus,,0.002114
+PL,AMv,Directed,691,Thalamus,,0.000338
+PL,IMD,Directed,692,Thalamus,,0.000000
+PL,MD,Directed,693,Thalamus,,0.000297
+PL,PVT,Directed,694,Thalamus,,0.000000
+PL,PT,Directed,695,Thalamus,,0.000000
+PL,RE,Directed,696,Thalamus,,0.003724
+PL,LHA,Directed,697,Thalamus,,0.011926
+PL,VTA,Directed,698,Thalamus,,0.002449
+PL,CLI,Directed,699,Thalamus,,0.000236
+PL,DR,Directed,700,Thalamus,,0.000021
+ILA,ACAd,Directed,701,Hippocampal Formation,,0.000754
+ILA,ACAv,Directed,702,Hippocampal Formation,,0.000000
+ILA,PL,Directed,703,Hippocampal Formation,,0.017614
+ILA,ILA,Directed,704,Hippocampal Formation,,0.008838
+ILA,ORBm,Directed,705,Hippocampal Formation,,0.003701
+ILA,ORBvl,Directed,706,Hippocampal Formation,,0.003333
+ILA,LSr,Directed,707,Hippocampal Formation,,0.000537
+ILA,MS,Directed,708,Hippocampal Formation,,0.005448
+ILA,NDB,Directed,709,Hippocampal Formation,,0.002071
+ILA,BST,Directed,710,Hippocampal Formation,,0.001294
+ILA,VM,Directed,711,Hippocampal Formation,,0.000463
+ILA,SPFm,Directed,712,Hippocampal Formation,,0.000000
+ILA,SPA,Directed,713,Hippocampal Formation,,0.000707
+ILA,AV,Directed,714,Hippocampal Formation,,0.002179
+ILA,AMd,Directed,715,Hippocampal Formation,,0.000057
+ILA,AMv,Directed,716,Hippocampal Formation,,0.000000
+ILA,AD,Directed,717,Hippocampal Formation,,0.000117
+ILA,IMD,Directed,718,Hippocampal Formation,,0.000128
+ILA,MD,Directed,719,Hippocampal Formation,,0.000010
+ILA,SMT,Directed,720,Hippocampal Formation,,0.000000
+ILA,PVT,Directed,721,Hippocampal Formation,,0.000000
+ILA,PT,Directed,722,Hippocampal Formation,,0.000000
+ILA,RE,Directed,723,Hippocampal Formation,,0.000000
+ILA,RH,Directed,724,Hippocampal Formation,,0.000000
+ILA,RT,Directed,725,Hippocampal Formation,,0.000800
+ILA,MH,Directed,726,Hippocampal Formation,,0.000453
+ILA,LH,Directed,727,Hippocampal Formation,,0.000524
+ILA,PVH,Directed,728,Hippocampal Formation,,0.000197
+ILA,DMH,Directed,729,Hippocampal Formation,,0.000022
+ILA,MEPO,Directed,730,Hippocampal Formation,,0.001139
+ILA,MPO,Directed,731,Hippocampal Formation,,0.000029
+ILA,PVp,Directed,732,Hippocampal Formation,,0.000281
+ILA,SBPV,Directed,733,Hippocampal Formation,,0.000123
+ILA,AHN,Directed,734,Hippocampal Formation,,0.000120
+ILA,SUM,Directed,735,Hippocampal Formation,,0.000003
+ILA,MPN,Directed,736,Hippocampal Formation,,0.002758
+ILA,PMd,Directed,737,Hippocampal Formation,,0.000290
+ILA,PH,Directed,738,Hippocampal Formation,,0.000000
+ILA,LHA,Directed,739,Hippocampal Formation,,0.000000
+ILA,LPO,Directed,740,Hippocampal Formation,,0.000138
+ILA,RCH,Directed,741,Hippocampal Formation,,0.000655
+ILA,TU,Directed,742,Hippocampal Formation,,0.000136
+ILA,VTA,Directed,743,Hippocampal Formation,,0.000000
+ILA,PAG,Directed,744,Hippocampal Formation,,0.000075
+ILA,MPT,Directed,745,Hippocampal Formation,,0.000001
+ILA,NPC,Directed,746,Hippocampal Formation,,0.002165
+ILA,IPN,Directed,747,Hippocampal Formation,,0.000000
+ILA,CLI,Directed,748,Hippocampal Formation,,0.000000
+ILA,DR,Directed,749,Hippocampal Formation,,0.000029
+ILA,PCG,Directed,750,Hippocampal Formation,,0.000033
+ILA,CS,Directed,751,Hippocampal Formation,,0.000005
+ORBl,FRP,Directed,752,Thalamus,,0.000000
+ORBl,MOs,Directed,753,Thalamus,,0.000000
+ORBl,ACAd,Directed,754,Thalamus,,0.002513
+ORBl,PL,Directed,755,Thalamus,,0.001355
+ORBl,ORBl,Directed,756,Thalamus,,0.000000
+ORBl,ORBm,Directed,757,Thalamus,,0.000000
+ORBl,ORBvl,Directed,758,Thalamus,,0.000000
+ORBl,AId,Directed,759,Thalamus,,0.002041
+ORBl,AIv,Directed,760,Thalamus,,0.000000
+ORBl,AOB,Directed,761,Thalamus,,0.000037
+ORBl,CLA,Directed,762,Thalamus,,0.001151
+ORBl,EPd,Directed,763,Thalamus,,0.005762
+ORBl,AAA,Directed,764,Thalamus,,0.000186
+ORBl,SI,Directed,765,Thalamus,,0.000000
+ORBl,MA,Directed,766,Thalamus,,0.000000
+ORBl,NDB,Directed,767,Thalamus,,0.000444
+ORBl,VAL,Directed,768,Thalamus,,0.000105
+ORBl,VM,Directed,769,Thalamus,,0.000000
+ORBl,AMd,Directed,770,Thalamus,,0.000175
+ORBl,AMv,Directed,771,Thalamus,,0.000029
+ORBl,IMD,Directed,772,Thalamus,,0.000000
+ORBl,MD,Directed,773,Thalamus,,0.000000
+ORBl,SMT,Directed,774,Thalamus,,0.000000
+ORBl,RH,Directed,775,Thalamus,,0.000000
+ORBl,CM,Directed,776,Thalamus,,0.000000
+ORBl,PF,Directed,777,Thalamus,,0.000719
+ORBl,RT,Directed,778,Thalamus,,0.000000
+ORBl,LHA,Directed,779,Thalamus,,0.000010
+ORBl,STN,Directed,780,Thalamus,,0.000057
+ORBl,SNr,Directed,781,Thalamus,,0.000010
+ORBl,VTA,Directed,782,Thalamus,,0.000000
+ORBl,RR,Directed,783,Thalamus,,0.000001
+ORBl,MRN,Directed,784,Thalamus,,0.000000
+ORBl,SCm,Directed,785,Thalamus,,0.026761
+ORBl,PAG,Directed,786,Thalamus,,0.004398
+ORBl,NPC,Directed,787,Thalamus,,0.000214
+ORBl,RN,Directed,788,Thalamus,,0.001467
+ORBl,SNc,Directed,789,Thalamus,,0.000061
+ORBl,IPN,Directed,790,Thalamus,,0.000000
+ORBl,CLI,Directed,791,Thalamus,,0.000000
+ORBl,DR,Directed,792,Thalamus,,0.000000
+ORBl,PG,Directed,793,Thalamus,,0.000552
+ORBl,SUT,Directed,794,Thalamus,,0.000446
+ORBl,TRN,Directed,795,Thalamus,,0.000035
+ORBl,CS,Directed,796,Thalamus,,0.000000
+ORBl,NI,Directed,797,Thalamus,,0.000071
+ORBl,RM,Directed,798,Thalamus,,0.000048
+ORBm,FRP,Directed,799,Thalamus,,0.000000
+ORBm,MOs,Directed,800,Thalamus,,0.026848
+ORBm,ACAd,Directed,801,Thalamus,,0.000001
+ORBm,ACAv,Directed,802,Thalamus,,0.000000
+ORBm,PL,Directed,803,Thalamus,,0.000000
+ORBm,ILA,Directed,804,Thalamus,,0.000000
+ORBm,ORBl,Directed,805,Thalamus,,0.010226
+ORBm,AId,Directed,806,Thalamus,,0.018366
+ORBm,AIv,Directed,807,Thalamus,,0.000000
+ORBm,RSPagl,Directed,808,Thalamus,,0.000110
+ORBm,ACB,Directed,809,Thalamus,,0.000002
+ORBm,OT,Directed,810,Thalamus,,0.025199
+ORBvl,VISam,Directed,811,Thalamus,,0.000619
+ORBvl,RSPagl,Directed,812,Thalamus,,0.003450
+ORBvl,PTLp,Directed,813,Thalamus,,0.009596
+ORBvl,CP,Directed,814,Thalamus,,0.192088
+ORBvl,GPe,Directed,815,Thalamus,,0.006559
+ORBvl,VAL,Directed,816,Thalamus,,0.004644
+ORBvl,VM,Directed,817,Thalamus,,0.000518
+ORBvl,AMv,Directed,818,Thalamus,,0.000104
+ORBvl,MD,Directed,819,Thalamus,,0.000436
+ORBvl,SMT,Directed,820,Thalamus,,0.000000
+ORBvl,RH,Directed,821,Thalamus,,0.000000
+ORBvl,RT,Directed,822,Thalamus,,0.002497
+ORBvl,PCG,Directed,823,Thalamus,,0.002137
+ORBvl,CS,Directed,824,Thalamus,,0.000554
+ORBvl,NI,Directed,825,Thalamus,,0.000306
+AId,FRP,Directed,826,Isocortex,,0.000002
+AId,GU,Directed,827,Isocortex,,0.000000
+AId,VISC,Directed,828,Isocortex,,0.000057
+AId,AId,Directed,829,Isocortex,,0.011117
+AId,AIp,Directed,830,Isocortex,,0.000000
+AId,PERI,Directed,831,Isocortex,,0.000000
+AId,NLOT,Directed,832,Isocortex,,0.001553
+AId,CLA,Directed,833,Isocortex,,0.005128
+AId,EPv,Directed,834,Isocortex,,0.001053
+AId,CP,Directed,835,Isocortex,,0.133737
+AId,FS,Directed,836,Isocortex,,0.002165
+AId,AAA,Directed,837,Isocortex,,0.000003
+AId,CEA,Directed,838,Isocortex,,0.000173
+AId,IA,Directed,839,Isocortex,,0.000098
+AId,GPe,Directed,840,Isocortex,,0.000000
+AId,VPMpc,Directed,841,Isocortex,,0.000608
+AId,SPFm,Directed,842,Isocortex,,0.000061
+AId,SPA,Directed,843,Isocortex,,0.000052
+AId,IMD,Directed,844,Isocortex,,0.000000
+AId,MD,Directed,845,Isocortex,,0.006197
+AId,CLI,Directed,846,Isocortex,,0.000063
+AId,DR,Directed,847,Isocortex,,0.000009
+AIp,FRP,Directed,848,Isocortex,,0.000214
+AIp,AId,Directed,849,Isocortex,,0.001128
+AIp,AIv,Directed,850,Isocortex,,0.000635
+AIp,PERI,Directed,851,Isocortex,,0.001098
+AIp,TR,Directed,852,Isocortex,,0.008343
+AIp,EPv,Directed,853,Isocortex,,0.000025
+AIp,BLA,Directed,854,Isocortex,,0.000390
+AIp,BMA,Directed,855,Isocortex,,0.000137
+AIp,CP,Directed,856,Isocortex,,0.007397
+AIp,ACB,Directed,857,Isocortex,,0.000247
+AIp,FS,Directed,858,Isocortex,,0.000000
+AIp,CEA,Directed,859,Isocortex,,0.000000
+AIp,IA,Directed,860,Isocortex,,0.000000
+AIp,GPe,Directed,861,Isocortex,,0.000000
+AIp,SI,Directed,862,Isocortex,,0.002208
+AIp,BST,Directed,863,Isocortex,,0.000194
+AIp,SPFm,Directed,864,Isocortex,,0.000001
+AIp,SPA,Directed,865,Isocortex,,0.000000
+AIp,IMD,Directed,866,Isocortex,,0.000007
+AIp,RH,Directed,867,Isocortex,,0.000804
+AIp,LHA,Directed,868,Isocortex,,0.007127
+AIp,MRN,Directed,869,Isocortex,,0.015656
+AIp,PB,Directed,870,Isocortex,,0.000006
+AIp,SUT,Directed,871,Isocortex,,0.000000
+AIv,FRP,Directed,872,Isocortex,,0.000462
+AIv,MOs,Directed,873,Isocortex,,0.016705
+AIv,PL,Directed,874,Isocortex,,0.000055
+AIv,ILA,Directed,875,Isocortex,,0.000092
+AIv,ORBl,Directed,876,Isocortex,,0.000000
+AIv,ORBm,Directed,877,Isocortex,,0.000000
+AIv,ORBvl,Directed,878,Isocortex,,0.000000
+AIv,AId,Directed,879,Isocortex,,0.087139
+AIv,AIv,Directed,880,Isocortex,,0.000000
+AIv,TEa,Directed,881,Isocortex,,0.033232
+AIv,ECT,Directed,882,Isocortex,,0.044927
+AIv,AOB,Directed,883,Isocortex,,0.000708
+AIv,AON,Directed,884,Isocortex,,0.022898
+AIv,TT,Directed,885,Isocortex,,0.008531
+AIv,DP,Directed,886,Isocortex,,0.000720
+AIv,PIR,Directed,887,Isocortex,,0.034948
+AIv,EPd,Directed,888,Isocortex,,0.000003
+AIv,ACB,Directed,889,Isocortex,,0.000000
+AIv,OT,Directed,890,Isocortex,,0.003947
+AIv,SI,Directed,891,Isocortex,,0.090561
+AIv,MA,Directed,892,Isocortex,,0.009636
+AIv,PVT,Directed,893,Isocortex,,0.003228
+AIv,LHA,Directed,894,Isocortex,,0.005165
+RSPagl,VISpm,Directed,895,Hypothalamus,,0.015290
+RSPagl,RSPagl,Directed,896,Hypothalamus,,0.001478
+RSPagl,RSPv,Directed,897,Hypothalamus,,0.003198
+RSPagl,LD,Directed,898,Hypothalamus,,0.000000
+RSPd,RSPv,Directed,899,Hypothalamus,,0.015822
+RSPv,VISal,Directed,900,Hypothalamus,,0.000364
+RSPv,VISam,Directed,901,Hypothalamus,,0.010659
+RSPv,VISpm,Directed,902,Hypothalamus,,0.001386
+RSPv,ACAd,Directed,903,Hypothalamus,,0.003957
+RSPv,ACAv,Directed,904,Hypothalamus,,0.000000
+RSPv,RSPagl,Directed,905,Hypothalamus,,0.000000
+RSPv,RSPd,Directed,906,Hypothalamus,,0.000000
+RSPv,RSPv,Directed,907,Hypothalamus,,0.000000
+RSPv,PTLp,Directed,908,Hypothalamus,,0.003579
+RSPv,POST,Directed,909,Hypothalamus,,0.000000
+RSPv,PRE,Directed,910,Hypothalamus,,0.003618
+RSPv,SPFp,Directed,911,Hypothalamus,,0.000045
+RSPv,LGd,Directed,912,Hypothalamus,,0.000735
+RSPv,PO,Directed,913,Hypothalamus,,0.006900
+RSPv,AV,Directed,914,Hypothalamus,,0.000000
+RSPv,AD,Directed,915,Hypothalamus,,0.000000
+RSPv,LD,Directed,916,Hypothalamus,,0.000000
+RSPv,RT,Directed,917,Hypothalamus,,0.000221
+RSPv,LGv,Directed,918,Hypothalamus,,0.000006
+RSPv,APN,Directed,919,Hypothalamus,,0.002844
+RSPv,MPT,Directed,920,Hypothalamus,,0.000163
+RSPv,NOT,Directed,921,Hypothalamus,,0.000394
+RSPv,NPC,Directed,922,Hypothalamus,,0.000002
+RSPv,IPN,Directed,923,Hypothalamus,,0.000135
+RSPv,PG,Directed,924,Hypothalamus,,0.000379
+RSPv,CS,Directed,925,Hypothalamus,,0.001788
+RSPv,NI,Directed,926,Hypothalamus,,0.000362
+PTLp,MOp,Directed,927,Hypothalamus,,0.018033
+PTLp,MOs,Directed,928,Hypothalamus,,0.000029
+PTLp,SSp-tr,Directed,929,Hypothalamus,,0.000016
+PTLp,AUDd,Directed,930,Hypothalamus,,0.000000
+PTLp,AUDp,Directed,931,Hypothalamus,,0.000000
+PTLp,AUDv,Directed,932,Hypothalamus,,0.003151
+PTLp,VISal,Directed,933,Hypothalamus,,0.000000
+PTLp,VISam,Directed,934,Hypothalamus,,0.000000
+PTLp,VISl,Directed,935,Hypothalamus,,0.000000
+PTLp,VISp,Directed,936,Hypothalamus,,0.000000
+PTLp,VISpl,Directed,937,Hypothalamus,,0.002974
+PTLp,VISpm,Directed,938,Hypothalamus,,0.000000
+PTLp,ACAd,Directed,939,Hypothalamus,,0.000000
+PTLp,ACAv,Directed,940,Hypothalamus,,0.000106
+PTLp,ILA,Directed,941,Hypothalamus,,0.000639
+PTLp,ORBvl,Directed,942,Hypothalamus,,0.000002
+PTLp,RSPagl,Directed,943,Hypothalamus,,0.000000
+PTLp,RSPd,Directed,944,Hypothalamus,,0.000000
+PTLp,RSPv,Directed,945,Hypothalamus,,0.000000
+PTLp,PTLp,Directed,946,Hypothalamus,,0.000000
+PTLp,TEa,Directed,947,Hypothalamus,,0.000000
+PTLp,ECT,Directed,948,Hypothalamus,,0.003540
+PTLp,POST,Directed,949,Hypothalamus,,0.000000
+PTLp,CP,Directed,950,Hypothalamus,,0.005030
+PTLp,VPL,Directed,951,Hypothalamus,,0.000001
+PTLp,SPFp,Directed,952,Hypothalamus,,0.000001
+PTLp,PP,Directed,953,Hypothalamus,,0.000000
+PTLp,MGd,Directed,954,Hypothalamus,,0.000000
+PTLp,MGv,Directed,955,Hypothalamus,,0.000000
+PTLp,MGm,Directed,956,Hypothalamus,,0.000004
+PTLp,LGd,Directed,957,Hypothalamus,,0.000312
+PTLp,LP,Directed,958,Hypothalamus,,0.000000
+PTLp,PO,Directed,959,Hypothalamus,,0.000000
+PTLp,POL,Directed,960,Hypothalamus,,0.000000
+PTLp,AV,Directed,961,Hypothalamus,,0.000545
+PTLp,AMd,Directed,962,Hypothalamus,,0.000610
+PTLp,AMv,Directed,963,Hypothalamus,,0.000045
+PTLp,LD,Directed,964,Hypothalamus,,0.000000
+PTLp,RH,Directed,965,Hypothalamus,,0.000293
+PTLp,CL,Directed,966,Hypothalamus,,0.000000
+PTLp,RT,Directed,967,Hypothalamus,,0.000000
+PTLp,LGv,Directed,968,Hypothalamus,,0.000000
+PTLp,ICc,Directed,969,Hypothalamus,,0.000689
+PTLp,ICd,Directed,970,Hypothalamus,,0.000950
+PTLp,ICe,Directed,971,Hypothalamus,,0.000016
+PTLp,SCm,Directed,972,Hypothalamus,,0.000006
+PTLp,APN,Directed,973,Hypothalamus,,0.000000
+PTLp,MPT,Directed,974,Hypothalamus,,0.000001
+PTLp,NOT,Directed,975,Hypothalamus,,0.000000
+PTLp,NPC,Directed,976,Hypothalamus,,0.000000
+PTLp,PCG,Directed,977,Hypothalamus,,0.000631
+PTLp,PG,Directed,978,Hypothalamus,,0.000000
+PTLp,TRN,Directed,979,Hypothalamus,,0.000388
+PTLp,CS,Directed,980,Hypothalamus,,0.000255
+PTLp,NI,Directed,981,Hypothalamus,,0.000093
+TEa,SSs,Directed,982,Midbrain,,0.003121
+TEa,GU,Directed,983,Midbrain,,0.000927
+TEa,VISC,Directed,984,Midbrain,,0.000885
+TEa,AUDv,Directed,985,Midbrain,,0.005216
+TEa,VISam,Directed,986,Midbrain,,0.000000
+TEa,VISl,Directed,987,Midbrain,,0.000000
+TEa,VISpm,Directed,988,Midbrain,,0.000000
+TEa,AId,Directed,989,Midbrain,,0.001733
+TEa,AIp,Directed,990,Midbrain,,0.000145
+TEa,TEa,Directed,991,Midbrain,,0.008805
+TEa,ECT,Directed,992,Midbrain,,0.000004
+TEa,CLA,Directed,993,Midbrain,,0.002851
+TEa,LA,Directed,994,Midbrain,,0.002092
+TEa,BLA,Directed,995,Midbrain,,0.007554
+TEa,CP,Directed,996,Midbrain,,0.011757
+TEa,VPMpc,Directed,997,Midbrain,,0.000230
+TEa,SPA,Directed,998,Midbrain,,0.000050
+TEa,PP,Directed,999,Midbrain,,0.000221
+TEa,MGv,Directed,1000,Midbrain,,0.001675
+TEa,LGd,Directed,1001,Midbrain,,0.000000
+TEa,RT,Directed,1002,Midbrain,,0.000370
+TEa,LGv,Directed,1003,Midbrain,,0.000000
+TEa,SCs,Directed,1004,Midbrain,,0.002222
+PERI,FRP,Directed,1005,Thalamus,,0.001847
+PERI,MOp,Directed,1006,Thalamus,,0.024066
+PERI,MOs,Directed,1007,Thalamus,,0.030188
+PERI,SSp-tr,Directed,1008,Thalamus,,0.033410
+PERI,GU,Directed,1009,Thalamus,,0.000100
+PERI,VISC,Directed,1010,Thalamus,,0.005324
+PERI,AUDv,Directed,1011,Thalamus,,0.000003
+PERI,ACAd,Directed,1012,Thalamus,,0.001895
+PERI,PL,Directed,1013,Thalamus,,0.006768
+PERI,ILA,Directed,1014,Thalamus,,0.000001
+PERI,ORBl,Directed,1015,Thalamus,,0.000461
+PERI,ORBm,Directed,1016,Thalamus,,0.000026
+PERI,ORBvl,Directed,1017,Thalamus,,0.000240
+PERI,AId,Directed,1018,Thalamus,,0.000031
+PERI,AIp,Directed,1019,Thalamus,,0.000000
+PERI,AIv,Directed,1020,Thalamus,,0.000000
+PERI,TEa,Directed,1021,Thalamus,,0.004574
+PERI,PERI,Directed,1022,Thalamus,,0.000000
+PERI,ECT,Directed,1023,Thalamus,,0.000000
+PERI,AON,Directed,1024,Thalamus,,0.002596
+PERI,TT,Directed,1025,Thalamus,,0.000000
+PERI,DP,Directed,1026,Thalamus,,0.000000
+PERI,PIR,Directed,1027,Thalamus,,0.000000
+PERI,NLOT,Directed,1028,Thalamus,,0.000956
+PERI,COAa,Directed,1029,Thalamus,,0.000000
+PERI,PAA,Directed,1030,Thalamus,,0.001189
+PERI,TR,Directed,1031,Thalamus,,0.000012
+PERI,CA2,Directed,1032,Thalamus,,0.000337
+PERI,DG,Directed,1033,Thalamus,,0.010496
+PERI,ENTl,Directed,1034,Thalamus,,0.000000
+PERI,POST,Directed,1035,Thalamus,,0.000000
+PERI,SUBd,Directed,1036,Thalamus,,0.000000
+PERI,CLA,Directed,1037,Thalamus,,0.000000
+PERI,EPd,Directed,1038,Thalamus,,0.000000
+PERI,EPv,Directed,1039,Thalamus,,0.000000
+PERI,LA,Directed,1040,Thalamus,,0.000000
+PERI,BLA,Directed,1041,Thalamus,,0.000000
+PERI,BMA,Directed,1042,Thalamus,,0.000158
+PERI,CP,Directed,1043,Thalamus,,0.000039
+PERI,ACB,Directed,1044,Thalamus,,0.000000
+PERI,FS,Directed,1045,Thalamus,,0.000000
+PERI,OT,Directed,1046,Thalamus,,0.000151
+PERI,LSr,Directed,1047,Thalamus,,0.000192
+PERI,AAA,Directed,1048,Thalamus,,0.000004
+PERI,CEA,Directed,1049,Thalamus,,0.000000
+PERI,IA,Directed,1050,Thalamus,,0.000000
+PERI,MEA,Directed,1051,Thalamus,,0.002089
+PERI,GPe,Directed,1052,Thalamus,,0.000134
+PERI,SI,Directed,1053,Thalamus,,0.000000
+PERI,MA,Directed,1054,Thalamus,,0.000000
+PERI,SPFm,Directed,1055,Thalamus,,0.000049
+PERI,SPFp,Directed,1056,Thalamus,,0.000007
+PERI,SPA,Directed,1057,Thalamus,,0.000221
+PERI,PP,Directed,1058,Thalamus,,0.000001
+PERI,LHA,Directed,1059,Thalamus,,0.002721
+PERI,TU,Directed,1060,Thalamus,,0.002539
+PERI,ICd,Directed,1061,Thalamus,,0.001043
+PERI,RR,Directed,1062,Thalamus,,0.002023
+PERI,PAG,Directed,1063,Thalamus,,0.018939
+PERI,CUN,Directed,1064,Thalamus,,0.001180
+ECT,AUDd,Directed,1065,Olfactory Areas,,0.002212
+ECT,AUDp,Directed,1066,Olfactory Areas,,0.006791
+ECT,AUDv,Directed,1067,Olfactory Areas,,0.009123
+ECT,RSPagl,Directed,1068,Olfactory Areas,,0.003178
+ECT,PTLp,Directed,1069,Olfactory Areas,,0.021524
+ECT,TEa,Directed,1070,Olfactory Areas,,0.006391
+ECT,LA,Directed,1071,Olfactory Areas,,0.000023
+ECT,PP,Directed,1072,Olfactory Areas,,0.000735
+ECT,MGd,Directed,1073,Olfactory Areas,,0.000008
+ECT,MGm,Directed,1074,Olfactory Areas,,0.000012
+ECT,LP,Directed,1075,Olfactory Areas,,0.000000
+ECT,CL,Directed,1076,Olfactory Areas,,0.002582
+ECT,ICe,Directed,1077,Olfactory Areas,,0.003699
+MOB,MOB,Directed,1078,Pallidum,,0.000001
+MOB,AOB,Directed,1079,Pallidum,,0.000098
+AOB,NLOT,Directed,1080,Isocortex,,0.002721
+AOB,COAa,Directed,1081,Isocortex,,0.005120
+AOB,COAp,Directed,1082,Isocortex,,0.008728
+AOB,MEA,Directed,1083,Isocortex,,0.008973
+AON,MOB,Directed,1084,Isocortex,,0.000000
+AON,AOB,Directed,1085,Isocortex,,0.000000
+AON,AON,Directed,1086,Isocortex,,0.000000
+AON,TT,Directed,1087,Isocortex,,0.000000
+AON,DP,Directed,1088,Isocortex,,0.000697
+AON,EPd,Directed,1089,Isocortex,,0.000012
+TT,ORBvl,Directed,1090,Midbrain,,0.009433
+TT,AIv,Directed,1091,Midbrain,,0.003163
+TT,AON,Directed,1092,Midbrain,,0.000000
+TT,TT,Directed,1093,Midbrain,,0.000000
+TT,DP,Directed,1094,Midbrain,,0.000000
+TT,PIR,Directed,1095,Midbrain,,0.000000
+TT,NLOT,Directed,1096,Midbrain,,0.000000
+TT,COAa,Directed,1097,Midbrain,,0.000000
+TT,COAp,Directed,1098,Midbrain,,0.007557
+TT,PAA,Directed,1099,Midbrain,,0.000000
+TT,EPd,Directed,1100,Midbrain,,0.000000
+TT,EPv,Directed,1101,Midbrain,,0.000000
+TT,BMA,Directed,1102,Midbrain,,0.000007
+TT,ACB,Directed,1103,Midbrain,,0.012127
+TT,FS,Directed,1104,Midbrain,,0.000039
+TT,OT,Directed,1105,Midbrain,,0.000000
+TT,LSr,Directed,1106,Midbrain,,0.000000
+TT,AAA,Directed,1107,Midbrain,,0.000000
+TT,IA,Directed,1108,Midbrain,,0.000019
+TT,MEA,Directed,1109,Midbrain,,0.000004
+TT,SI,Directed,1110,Midbrain,,0.000000
+TT,MA,Directed,1111,Midbrain,,0.000000
+TT,MS,Directed,1112,Midbrain,,0.000000
+TT,NDB,Directed,1113,Midbrain,,0.000000
+TT,SMT,Directed,1114,Midbrain,,0.000157
+TT,SUM,Directed,1115,Midbrain,,0.000000
+TT,LHA,Directed,1116,Midbrain,,0.000002
+TT,LPO,Directed,1117,Midbrain,,0.000000
+TT,TU,Directed,1118,Midbrain,,0.000005
+DP,FRP,Directed,1119,Olfactory Areas,,0.002103
+DP,PL,Directed,1120,Olfactory Areas,,0.023436
+DP,ORBm,Directed,1121,Olfactory Areas,,0.001289
+PIR,ORBl,Directed,1122,Thalamus,,0.000085
+PIR,ORBvl,Directed,1123,Thalamus,,0.000126
+PIR,AId,Directed,1124,Thalamus,,0.000009
+PIR,AIp,Directed,1125,Thalamus,,0.000000
+PIR,AIv,Directed,1126,Thalamus,,0.000000
+PIR,PERI,Directed,1127,Thalamus,,0.000000
+PIR,MOB,Directed,1128,Thalamus,,0.000000
+PIR,AOB,Directed,1129,Thalamus,,0.000000
+PIR,AON,Directed,1130,Thalamus,,0.000000
+PIR,TT,Directed,1131,Thalamus,,0.000000
+PIR,DP,Directed,1132,Thalamus,,0.000000
+PIR,PIR,Directed,1133,Thalamus,,0.000000
+PIR,NLOT,Directed,1134,Thalamus,,0.000000
+PIR,COAa,Directed,1135,Thalamus,,0.000000
+PIR,COAp,Directed,1136,Thalamus,,0.000000
+PIR,PAA,Directed,1137,Thalamus,,0.000000
+PIR,TR,Directed,1138,Thalamus,,0.000000
+PIR,ENTl,Directed,1139,Thalamus,,0.000000
+PIR,EPd,Directed,1140,Thalamus,,0.000000
+PIR,EPv,Directed,1141,Thalamus,,0.000000
+PIR,BLA,Directed,1142,Thalamus,,0.000000
+PIR,BMA,Directed,1143,Thalamus,,0.000000
+PIR,FS,Directed,1144,Thalamus,,0.000000
+PIR,OT,Directed,1145,Thalamus,,0.000000
+PIR,LSr,Directed,1146,Thalamus,,0.000461
+PIR,AAA,Directed,1147,Thalamus,,0.000000
+PIR,CEA,Directed,1148,Thalamus,,0.000002
+PIR,IA,Directed,1149,Thalamus,,0.000000
+PIR,MEA,Directed,1150,Thalamus,,0.000019
+PIR,SI,Directed,1151,Thalamus,,0.000000
+PIR,MA,Directed,1152,Thalamus,,0.000000
+PIR,NDB,Directed,1153,Thalamus,,0.000000
+PIR,LPO,Directed,1154,Thalamus,,0.001427
+NLOT,FRP,Directed,1155,Thalamus,,0.003282
+NLOT,ORBm,Directed,1156,Thalamus,,0.009648
+NLOT,CLA,Directed,1157,Thalamus,,0.012707
+NLOT,NDB,Directed,1158,Thalamus,,0.003549
+NLOT,LPO,Directed,1159,Thalamus,,0.004793
+NLOT,TU,Directed,1160,Thalamus,,0.005685
+COAa,AId,Directed,1161,Isocortex,,0.006848
+COAa,AIv,Directed,1162,Isocortex,,0.002695
+COAa,PERI,Directed,1163,Isocortex,,0.014540
+COAa,TT,Directed,1164,Isocortex,,0.006646
+COAa,DP,Directed,1165,Isocortex,,0.001372
+COAa,PIR,Directed,1166,Isocortex,,0.000000
+COAa,NLOT,Directed,1167,Isocortex,,0.000000
+COAa,COAa,Directed,1168,Isocortex,,0.002334
+COAa,COAp,Directed,1169,Isocortex,,0.007227
+COAa,PAA,Directed,1170,Isocortex,,0.000000
+COAa,TR,Directed,1171,Isocortex,,0.000000
+COAa,EPd,Directed,1172,Isocortex,,0.002802
+COAa,EPv,Directed,1173,Isocortex,,0.000000
+COAa,LA,Directed,1174,Isocortex,,0.001088
+COAa,BLA,Directed,1175,Isocortex,,0.000000
+COAa,BMA,Directed,1176,Isocortex,,0.000000
+COAa,ACB,Directed,1177,Isocortex,,0.000042
+COAa,FS,Directed,1178,Isocortex,,0.000000
+COAa,OT,Directed,1179,Isocortex,,0.000000
+COAa,AAA,Directed,1180,Isocortex,,0.000000
+COAa,CEA,Directed,1181,Isocortex,,0.000000
+COAa,IA,Directed,1182,Isocortex,,0.000000
+COAa,MEA,Directed,1183,Isocortex,,0.000000
+COAa,SI,Directed,1184,Isocortex,,0.000000
+COAa,MA,Directed,1185,Isocortex,,0.000000
+COAa,NDB,Directed,1186,Isocortex,,0.000000
+COAa,LHA,Directed,1187,Isocortex,,0.000274
+COAa,LPO,Directed,1188,Isocortex,,0.013690
+COAp,AOB,Directed,1189,Isocortex,,0.000000
+COAp,PIR,Directed,1190,Isocortex,,0.010298
+COAp,NLOT,Directed,1191,Isocortex,,0.000001
+COAp,COAa,Directed,1192,Isocortex,,0.000000
+COAp,COAp,Directed,1193,Isocortex,,0.000000
+COAp,PAA,Directed,1194,Isocortex,,0.000000
+COAp,TR,Directed,1195,Isocortex,,0.000035
+COAp,ENTl,Directed,1196,Isocortex,,0.028478
+COAp,EPd,Directed,1197,Isocortex,,0.000815
+COAp,EPv,Directed,1198,Isocortex,,0.000017
+COAp,BMA,Directed,1199,Isocortex,,0.000000
+COAp,PA,Directed,1200,Isocortex,,0.000003
+COAp,LSr,Directed,1201,Isocortex,,0.003162
+COAp,IA,Directed,1202,Isocortex,,0.000111
+COAp,MEA,Directed,1203,Isocortex,,0.000000
+COAp,BST,Directed,1204,Isocortex,,0.003593
+PAA,AIp,Directed,1205,Thalamus,,0.020038
+PAA,AIv,Directed,1206,Thalamus,,0.012616
+PAA,PERI,Directed,1207,Thalamus,,0.002623
+PAA,ECT,Directed,1208,Thalamus,,0.011476
+PAA,TT,Directed,1209,Thalamus,,0.003601
+PAA,DP,Directed,1210,Thalamus,,0.000852
+PAA,PIR,Directed,1211,Thalamus,,0.041364
+PAA,NLOT,Directed,1212,Thalamus,,0.000000
+PAA,COAa,Directed,1213,Thalamus,,0.000021
+PAA,COAp,Directed,1214,Thalamus,,0.000000
+PAA,PAA,Directed,1215,Thalamus,,0.000028
+PAA,ENTl,Directed,1216,Thalamus,,0.039238
+PAA,EPd,Directed,1217,Thalamus,,0.000000
+PAA,EPv,Directed,1218,Thalamus,,0.000009
+PAA,LA,Directed,1219,Thalamus,,0.000000
+PAA,BLA,Directed,1220,Thalamus,,0.000002
+PAA,BMA,Directed,1221,Thalamus,,0.008084
+PAA,PA,Directed,1222,Thalamus,,0.000000
+PAA,ACB,Directed,1223,Thalamus,,0.027917
+PAA,FS,Directed,1224,Thalamus,,0.000063
+PAA,OT,Directed,1225,Thalamus,,0.000013
+PAA,AAA,Directed,1226,Thalamus,,0.000000
+PAA,CEA,Directed,1227,Thalamus,,0.000017
+PAA,IA,Directed,1228,Thalamus,,0.000000
+PAA,MEA,Directed,1229,Thalamus,,0.000000
+PAA,SI,Directed,1230,Thalamus,,0.014899
+PAA,MA,Directed,1231,Thalamus,,0.000000
+PAA,NDB,Directed,1232,Thalamus,,0.000101
+PAA,VMH,Directed,1233,Thalamus,,0.000837
+TR,AIp,Directed,1234,Midbrain,,0.000020
+TR,PERI,Directed,1235,Midbrain,,0.000001
+TR,PIR,Directed,1236,Midbrain,,0.012461
+TR,NLOT,Directed,1237,Midbrain,,0.000039
+TR,COAa,Directed,1238,Midbrain,,0.000546
+TR,COAp,Directed,1239,Midbrain,,0.009938
+TR,PAA,Directed,1240,Midbrain,,0.000748
+TR,ENTl,Directed,1241,Midbrain,,0.000245
+TR,SUBv,Directed,1242,Midbrain,,0.000262
+TR,CLA,Directed,1243,Midbrain,,0.002737
+TR,EPd,Directed,1244,Midbrain,,0.000000
+TR,EPv,Directed,1245,Midbrain,,0.000000
+TR,BLA,Directed,1246,Midbrain,,0.000000
+TR,BMA,Directed,1247,Midbrain,,0.000000
+TR,PA,Directed,1248,Midbrain,,0.000248
+TR,FS,Directed,1249,Midbrain,,0.000051
+TR,OT,Directed,1250,Midbrain,,0.022242
+TR,AAA,Directed,1251,Midbrain,,0.000542
+TR,CEA,Directed,1252,Midbrain,,0.000000
+TR,IA,Directed,1253,Midbrain,,0.000000
+TR,MEA,Directed,1254,Midbrain,,0.001532
+TR,SI,Directed,1255,Midbrain,,0.009120
+TR,MA,Directed,1256,Midbrain,,0.001015
+TR,BST,Directed,1257,Midbrain,,0.000000
+CA1,ENTm,Directed,1258,Isocortex,,0.002826
+CA1,SUBd,Directed,1259,Isocortex,,0.000000
+CA2,CA1,Directed,1260,Isocortex,,0.000000
+CA2,CA2,Directed,1261,Isocortex,,0.000080
+CA2,CA3,Directed,1262,Isocortex,,0.000000
+CA2,DG,Directed,1263,Isocortex,,0.008682
+CA2,SUBd,Directed,1264,Isocortex,,0.000000
+CA2,LSc,Directed,1265,Isocortex,,0.000000
+CA3,CA1,Directed,1266,Isocortex,,0.000000
+CA3,CA2,Directed,1267,Isocortex,,0.000000
+CA3,CA3,Directed,1268,Isocortex,,0.000000
+CA3,DG,Directed,1269,Isocortex,,0.000000
+CA3,ENTm,Directed,1270,Isocortex,,0.003554
+CA3,SUBv,Directed,1271,Isocortex,,0.000000
+CA3,LSc,Directed,1272,Isocortex,,0.000000
+CA3,LSr,Directed,1273,Isocortex,,0.000000
+CA3,SF,Directed,1274,Isocortex,,0.000000
+CA3,MS,Directed,1275,Isocortex,,0.000003
+CA3,NDB,Directed,1276,Isocortex,,0.000097
+CA3,TRS,Directed,1277,Isocortex,,0.000000
+CA3,LGd,Directed,1278,Isocortex,,0.000239
+CA3,AD,Directed,1279,Isocortex,,0.000000
+CA3,LD,Directed,1280,Isocortex,,0.000003
+CA3,LGv,Directed,1281,Isocortex,,0.000173
+DG,CA1,Directed,1282,Olfactory Areas,,0.000363
+DG,CA2,Directed,1283,Olfactory Areas,,0.000000
+DG,CA3,Directed,1284,Olfactory Areas,,0.000000
+DG,DG,Directed,1285,Olfactory Areas,,0.000000
+DG,ENTm,Directed,1286,Olfactory Areas,,0.003304
+DG,MS,Directed,1287,Olfactory Areas,,0.001327
+DG,NDB,Directed,1288,Olfactory Areas,,0.000097
+ENTl,MOs,Directed,1289,Olfactory Areas,,0.006720
+ENTl,AUDd,Directed,1290,Olfactory Areas,,0.000084
+ENTl,AUDp,Directed,1291,Olfactory Areas,,0.000040
+ENTl,AUDv,Directed,1292,Olfactory Areas,,0.000000
+ENTl,VISal,Directed,1293,Olfactory Areas,,0.000005
+ENTl,VISam,Directed,1294,Olfactory Areas,,0.000000
+ENTl,VISl,Directed,1295,Olfactory Areas,,0.000000
+ENTl,VISp,Directed,1296,Olfactory Areas,,0.000068
+ENTl,VISpl,Directed,1297,Olfactory Areas,,0.001832
+ENTl,VISpm,Directed,1298,Olfactory Areas,,0.000306
+ENTl,ACAd,Directed,1299,Olfactory Areas,,0.000139
+ENTl,ACAv,Directed,1300,Olfactory Areas,,0.000369
+ENTl,PL,Directed,1301,Olfactory Areas,,0.001167
+ENTl,ILA,Directed,1302,Olfactory Areas,,0.000000
+ENTl,ORBm,Directed,1303,Olfactory Areas,,0.000012
+ENTl,ORBvl,Directed,1304,Olfactory Areas,,0.000156
+ENTl,AIp,Directed,1305,Olfactory Areas,,0.000001
+ENTl,AIv,Directed,1306,Olfactory Areas,,0.000000
+ENTl,RSPagl,Directed,1307,Olfactory Areas,,0.000020
+ENTl,RSPd,Directed,1308,Olfactory Areas,,0.000990
+ENTl,PTLp,Directed,1309,Olfactory Areas,,0.000023
+ENTl,TEa,Directed,1310,Olfactory Areas,,0.000000
+ENTl,PERI,Directed,1311,Olfactory Areas,,0.000000
+ENTl,ECT,Directed,1312,Olfactory Areas,,0.000000
+ENTl,AON,Directed,1313,Olfactory Areas,,0.000000
+ENTl,TT,Directed,1314,Olfactory Areas,,0.000000
+ENTl,DP,Directed,1315,Olfactory Areas,,0.000000
+ENTl,PIR,Directed,1316,Olfactory Areas,,0.000000
+ENTl,NLOT,Directed,1317,Olfactory Areas,,0.000000
+ENTl,COAa,Directed,1318,Olfactory Areas,,0.000000
+ENTl,COAp,Directed,1319,Olfactory Areas,,0.000000
+ENTl,PAA,Directed,1320,Olfactory Areas,,0.000000
+ENTl,TR,Directed,1321,Olfactory Areas,,0.000000
+ENTl,CA1,Directed,1322,Olfactory Areas,,0.000000
+ENTl,CA2,Directed,1323,Olfactory Areas,,0.000000
+ENTl,CA3,Directed,1324,Olfactory Areas,,0.000010
+ENTl,DG,Directed,1325,Olfactory Areas,,0.000000
+ENTl,ENTl,Directed,1326,Olfactory Areas,,0.000000
+ENTl,ENTm,Directed,1327,Olfactory Areas,,0.000000
+ENTl,PAR,Directed,1328,Olfactory Areas,,0.000000
+ENTl,POST,Directed,1329,Olfactory Areas,,0.000132
+ENTl,PRE,Directed,1330,Olfactory Areas,,0.000000
+ENTl,SUBd,Directed,1331,Olfactory Areas,,0.000000
+ENTl,SUBv,Directed,1332,Olfactory Areas,,0.000000
+ENTl,CLA,Directed,1333,Olfactory Areas,,0.000000
+ENTl,EPd,Directed,1334,Olfactory Areas,,0.000000
+ENTl,EPv,Directed,1335,Olfactory Areas,,0.000000
+ENTl,LA,Directed,1336,Olfactory Areas,,0.000000
+ENTl,BLA,Directed,1337,Olfactory Areas,,0.000000
+ENTl,BMA,Directed,1338,Olfactory Areas,,0.000000
+ENTl,PA,Directed,1339,Olfactory Areas,,0.000000
+ENTl,CP,Directed,1340,Olfactory Areas,,0.013794
+ENTl,ACB,Directed,1341,Olfactory Areas,,0.000000
+ENTl,FS,Directed,1342,Olfactory Areas,,0.000000
+ENTl,OT,Directed,1343,Olfactory Areas,,0.000000
+ENTl,LSr,Directed,1344,Olfactory Areas,,0.001287
+ENTl,SF,Directed,1345,Olfactory Areas,,0.000000
+ENTl,AAA,Directed,1346,Olfactory Areas,,0.000000
+ENTl,CEA,Directed,1347,Olfactory Areas,,0.000000
+ENTl,IA,Directed,1348,Olfactory Areas,,0.000000
+ENTl,MEA,Directed,1349,Olfactory Areas,,0.000021
+ENTl,SI,Directed,1350,Olfactory Areas,,0.000000
+ENTl,MA,Directed,1351,Olfactory Areas,,0.000000
+ENTl,MS,Directed,1352,Olfactory Areas,,0.000023
+ENTl,NDB,Directed,1353,Olfactory Areas,,0.000000
+ENTl,TRS,Directed,1354,Olfactory Areas,,0.000000
+ENTl,BST,Directed,1355,Olfactory Areas,,0.000025
+ENTm,VISl,Directed,1356,Olfactory Areas,,0.001432
+ENTm,VISpm,Directed,1357,Olfactory Areas,,0.000347
+ENTm,RSPagl,Directed,1358,Olfactory Areas,,0.000222
+ENTm,RSPd,Directed,1359,Olfactory Areas,,0.002634
+ENTm,TEa,Directed,1360,Olfactory Areas,,0.005740
+ENTm,ECT,Directed,1361,Olfactory Areas,,0.007359
+ENTm,CA1,Directed,1362,Olfactory Areas,,0.000479
+ENTm,CA3,Directed,1363,Olfactory Areas,,0.000073
+ENTm,DG,Directed,1364,Olfactory Areas,,0.000000
+ENTm,ENTm,Directed,1365,Olfactory Areas,,0.000058
+ENTm,PAR,Directed,1366,Olfactory Areas,,0.000000
+ENTm,PRE,Directed,1367,Olfactory Areas,,0.000292
+ENTm,SUBv,Directed,1368,Olfactory Areas,,0.000030
+ENTm,SF,Directed,1369,Olfactory Areas,,0.000000
+ENTm,TRS,Directed,1370,Olfactory Areas,,0.000000
+ENTm,AV,Directed,1371,Olfactory Areas,,0.000148
+ENTm,AD,Directed,1372,Olfactory Areas,,0.000000
+ENTm,LD,Directed,1373,Olfactory Areas,,0.000000
+PAR,ENTm,Directed,1374,Thalamus,,0.000000
+PAR,POST,Directed,1375,Thalamus,,0.002841
+POST,RSPv,Directed,1376,Thalamus,,0.000874
+POST,ECT,Directed,1377,Thalamus,,0.000000
+POST,ENTm,Directed,1378,Thalamus,,0.000663
+POST,POST,Directed,1379,Thalamus,,0.000014
+POST,PRE,Directed,1380,Thalamus,,0.000012
+POST,SUBd,Directed,1381,Thalamus,,0.007585
+POST,SF,Directed,1382,Thalamus,,0.001957
+POST,AV,Directed,1383,Thalamus,,0.000642
+POST,AD,Directed,1384,Thalamus,,0.000196
+POST,LD,Directed,1385,Thalamus,,0.000000
+POST,RT,Directed,1386,Thalamus,,0.002498
+SUBd,VISp,Directed,1387,Midbrain,,0.000862
+SUBd,ILA,Directed,1388,Midbrain,,0.000050
+SUBd,RSPv,Directed,1389,Midbrain,,0.000000
+SUBd,PERI,Directed,1390,Midbrain,,0.000000
+SUBd,AON,Directed,1391,Midbrain,,0.001677
+SUBd,TT,Directed,1392,Midbrain,,0.000000
+SUBd,DP,Directed,1393,Midbrain,,0.000000
+SUBd,TR,Directed,1394,Midbrain,,0.003744
+SUBd,CA1,Directed,1395,Midbrain,,0.000000
+SUBd,CA2,Directed,1396,Midbrain,,0.000000
+SUBd,CA3,Directed,1397,Midbrain,,0.001563
+SUBd,ENTl,Directed,1398,Midbrain,,0.000004
+SUBd,ENTm,Directed,1399,Midbrain,,0.000311
+SUBd,PAR,Directed,1400,Midbrain,,0.000000
+SUBd,POST,Directed,1401,Midbrain,,0.000000
+SUBd,PRE,Directed,1402,Midbrain,,0.000000
+SUBd,SUBd,Directed,1403,Midbrain,,0.000000
+SUBd,SUBv,Directed,1404,Midbrain,,0.000000
+SUBd,EPv,Directed,1405,Midbrain,,0.001868
+SUBd,ACB,Directed,1406,Midbrain,,0.000000
+SUBd,LSc,Directed,1407,Midbrain,,0.000000
+SUBd,LSr,Directed,1408,Midbrain,,0.000000
+SUBd,SF,Directed,1409,Midbrain,,0.000000
+SUBd,MEA,Directed,1410,Midbrain,,0.003857
+SUBd,SI,Directed,1411,Midbrain,,0.000179
+SUBd,MS,Directed,1412,Midbrain,,0.000000
+SUBd,NDB,Directed,1413,Midbrain,,0.000000
+SUBd,TRS,Directed,1414,Midbrain,,0.000000
+SUBd,BST,Directed,1415,Midbrain,,0.000002
+SUBd,SPFm,Directed,1416,Midbrain,,0.000000
+SUBd,SPA,Directed,1417,Midbrain,,0.000027
+SUBd,LGd,Directed,1418,Midbrain,,0.000175
+SUBd,LP,Directed,1419,Midbrain,,0.002355
+SUBd,AV,Directed,1420,Midbrain,,0.000029
+SUBd,AMd,Directed,1421,Midbrain,,0.000000
+SUBd,AMv,Directed,1422,Midbrain,,0.000000
+SUBd,AD,Directed,1423,Midbrain,,0.000434
+SUBd,LD,Directed,1424,Midbrain,,0.000021
+SUBd,IMD,Directed,1425,Midbrain,,0.000599
+SUBd,SMT,Directed,1426,Midbrain,,0.000001
+SUBd,PT,Directed,1427,Midbrain,,0.000001
+SUBd,RE,Directed,1428,Midbrain,,0.000000
+SUBd,RH,Directed,1429,Midbrain,,0.000000
+SUBd,DMH,Directed,1430,Midbrain,,0.000011
+SUBd,MEPO,Directed,1431,Midbrain,,0.000000
+SUBd,MPO,Directed,1432,Midbrain,,0.000759
+SUBd,AHN,Directed,1433,Midbrain,,0.000000
+SUBd,MM,Directed,1434,Midbrain,,0.000000
+SUBd,SUM,Directed,1435,Midbrain,,0.000000
+SUBd,PMd,Directed,1436,Midbrain,,0.000000
+SUBd,PH,Directed,1437,Midbrain,,0.000000
+SUBd,LHA,Directed,1438,Midbrain,,0.000000
+SUBd,LPO,Directed,1439,Midbrain,,0.000000
+SUBd,RCH,Directed,1440,Midbrain,,0.000000
+SUBd,TU,Directed,1441,Midbrain,,0.000000
+SUBv,ILA,Directed,1442,Midbrain,,0.001672
+SUBv,RSPv,Directed,1443,Midbrain,,0.000000
+SUBv,ENTl,Directed,1444,Midbrain,,0.009865
+SUBv,ENTm,Directed,1445,Midbrain,,0.000050
+SUBv,PAR,Directed,1446,Midbrain,,0.000000
+SUBv,POST,Directed,1447,Midbrain,,0.000000
+SUBv,PRE,Directed,1448,Midbrain,,0.000000
+SUBv,SUBv,Directed,1449,Midbrain,,0.000000
+SUBv,BMA,Directed,1450,Midbrain,,0.000090
+SUBv,PA,Directed,1451,Midbrain,,0.000008
+SUBv,ACB,Directed,1452,Midbrain,,0.000000
+SUBv,LSr,Directed,1453,Midbrain,,0.000000
+SUBv,SF,Directed,1454,Midbrain,,0.000000
+SUBv,MS,Directed,1455,Midbrain,,0.000000
+SUBv,TRS,Directed,1456,Midbrain,,0.000000
+SUBv,BST,Directed,1457,Midbrain,,0.000082
+SUBv,SPFm,Directed,1458,Midbrain,,0.000004
+SUBv,AV,Directed,1459,Midbrain,,0.000000
+SUBv,AMd,Directed,1460,Midbrain,,0.000000
+SUBv,AMv,Directed,1461,Midbrain,,0.000000
+SUBv,AD,Directed,1462,Midbrain,,0.000000
+SUBv,PVT,Directed,1463,Midbrain,,0.000000
+SUBv,PT,Directed,1464,Midbrain,,0.000000
+SUBv,RE,Directed,1465,Midbrain,,0.000000
+SUBv,RH,Directed,1466,Midbrain,,0.000000
+SUBv,PVH,Directed,1467,Midbrain,,0.000000
+SUBv,DMH,Directed,1468,Midbrain,,0.000005
+SUBv,MEPO,Directed,1469,Midbrain,,0.000004
+SUBv,MPO,Directed,1470,Midbrain,,0.000013
+SUBv,SBPV,Directed,1471,Midbrain,,0.000000
+SUBv,AHN,Directed,1472,Midbrain,,0.000000
+SUBv,MM,Directed,1473,Midbrain,,0.000000
+SUBv,SUM,Directed,1474,Midbrain,,0.000000
+SUBv,PMd,Directed,1475,Midbrain,,0.000000
+SUBv,PH,Directed,1476,Midbrain,,0.000000
+SUBv,LHA,Directed,1477,Midbrain,,0.000000
+SUBv,LPO,Directed,1478,Midbrain,,0.000062
+SUBv,RCH,Directed,1479,Midbrain,,0.000000
+SUBv,TU,Directed,1480,Midbrain,,0.000000
+SUBv,IPN,Directed,1481,Midbrain,,0.000173
+CLA,MOs,Directed,1482,Isocortex,,0.097533
+CLA,SSp-n,Directed,1483,Isocortex,,0.003145
+CLA,SSs,Directed,1484,Isocortex,,0.000000
+CLA,GU,Directed,1485,Isocortex,,0.000034
+CLA,VISC,Directed,1486,Isocortex,,0.006536
+CLA,AUDv,Directed,1487,Isocortex,,0.000000
+CLA,VISam,Directed,1488,Isocortex,,0.001246
+CLA,VISp,Directed,1489,Isocortex,,0.025986
+CLA,VISpm,Directed,1490,Isocortex,,0.000188
+CLA,ACAd,Directed,1491,Isocortex,,0.003869
+CLA,ACAv,Directed,1492,Isocortex,,0.006229
+CLA,PL,Directed,1493,Isocortex,,0.015893
+CLA,ILA,Directed,1494,Isocortex,,0.000002
+CLA,ORBm,Directed,1495,Isocortex,,0.005881
+CLA,AId,Directed,1496,Isocortex,,0.001580
+CLA,AIv,Directed,1497,Isocortex,,0.000001
+CLA,RSPagl,Directed,1498,Isocortex,,0.001819
+CLA,RSPd,Directed,1499,Isocortex,,0.006247
+CLA,RSPv,Directed,1500,Isocortex,,0.022070
+CLA,TEa,Directed,1501,Isocortex,,0.000018
+CLA,PERI,Directed,1502,Isocortex,,0.000000
+CLA,ECT,Directed,1503,Isocortex,,0.000000
+CLA,TT,Directed,1504,Isocortex,,0.006811
+CLA,PIR,Directed,1505,Isocortex,,0.009419
+CLA,NLOT,Directed,1506,Isocortex,,0.002829
+CLA,COAa,Directed,1507,Isocortex,,0.008199
+CLA,ENTl,Directed,1508,Isocortex,,0.003246
+CLA,ENTm,Directed,1509,Isocortex,,0.018110
+CLA,PAR,Directed,1510,Isocortex,,0.005144
+CLA,POST,Directed,1511,Isocortex,,0.000014
+CLA,CLA,Directed,1512,Isocortex,,0.000028
+CLA,EPd,Directed,1513,Isocortex,,0.000000
+CLA,LA,Directed,1514,Isocortex,,0.000809
+CLA,AAA,Directed,1515,Isocortex,,0.005606
+CLA,GPi,Directed,1516,Isocortex,,0.000000
+CLA,VM,Directed,1517,Isocortex,,0.009835
+CLA,SPFm,Directed,1518,Isocortex,,0.000267
+CLA,SPA,Directed,1519,Isocortex,,0.000307
+CLA,IMD,Directed,1520,Isocortex,,0.000032
+CLA,SMT,Directed,1521,Isocortex,,0.001577
+CLA,PVT,Directed,1522,Isocortex,,0.000000
+CLA,PT,Directed,1523,Isocortex,,0.002893
+CLA,RE,Directed,1524,Isocortex,,0.002553
+CLA,RH,Directed,1525,Isocortex,,0.000277
+CLA,LHA,Directed,1526,Isocortex,,0.022267
+CLA,VTA,Directed,1527,Isocortex,,0.008522
+CLA,RR,Directed,1528,Isocortex,,0.004187
+CLA,SNc,Directed,1529,Isocortex,,0.000000
+CLA,CLI,Directed,1530,Isocortex,,0.000193
+CLA,PB,Directed,1531,Isocortex,,0.002094
+EPd,COAp,Directed,1532,Olfactory Areas,,0.000976
+EPd,ENTl,Directed,1533,Olfactory Areas,,0.015635
+EPd,EPd,Directed,1534,Olfactory Areas,,0.019388
+EPd,PA,Directed,1535,Olfactory Areas,,0.001190
+EPv,COAa,Directed,1536,Olfactory Areas,,0.000000
+EPv,COAp,Directed,1537,Olfactory Areas,,0.000000
+EPv,PAA,Directed,1538,Olfactory Areas,,0.000000
+EPv,TR,Directed,1539,Olfactory Areas,,0.000000
+EPv,ENTl,Directed,1540,Olfactory Areas,,0.000000
+EPv,ENTm,Directed,1541,Olfactory Areas,,0.038169
+EPv,BMA,Directed,1542,Olfactory Areas,,0.000000
+EPv,PA,Directed,1543,Olfactory Areas,,0.008503
+EPv,IA,Directed,1544,Olfactory Areas,,0.000619
+EPv,LHA,Directed,1545,Olfactory Areas,,0.049396
+LA,AUDv,Directed,1546,Cortical Subplate,,0.000000
+LA,TEa,Directed,1547,Cortical Subplate,,0.000000
+LA,PERI,Directed,1548,Cortical Subplate,,0.000020
+LA,ECT,Directed,1549,Cortical Subplate,,0.000000
+LA,COAp,Directed,1550,Cortical Subplate,,0.000003
+LA,PAA,Directed,1551,Cortical Subplate,,0.000000
+LA,TR,Directed,1552,Cortical Subplate,,0.000009
+LA,ENTl,Directed,1553,Cortical Subplate,,0.060443
+LA,LA,Directed,1554,Cortical Subplate,,0.000000
+LA,BLA,Directed,1555,Cortical Subplate,,0.000004
+LA,BMA,Directed,1556,Cortical Subplate,,0.000000
+LA,PA,Directed,1557,Cortical Subplate,,0.002586
+LA,CEA,Directed,1558,Cortical Subplate,,0.000000
+LA,IA,Directed,1559,Cortical Subplate,,0.000000
+LA,MEA,Directed,1560,Cortical Subplate,,0.007484
+LA,PP,Directed,1561,Cortical Subplate,,0.000000
+LA,RR,Directed,1562,Cortical Subplate,,0.002491
+BLA,FRP,Directed,1563,Isocortex,,0.000000
+BLA,MOs,Directed,1564,Isocortex,,0.000004
+BLA,GU,Directed,1565,Isocortex,,0.002066
+BLA,ACAd,Directed,1566,Isocortex,,0.000000
+BLA,ACAv,Directed,1567,Isocortex,,0.000002
+BLA,PL,Directed,1568,Isocortex,,0.000000
+BLA,ILA,Directed,1569,Isocortex,,0.000000
+BLA,ORBl,Directed,1570,Isocortex,,0.000259
+BLA,ORBm,Directed,1571,Isocortex,,0.000000
+BLA,ORBvl,Directed,1572,Isocortex,,0.000000
+BLA,AId,Directed,1573,Isocortex,,0.000000
+BLA,AIv,Directed,1574,Isocortex,,0.000000
+BLA,TT,Directed,1575,Isocortex,,0.003451
+BLA,DP,Directed,1576,Isocortex,,0.000000
+BLA,NLOT,Directed,1577,Isocortex,,0.000000
+BLA,ENTm,Directed,1578,Isocortex,,0.009493
+BLA,PAR,Directed,1579,Isocortex,,0.005494
+BLA,SUBv,Directed,1580,Isocortex,,0.012972
+BLA,CLA,Directed,1581,Isocortex,,0.000000
+BLA,EPd,Directed,1582,Isocortex,,0.000000
+BLA,EPv,Directed,1583,Isocortex,,0.001324
+BLA,PA,Directed,1584,Isocortex,,0.000279
+BLA,CP,Directed,1585,Isocortex,,0.000000
+BLA,ACB,Directed,1586,Isocortex,,0.000000
+BLA,FS,Directed,1587,Isocortex,,0.000000
+BLA,OT,Directed,1588,Isocortex,,0.000000
+BLA,AAA,Directed,1589,Isocortex,,0.000000
+BLA,CEA,Directed,1590,Isocortex,,0.000000
+BLA,MEA,Directed,1591,Isocortex,,0.000994
+BLA,GPe,Directed,1592,Isocortex,,0.000000
+BLA,SI,Directed,1593,Isocortex,,0.000000
+BLA,MA,Directed,1594,Isocortex,,0.000000
+BLA,NDB,Directed,1595,Isocortex,,0.003385
+BLA,BST,Directed,1596,Isocortex,,0.000000
+BLA,LPO,Directed,1597,Isocortex,,0.000140
+BMA,PERI,Directed,1598,Isocortex,,0.002332
+BMA,ECT,Directed,1599,Isocortex,,0.004586
+BMA,TR,Directed,1600,Isocortex,,0.000015
+BMA,ENTl,Directed,1601,Isocortex,,0.012376
+BMA,SUBv,Directed,1602,Isocortex,,0.005124
+BMA,LA,Directed,1603,Isocortex,,0.000000
+BMA,PA,Directed,1604,Isocortex,,0.000000
+BMA,LSr,Directed,1605,Isocortex,,0.004522
+BMA,LSv,Directed,1606,Isocortex,,0.000696
+BMA,AAA,Directed,1607,Isocortex,,0.000002
+BMA,CEA,Directed,1608,Isocortex,,0.000000
+BMA,MA,Directed,1609,Isocortex,,0.000359
+BMA,NDB,Directed,1610,Isocortex,,0.000017
+BMA,BST,Directed,1611,Isocortex,,0.000000
+BMA,PT,Directed,1612,Isocortex,,0.000545
+BMA,PVH,Directed,1613,Isocortex,,0.000021
+BMA,DMH,Directed,1614,Isocortex,,0.001421
+BMA,MEPO,Directed,1615,Isocortex,,0.000179
+BMA,MPO,Directed,1616,Isocortex,,0.000000
+BMA,PVpo,Directed,1617,Isocortex,,0.000000
+BMA,SUM,Directed,1618,Isocortex,,0.000437
+BMA,MPN,Directed,1619,Isocortex,,0.000000
+BMA,LHA,Directed,1620,Isocortex,,0.000000
+BMA,LPO,Directed,1621,Isocortex,,0.000000
+BMA,RCH,Directed,1622,Isocortex,,0.000014
+BMA,TU,Directed,1623,Isocortex,,0.000000
+PA,AOB,Directed,1624,Thalamus,,0.000829
+PA,COAa,Directed,1625,Thalamus,,0.000358
+PA,PAA,Directed,1626,Thalamus,,0.000007
+PA,ENTl,Directed,1627,Thalamus,,0.080236
+PA,ENTm,Directed,1628,Thalamus,,0.025160
+PA,SUBv,Directed,1629,Thalamus,,0.007938
+PA,LA,Directed,1630,Thalamus,,0.000137
+PA,BMA,Directed,1631,Thalamus,,0.000001
+PA,LSr,Directed,1632,Thalamus,,0.000017
+PA,LSv,Directed,1633,Thalamus,,0.000000
+PA,IA,Directed,1634,Thalamus,,0.000000
+PA,MEA,Directed,1635,Thalamus,,0.000000
+PA,BST,Directed,1636,Thalamus,,0.000000
+PA,ARH,Directed,1637,Thalamus,,0.000000
+PA,MPO,Directed,1638,Thalamus,,0.000002
+PA,PVp,Directed,1639,Thalamus,,0.000851
+PA,PVpo,Directed,1640,Thalamus,,0.000021
+PA,SBPV,Directed,1641,Thalamus,,0.000005
+PA,AHN,Directed,1642,Thalamus,,0.000000
+PA,MPN,Directed,1643,Thalamus,,0.000000
+PA,VMH,Directed,1644,Thalamus,,0.000000
+PA,RCH,Directed,1645,Thalamus,,0.000000
+PA,TU,Directed,1646,Thalamus,,0.000000
+CP,VISC,Directed,1647,Isocortex,,0.000311
+CP,AIp,Directed,1648,Isocortex,,0.000007
+CP,GPe,Directed,1649,Isocortex,,0.000000
+CP,GPi,Directed,1650,Isocortex,,0.000000
+CP,SNr,Directed,1651,Isocortex,,0.000000
+CP,SNc,Directed,1652,Isocortex,,0.000000
+ACB,AON,Directed,1653,Isocortex,,0.000345
+ACB,TT,Directed,1654,Isocortex,,0.005847
+ACB,LSv,Directed,1655,Isocortex,,0.000359
+ACB,SI,Directed,1656,Isocortex,,0.000000
+ACB,MA,Directed,1657,Isocortex,,0.000535
+ACB,BST,Directed,1658,Isocortex,,0.000097
+ACB,PT,Directed,1659,Isocortex,,0.000596
+ACB,MPO,Directed,1660,Isocortex,,0.001718
+ACB,LHA,Directed,1661,Isocortex,,0.001096
+ACB,LPO,Directed,1662,Isocortex,,0.000002
+ACB,VTA,Directed,1663,Isocortex,,0.000976
+ACB,RR,Directed,1664,Isocortex,,0.000036
+ACB,SNc,Directed,1665,Isocortex,,0.000000
+FS,NLOT,Directed,1666,Hippocampal Formation,,0.002694
+FS,SNr,Directed,1667,Hippocampal Formation,,0.013499
+FS,RR,Directed,1668,Hippocampal Formation,,0.006207
+FS,SNc,Directed,1669,Hippocampal Formation,,0.000000
+OT,AON,Directed,1670,Thalamus,,0.000240
+OT,TT,Directed,1671,Thalamus,,0.000000
+OT,DP,Directed,1672,Thalamus,,0.000141
+OT,NLOT,Directed,1673,Thalamus,,0.000006
+OT,AAA,Directed,1674,Thalamus,,0.000000
+OT,SI,Directed,1675,Thalamus,,0.000705
+OT,MA,Directed,1676,Thalamus,,0.000000
+OT,NDB,Directed,1677,Thalamus,,0.000000
+OT,LHA,Directed,1678,Thalamus,,0.019082
+OT,LPO,Directed,1679,Thalamus,,0.000000
+OT,VTA,Directed,1680,Thalamus,,0.003129
+OT,CLI,Directed,1681,Thalamus,,0.000007
+LSr,BST,Directed,1682,Striatum,,0.000975
+LSr,PVH,Directed,1683,Striatum,,0.000112
+LSr,MPO,Directed,1684,Striatum,,0.000000
+LSr,PVpo,Directed,1685,Striatum,,0.000046
+LSr,SBPV,Directed,1686,Striatum,,0.000000
+LSr,AHN,Directed,1687,Striatum,,0.000000
+LSr,MPN,Directed,1688,Striatum,,0.000156
+LSr,LPO,Directed,1689,Striatum,,0.000000
+LSr,RCH,Directed,1690,Striatum,,0.000505
+AAA,MOB,Directed,1691,Isocortex,,0.000478
+AAA,AON,Directed,1692,Isocortex,,0.000708
+AAA,PIR,Directed,1693,Isocortex,,0.017274
+AAA,EPd,Directed,1694,Isocortex,,0.007939
+AAA,SPA,Directed,1695,Isocortex,,0.000094
+AAA,IMD,Directed,1696,Isocortex,,0.001043
+AAA,VTA,Directed,1697,Isocortex,,0.000097
+AAA,DR,Directed,1698,Isocortex,,0.000024
+CEA,SPFp,Directed,1699,Isocortex,,0.000908
+CEA,PP,Directed,1700,Isocortex,,0.000006
+CEA,STN,Directed,1701,Isocortex,,0.000007
+CEA,RR,Directed,1702,Isocortex,,0.000000
+CEA,CUN,Directed,1703,Isocortex,,0.001088
+CEA,PB,Directed,1704,Isocortex,,0.000000
+CEA,PRNc,Directed,1705,Isocortex,,0.004005
+CEA,SUT,Directed,1706,Isocortex,,0.000000
+CEA,V,Directed,1707,Isocortex,,0.000000
+CEA,NTS,Directed,1708,Isocortex,,0.000000
+CEA,SPVO,Directed,1709,Isocortex,,0.000076
+CEA,IRN,Directed,1710,Isocortex,,0.000000
+CEA,MDRNd,Directed,1711,Isocortex,,0.000082
+CEA,PARN,Directed,1712,Isocortex,,0.000000
+CEA,PGRNl,Directed,1713,Isocortex,,0.000765
+IA,FS,Directed,1714,Hippocampal Formation,,0.002937
+IA,OT,Directed,1715,Hippocampal Formation,,0.015119
+IA,SI,Directed,1716,Hippocampal Formation,,0.008369
+MEA,AOB,Directed,1717,Pallidum,,0.000058
+MEA,COAp,Directed,1718,Pallidum,,0.000000
+MEA,PAA,Directed,1719,Pallidum,,0.000947
+MEA,PA,Directed,1720,Pallidum,,0.000000
+MEA,LSv,Directed,1721,Pallidum,,0.000245
+MEA,BST,Directed,1722,Pallidum,,0.000000
+MEA,PVH,Directed,1723,Pallidum,,0.000000
+MEA,ARH,Directed,1724,Pallidum,,0.000000
+MEA,DMH,Directed,1725,Pallidum,,0.000044
+MEA,MPO,Directed,1726,Pallidum,,0.000185
+MEA,PVp,Directed,1727,Pallidum,,0.000000
+MEA,PVpo,Directed,1728,Pallidum,,0.000084
+MEA,SBPV,Directed,1729,Pallidum,,0.000000
+MEA,AHN,Directed,1730,Pallidum,,0.000000
+MEA,MPN,Directed,1731,Pallidum,,0.000146
+MEA,VMH,Directed,1732,Pallidum,,0.000000
+MEA,LHA,Directed,1733,Pallidum,,0.000016
+MEA,RCH,Directed,1734,Pallidum,,0.000000
+MEA,TU,Directed,1735,Pallidum,,0.000000
+GPe,GPi,Directed,1736,Hippocampal Formation,,0.000064
+GPe,PP,Directed,1737,Hippocampal Formation,,0.000000
+GPe,RT,Directed,1738,Hippocampal Formation,,0.000660
+GPe,STN,Directed,1739,Hippocampal Formation,,0.000000
+GPe,SNr,Directed,1740,Hippocampal Formation,,0.005802
+GPe,RR,Directed,1741,Hippocampal Formation,,0.000001
+GPe,SNc,Directed,1742,Hippocampal Formation,,0.000000
+GPi,BMA,Directed,1743,Hippocampal Formation,,0.052764
+GPi,GPe,Directed,1744,Hippocampal Formation,,0.038155
+GPi,MA,Directed,1745,Hippocampal Formation,,0.004663
+GPi,VAL,Directed,1746,Hippocampal Formation,,0.041449
+GPi,VM,Directed,1747,Hippocampal Formation,,0.013955
+GPi,VPMpc,Directed,1748,Hippocampal Formation,,0.001760
+GPi,SPFp,Directed,1749,Hippocampal Formation,,0.005336
+GPi,SPA,Directed,1750,Hippocampal Formation,,0.000089
+GPi,IMD,Directed,1751,Hippocampal Formation,,0.006159
+GPi,CM,Directed,1752,Hippocampal Formation,,0.023390
+GPi,PF,Directed,1753,Hippocampal Formation,,0.000010
+GPi,RT,Directed,1754,Hippocampal Formation,,0.000859
+GPi,LH,Directed,1755,Hippocampal Formation,,0.000020
+GPi,STN,Directed,1756,Hippocampal Formation,,0.000000
+GPi,SNr,Directed,1757,Hippocampal Formation,,0.000009
+GPi,VTA,Directed,1758,Hippocampal Formation,,0.004444
+GPi,RR,Directed,1759,Hippocampal Formation,,0.016306
+GPi,MRN,Directed,1760,Hippocampal Formation,,0.105995
+GPi,PAG,Directed,1761,Hippocampal Formation,,0.185967
+GPi,NPC,Directed,1762,Hippocampal Formation,,0.013432
+GPi,SNc,Directed,1763,Hippocampal Formation,,0.000010
+GPi,DR,Directed,1764,Hippocampal Formation,,0.000366
+GPi,PB,Directed,1765,Hippocampal Formation,,0.001771
+GPi,PRNc,Directed,1766,Hippocampal Formation,,0.101108
+GPi,SUT,Directed,1767,Hippocampal Formation,,0.000036
+GPi,V,Directed,1768,Hippocampal Formation,,0.006080
+GPi,NTS,Directed,1769,Hippocampal Formation,,0.002987
+GPi,IRN,Directed,1770,Hippocampal Formation,,0.009754
+GPi,PARN,Directed,1771,Hippocampal Formation,,0.000226
+GPi,RM,Directed,1772,Hippocampal Formation,,0.000779
+SI,EPv,Directed,1773,Hypothalamus,,0.001187
+SI,BLA,Directed,1774,Hypothalamus,,0.005260
+SI,IA,Directed,1775,Hypothalamus,,0.000289
+SI,IMD,Directed,1776,Hypothalamus,,0.000079
+SI,LHA,Directed,1777,Hypothalamus,,0.004599
+SI,DR,Directed,1778,Hypothalamus,,0.000078
+MA,MOB,Directed,1779,Striatum,,0.000000
+MA,AOB,Directed,1780,Striatum,,0.000000
+MA,AON,Directed,1781,Striatum,,0.000037
+MA,PIR,Directed,1782,Striatum,,0.020813
+MA,OT,Directed,1783,Striatum,,0.025969
+MA,SI,Directed,1784,Striatum,,0.006478
+MA,NDB,Directed,1785,Striatum,,0.002266
+MA,SMT,Directed,1786,Striatum,,0.004500
+MA,VTA,Directed,1787,Striatum,,0.009821
+MS,CA1,Directed,1788,Thalamus,,0.000589
+MS,CA2,Directed,1789,Thalamus,,0.000002
+MS,CA3,Directed,1790,Thalamus,,0.000000
+MS,DG,Directed,1791,Thalamus,,0.000000
+MS,ENTl,Directed,1792,Thalamus,,0.001415
+MS,ENTm,Directed,1793,Thalamus,,0.000000
+MS,PAR,Directed,1794,Thalamus,,0.000000
+MS,POST,Directed,1795,Thalamus,,0.000435
+MS,PRE,Directed,1796,Thalamus,,0.000340
+MS,SUBv,Directed,1797,Thalamus,,0.000000
+MS,PA,Directed,1798,Thalamus,,0.000068
+MS,LSv,Directed,1799,Thalamus,,0.000421
+MS,SF,Directed,1800,Thalamus,,0.000000
+MS,TRS,Directed,1801,Thalamus,,0.000000
+MS,MH,Directed,1802,Thalamus,,0.000000
+MS,MEPO,Directed,1803,Thalamus,,0.000345
+MS,MPO,Directed,1804,Thalamus,,0.000550
+MS,PVp,Directed,1805,Thalamus,,0.000002
+MS,MM,Directed,1806,Thalamus,,0.000116
+MS,SUM,Directed,1807,Thalamus,,0.000020
+MS,PMd,Directed,1808,Thalamus,,0.000214
+MS,IPN,Directed,1809,Thalamus,,0.000000
+NDB,ACAv,Directed,1810,Thalamus,,0.001169
+NDB,ILA,Directed,1811,Thalamus,,0.004043
+NDB,RSPagl,Directed,1812,Thalamus,,0.000396
+NDB,RSPd,Directed,1813,Thalamus,,0.000160
+NDB,RSPv,Directed,1814,Thalamus,,0.000000
+NDB,AOB,Directed,1815,Thalamus,,0.000011
+NDB,TT,Directed,1816,Thalamus,,0.000047
+NDB,DP,Directed,1817,Thalamus,,0.000765
+NDB,NLOT,Directed,1818,Thalamus,,0.000247
+NDB,COAa,Directed,1819,Thalamus,,0.000487
+NDB,COAp,Directed,1820,Thalamus,,0.001991
+NDB,PAA,Directed,1821,Thalamus,,0.000522
+NDB,CA1,Directed,1822,Thalamus,,0.000286
+NDB,CA2,Directed,1823,Thalamus,,0.000000
+NDB,CA3,Directed,1824,Thalamus,,0.000000
+NDB,DG,Directed,1825,Thalamus,,0.000002
+NDB,ENTl,Directed,1826,Thalamus,,0.000002
+NDB,ENTm,Directed,1827,Thalamus,,0.000000
+NDB,PAR,Directed,1828,Thalamus,,0.000000
+NDB,POST,Directed,1829,Thalamus,,0.000001
+NDB,PRE,Directed,1830,Thalamus,,0.000165
+NDB,SUBd,Directed,1831,Thalamus,,0.000078
+NDB,SUBv,Directed,1832,Thalamus,,0.000000
+NDB,EPd,Directed,1833,Thalamus,,0.003169
+NDB,EPv,Directed,1834,Thalamus,,0.001706
+NDB,BMA,Directed,1835,Thalamus,,0.001146
+NDB,PA,Directed,1836,Thalamus,,0.000009
+NDB,SF,Directed,1837,Thalamus,,0.000000
+NDB,AAA,Directed,1838,Thalamus,,0.004075
+NDB,MEA,Directed,1839,Thalamus,,0.000030
+NDB,MA,Directed,1840,Thalamus,,0.000603
+NDB,TRS,Directed,1841,Thalamus,,0.000000
+NDB,MD,Directed,1842,Thalamus,,0.003895
+NDB,PVT,Directed,1843,Thalamus,,0.000000
+NDB,PT,Directed,1844,Thalamus,,0.000000
+NDB,RE,Directed,1845,Thalamus,,0.000010
+NDB,MH,Directed,1846,Thalamus,,0.000000
+NDB,LH,Directed,1847,Thalamus,,0.000002
+NDB,ARH,Directed,1848,Thalamus,,0.000287
+NDB,PVp,Directed,1849,Thalamus,,0.000017
+NDB,AHN,Directed,1850,Thalamus,,0.000012
+NDB,MM,Directed,1851,Thalamus,,0.000000
+NDB,SUM,Directed,1852,Thalamus,,0.000000
+NDB,PMd,Directed,1853,Thalamus,,0.000019
+NDB,PH,Directed,1854,Thalamus,,0.000004
+NDB,LHA,Directed,1855,Thalamus,,0.000000
+NDB,TU,Directed,1856,Thalamus,,0.000000
+NDB,IPN,Directed,1857,Thalamus,,0.000000
+NDB,PCG,Directed,1858,Thalamus,,0.000009
+NDB,NI,Directed,1859,Thalamus,,0.000000
+TRS,CA2,Directed,1860,Midbrain,,0.002629
+TRS,LSr,Directed,1861,Midbrain,,0.000024
+TRS,MA,Directed,1862,Midbrain,,0.000420
+TRS,MS,Directed,1863,Midbrain,,0.000073
+TRS,NDB,Directed,1864,Midbrain,,0.000000
+TRS,PT,Directed,1865,Midbrain,,0.000475
+TRS,MH,Directed,1866,Midbrain,,0.000000
+TRS,MEPO,Directed,1867,Midbrain,,0.000052
+TRS,MPO,Directed,1868,Midbrain,,0.017206
+TRS,SUM,Directed,1869,Midbrain,,0.000000
+TRS,PH,Directed,1870,Midbrain,,0.000873
+TRS,LHA,Directed,1871,Midbrain,,0.000050
+TRS,LPO,Directed,1872,Midbrain,,0.000000
+BST,PA,Directed,1873,Isocortex,,0.000008
+BST,CEA,Directed,1874,Isocortex,,0.003283
+BST,MEA,Directed,1875,Isocortex,,0.000000
+BST,SI,Directed,1876,Isocortex,,0.007149
+BST,PVT,Directed,1877,Isocortex,,0.000002
+BST,PT,Directed,1878,Isocortex,,0.000108
+BST,MH,Directed,1879,Isocortex,,0.000006
+BST,PVH,Directed,1880,Isocortex,,0.000450
+BST,ARH,Directed,1881,Isocortex,,0.000006
+BST,DMH,Directed,1882,Isocortex,,0.000001
+BST,MEPO,Directed,1883,Isocortex,,0.000636
+BST,PVp,Directed,1884,Isocortex,,0.000000
+BST,PVpo,Directed,1885,Isocortex,,0.000244
+BST,SBPV,Directed,1886,Isocortex,,0.000021
+BST,AHN,Directed,1887,Isocortex,,0.003501
+BST,SUM,Directed,1888,Isocortex,,0.000305
+BST,MPN,Directed,1889,Isocortex,,0.000220
+BST,VMH,Directed,1890,Isocortex,,0.000349
+BST,LHA,Directed,1891,Isocortex,,0.000001
+BST,LPO,Directed,1892,Isocortex,,0.002871
+BST,RCH,Directed,1893,Isocortex,,0.000000
+BST,TU,Directed,1894,Isocortex,,0.000000
+BST,VTA,Directed,1895,Isocortex,,0.000122
+BST,RR,Directed,1896,Isocortex,,0.001749
+BST,CLI,Directed,1897,Isocortex,,0.000005
+BST,DR,Directed,1898,Isocortex,,0.000005
+VAL,MOp,Directed,1899,Midbrain,,0.000003
+VAL,MOs,Directed,1900,Midbrain,,0.000014
+VAL,SSp-ll,Directed,1901,Midbrain,,0.000000
+VAL,SSp-tr,Directed,1902,Midbrain,,0.000006
+VAL,ACAd,Directed,1903,Midbrain,,0.015380
+VAL,CL,Directed,1904,Midbrain,,0.000461
+VM,FRP,Directed,1905,Midbrain,,0.000000
+VM,MOp,Directed,1906,Midbrain,,0.000000
+VM,MOs,Directed,1907,Midbrain,,0.000000
+VM,GU,Directed,1908,Midbrain,,0.007070
+VM,ACAd,Directed,1909,Midbrain,,0.000001
+VM,PL,Directed,1910,Midbrain,,0.000035
+VM,AId,Directed,1911,Midbrain,,0.001702
+VM,AOB,Directed,1912,Midbrain,,0.000001
+VM,CP,Directed,1913,Midbrain,,0.081730
+VM,VPL,Directed,1914,Midbrain,,0.003673
+VM,SPFm,Directed,1915,Midbrain,,0.000035
+VM,SPFp,Directed,1916,Midbrain,,0.000022
+VM,SPA,Directed,1917,Midbrain,,0.000000
+VM,LP,Directed,1918,Midbrain,,0.005243
+VM,POL,Directed,1919,Midbrain,,0.001266
+VM,IMD,Directed,1920,Midbrain,,0.000126
+VM,RE,Directed,1921,Midbrain,,0.000335
+VM,RH,Directed,1922,Midbrain,,0.000029
+VM,RT,Directed,1923,Midbrain,,0.000000
+VM,LGv,Directed,1924,Midbrain,,0.000001
+VM,LH,Directed,1925,Midbrain,,0.000067
+VM,SBPV,Directed,1926,Midbrain,,0.000487
+VM,AHN,Directed,1927,Midbrain,,0.006274
+VM,PH,Directed,1928,Midbrain,,0.000009
+VM,VTA,Directed,1929,Midbrain,,0.000015
+VM,RR,Directed,1930,Midbrain,,0.000003
+VM,MRN,Directed,1931,Midbrain,,0.000004
+VM,SCm,Directed,1932,Midbrain,,0.000563
+VM,PAG,Directed,1933,Midbrain,,0.000001
+VM,APN,Directed,1934,Midbrain,,0.001272
+VM,MPT,Directed,1935,Midbrain,,0.000000
+VM,NOT,Directed,1936,Midbrain,,0.000066
+VM,NPC,Directed,1937,Midbrain,,0.000000
+VM,CUN,Directed,1938,Midbrain,,0.002149
+VM,RN,Directed,1939,Midbrain,,0.000008
+VM,PPN,Directed,1940,Midbrain,,0.000001
+VM,PB,Directed,1941,Midbrain,,0.003139
+VM,PCG,Directed,1942,Midbrain,,0.000326
+VM,PRNc,Directed,1943,Midbrain,,0.000123
+VM,TRN,Directed,1944,Midbrain,,0.000010
+VM,NI,Directed,1945,Midbrain,,0.000048
+VM,PRNr,Directed,1946,Midbrain,,0.000000
+VM,IO,Directed,1947,Midbrain,,0.000619
+VM,MARN,Directed,1948,Midbrain,,0.000435
+VM,RM,Directed,1949,Midbrain,,0.000020
+VPL,SSp-bfd,Directed,1950,Midbrain,,0.006569
+VPL,SSp-ll,Directed,1951,Midbrain,,0.032372
+VPL,SSp-ul,Directed,1952,Midbrain,,0.033618
+VPL,SSp-tr,Directed,1953,Midbrain,,0.099788
+VPM,SSp-n,Directed,1954,Midbrain,,0.019039
+VPM,RT,Directed,1955,Midbrain,,0.002344
+VPMpc,SSp-n,Directed,1956,Midbrain,,0.000000
+VPMpc,SSp-m,Directed,1957,Midbrain,,0.000216
+VPMpc,GU,Directed,1958,Midbrain,,0.098279
+VPMpc,GPi,Directed,1959,Midbrain,,0.010393
+VPMpc,RT,Directed,1960,Midbrain,,0.000756
+SPFm,GU,Directed,1961,Hypothalamus,,0.125913
+SPFm,AId,Directed,1962,Hypothalamus,,0.104899
+SPFm,AIp,Directed,1963,Hypothalamus,,0.036822
+SPFm,PVp,Directed,1964,Hypothalamus,,0.002282
+SPFp,SSs,Directed,1965,Hypothalamus,,0.050661
+SPFp,VISC,Directed,1966,Hypothalamus,,0.000209
+SPFp,AIp,Directed,1967,Hypothalamus,,0.002580
+SPFp,COAa,Directed,1968,Hypothalamus,,0.003365
+SPFp,BMA,Directed,1969,Hypothalamus,,0.000219
+SPFp,CEA,Directed,1970,Hypothalamus,,0.000498
+SPFp,IA,Directed,1971,Hypothalamus,,0.000901
+SPFp,SPFm,Directed,1972,Hypothalamus,,0.002462
+SPFp,SPA,Directed,1973,Hypothalamus,,0.000138
+SPFp,PO,Directed,1974,Hypothalamus,,0.019940
+SPFp,RE,Directed,1975,Hypothalamus,,0.021701
+SPFp,PH,Directed,1976,Hypothalamus,,0.000000
+SPFp,VTA,Directed,1977,Hypothalamus,,0.000000
+SPFp,RR,Directed,1978,Hypothalamus,,0.000000
+SPFp,MRN,Directed,1979,Hypothalamus,,0.000000
+SPFp,SCm,Directed,1980,Hypothalamus,,0.000000
+SPFp,PAG,Directed,1981,Hypothalamus,,0.064809
+SPFp,APN,Directed,1982,Hypothalamus,,0.000000
+SPFp,MPT,Directed,1983,Hypothalamus,,0.001959
+SPFp,NOT,Directed,1984,Hypothalamus,,0.000002
+SPFp,RN,Directed,1985,Hypothalamus,,0.000000
+SPFp,PPN,Directed,1986,Hypothalamus,,0.010427
+SPFp,DR,Directed,1987,Hypothalamus,,0.000175
+SPFp,PCG,Directed,1988,Hypothalamus,,0.000002
+SPFp,PRNc,Directed,1989,Hypothalamus,,0.011988
+SPFp,TRN,Directed,1990,Hypothalamus,,0.000006
+SPFp,CS,Directed,1991,Hypothalamus,,0.002200
+SPFp,NI,Directed,1992,Hypothalamus,,0.000076
+SPFp,PRNr,Directed,1993,Hypothalamus,,0.000000
+SPFp,IO,Directed,1994,Hypothalamus,,0.000548
+SPFp,MARN,Directed,1995,Hypothalamus,,0.000357
+PP,TEa,Directed,1996,Thalamus,,0.106652
+PP,ECT,Directed,1997,Thalamus,,0.032305
+PP,COAa,Directed,1998,Thalamus,,0.027596
+PP,LA,Directed,1999,Thalamus,,0.000000
+PP,PA,Directed,2000,Thalamus,,0.007544
+PP,LSr,Directed,2001,Thalamus,,0.026752
+PP,LSv,Directed,2002,Thalamus,,0.001183
+PP,MEA,Directed,2003,Thalamus,,0.000000
+PP,GPi,Directed,2004,Thalamus,,0.001369
+PP,SI,Directed,2005,Thalamus,,0.111000
+PP,MA,Directed,2006,Thalamus,,0.000068
+PP,BST,Directed,2007,Thalamus,,0.007247
+PP,SPFm,Directed,2008,Thalamus,,0.000907
+PP,PVH,Directed,2009,Thalamus,,0.001114
+PP,ARH,Directed,2010,Thalamus,,0.000000
+PP,DMH,Directed,2011,Thalamus,,0.004396
+PP,MPO,Directed,2012,Thalamus,,0.000000
+PP,SBPV,Directed,2013,Thalamus,,0.000000
+PP,AHN,Directed,2014,Thalamus,,0.000000
+PP,MPN,Directed,2015,Thalamus,,0.014301
+PP,VMH,Directed,2016,Thalamus,,0.000000
+PP,LHA,Directed,2017,Thalamus,,0.001870
+PP,LPO,Directed,2018,Thalamus,,0.000001
+PP,RCH,Directed,2019,Thalamus,,0.000000
+PP,STN,Directed,2020,Thalamus,,0.000000
+PP,TU,Directed,2021,Thalamus,,0.000000
+PP,ICd,Directed,2022,Thalamus,,0.000000
+PP,ICe,Directed,2023,Thalamus,,0.000000
+PP,CUN,Directed,2024,Thalamus,,0.000000
+PP,NLL,Directed,2025,Thalamus,,0.000000
+PP,PB,Directed,2026,Thalamus,,0.000000
+PP,SOC,Directed,2027,Thalamus,,0.006077
+PP,CENT,Directed,2028,Thalamus,,0.000593
+PP,CUL,Directed,2029,Thalamus,,0.019539
+MGd,AUDd,Directed,2030,Pallidum,,0.000000
+MGd,AUDp,Directed,2031,Pallidum,,0.000001
+MGd,AUDv,Directed,2032,Pallidum,,0.000036
+MGd,TEa,Directed,2033,Pallidum,,0.000000
+MGd,ECT,Directed,2034,Pallidum,,0.001647
+MGd,LA,Directed,2035,Pallidum,,0.000049
+MGd,SPFp,Directed,2036,Pallidum,,0.015235
+MGd,PP,Directed,2037,Pallidum,,0.001115
+MGd,PO,Directed,2038,Pallidum,,0.028850
+MGd,RT,Directed,2039,Pallidum,,0.004422
+MGd,ICe,Directed,2040,Pallidum,,0.000058
+MGd,SCm,Directed,2041,Pallidum,,0.066338
+MGd,CUN,Directed,2042,Pallidum,,0.000036
+MGd,NLL,Directed,2043,Pallidum,,0.008704
+MGv,AUDp,Directed,2044,Pallidum,,0.027205
+MGv,AUDv,Directed,2045,Pallidum,,0.013829
+MGv,TEa,Directed,2046,Pallidum,,0.074444
+LGd,VISal,Directed,2047,Cortical Subplate,,0.003692
+LGd,VISam,Directed,2048,Cortical Subplate,,0.001045
+LGd,VISl,Directed,2049,Cortical Subplate,,0.000017
+LGd,VISp,Directed,2050,Cortical Subplate,,0.000000
+LGd,VISpl,Directed,2051,Cortical Subplate,,0.002388
+LGd,RT,Directed,2052,Cortical Subplate,,0.055196
+LP,MOs,Directed,2053,Striatum,,0.152515
+LP,SSp-tr,Directed,2054,Striatum,,0.014532
+LP,AUDd,Directed,2055,Striatum,,0.000011
+LP,VISal,Directed,2056,Striatum,,0.015265
+LP,VISl,Directed,2057,Striatum,,0.000307
+LP,PTLp,Directed,2058,Striatum,,0.002449
+LP,RT,Directed,2059,Striatum,,0.021861
+PO,SSp-bfd,Directed,2060,Thalamus,,0.000051
+PO,SSp-ll,Directed,2061,Thalamus,,0.003963
+PO,SSp-ul,Directed,2062,Thalamus,,0.000169
+PO,SSs,Directed,2063,Thalamus,,0.000011
+PO,AUDv,Directed,2064,Thalamus,,0.001540
+PO,RSPagl,Directed,2065,Thalamus,,0.003137
+PO,VPL,Directed,2066,Thalamus,,0.000000
+PO,VPM,Directed,2067,Thalamus,,0.000024
+PO,RT,Directed,2068,Thalamus,,0.000022
+PO,NOT,Directed,2069,Thalamus,,0.001365
+POL,AUDp,Directed,2070,Thalamus,,0.053611
+POL,TEa,Directed,2071,Thalamus,,0.085591
+POL,NPC,Directed,2072,Thalamus,,0.015038
+AV,MOs,Directed,2073,Isocortex,,0.011467
+AV,VISam,Directed,2074,Isocortex,,0.013173
+AV,ACAd,Directed,2075,Isocortex,,0.000396
+AV,RSPagl,Directed,2076,Isocortex,,0.001218
+AV,RSPd,Directed,2077,Isocortex,,0.000000
+AV,RSPv,Directed,2078,Isocortex,,0.000000
+AV,PTLp,Directed,2079,Isocortex,,0.014045
+AV,POST,Directed,2080,Isocortex,,0.000000
+AMd,FRP,Directed,2081,Isocortex,,0.003522
+AMd,ACAd,Directed,2082,Isocortex,,0.000000
+AMd,ACAv,Directed,2083,Isocortex,,0.000000
+AMd,PL,Directed,2084,Isocortex,,0.000000
+AMd,ILA,Directed,2085,Isocortex,,0.000037
+AMd,ORBm,Directed,2086,Isocortex,,0.000000
+AMd,ORBvl,Directed,2087,Isocortex,,0.013623
+AMd,CP,Directed,2088,Isocortex,,0.002425
+AMd,ACB,Directed,2089,Isocortex,,0.002482
+AMv,ILA,Directed,2090,Isocortex,,0.000093
+AMv,ORBvl,Directed,2091,Isocortex,,0.075155
+AD,ACAv,Directed,2092,Isocortex,,0.053193
+AD,RSPv,Directed,2093,Isocortex,,0.000000
+AD,PAR,Directed,2094,Isocortex,,0.000000
+AD,PRE,Directed,2095,Isocortex,,0.000000
+LD,RSPagl,Directed,2096,Cortical Subplate,,0.000000
+LD,RSPd,Directed,2097,Cortical Subplate,,0.000000
+LD,RSPv,Directed,2098,Cortical Subplate,,0.000006
+LD,PAR,Directed,2099,Cortical Subplate,,0.002528
+LD,POST,Directed,2100,Cortical Subplate,,0.000000
+LD,PRE,Directed,2101,Cortical Subplate,,0.000000
+LD,RT,Directed,2102,Cortical Subplate,,0.001866
+IMD,ACB,Directed,2103,Hippocampal Formation,,0.007726
+IMD,SI,Directed,2104,Hippocampal Formation,,0.007179
+IMD,AMv,Directed,2105,Hippocampal Formation,,0.003658
+MD,FRP,Directed,2106,Striatum,,0.000027
+MD,PL,Directed,2107,Striatum,,0.000000
+MD,ILA,Directed,2108,Striatum,,0.000000
+MD,ORBl,Directed,2109,Striatum,,0.000001
+MD,ORBm,Directed,2110,Striatum,,0.000000
+MD,ORBvl,Directed,2111,Striatum,,0.000000
+MD,AId,Directed,2112,Striatum,,0.000660
+MD,AIv,Directed,2113,Striatum,,0.000000
+MD,CLA,Directed,2114,Striatum,,0.002892
+MD,CP,Directed,2115,Striatum,,0.077024
+MD,RT,Directed,2116,Striatum,,0.000006
+SMT,ILA,Directed,2117,Hypothalamus,,0.034208
+SMT,ORBl,Directed,2118,Hypothalamus,,0.000000
+SMT,ORBm,Directed,2119,Hypothalamus,,0.000948
+SMT,ORBvl,Directed,2120,Hypothalamus,,0.000000
+SMT,AId,Directed,2121,Hypothalamus,,0.001024
+SMT,AIv,Directed,2122,Hypothalamus,,0.000028
+SMT,PERI,Directed,2123,Hypothalamus,,0.005338
+SMT,ECT,Directed,2124,Hypothalamus,,0.005410
+SMT,AOB,Directed,2125,Hypothalamus,,0.002123
+SMT,DP,Directed,2126,Hypothalamus,,0.002346
+SMT,CLA,Directed,2127,Hypothalamus,,0.017033
+PVT,BMA,Directed,2128,Hypothalamus,,0.010968
+PVT,BST,Directed,2129,Hypothalamus,,0.003552
+PVT,SBPV,Directed,2130,Hypothalamus,,0.000713
+PT,ACAv,Directed,2131,Hypothalamus,,0.000000
+PT,ILA,Directed,2132,Hypothalamus,,0.009650
+PT,ORBm,Directed,2133,Hypothalamus,,0.000100
+PT,RSPagl,Directed,2134,Hypothalamus,,0.000319
+PT,RSPv,Directed,2135,Hypothalamus,,0.046491
+PT,ECT,Directed,2136,Hypothalamus,,0.061460
+PT,ENTm,Directed,2137,Hypothalamus,,0.000018
+PT,SUBv,Directed,2138,Hypothalamus,,0.000108
+PT,LA,Directed,2139,Hypothalamus,,0.008978
+PT,BLA,Directed,2140,Hypothalamus,,0.067919
+PT,BMA,Directed,2141,Hypothalamus,,0.000118
+PT,PA,Directed,2142,Hypothalamus,,0.000242
+PT,ACB,Directed,2143,Hypothalamus,,0.000018
+PT,LSr,Directed,2144,Hypothalamus,,0.000061
+PT,IA,Directed,2145,Hypothalamus,,0.001168
+PT,MEA,Directed,2146,Hypothalamus,,0.002320
+PT,SI,Directed,2147,Hypothalamus,,0.016417
+PT,BST,Directed,2148,Hypothalamus,,0.000015
+PT,MPO,Directed,2149,Hypothalamus,,0.002628
+PT,PVpo,Directed,2150,Hypothalamus,,0.000227
+PT,SBPV,Directed,2151,Hypothalamus,,0.000077
+PT,VMH,Directed,2152,Hypothalamus,,0.012159
+PT,LHA,Directed,2153,Hypothalamus,,0.051129
+PT,LPO,Directed,2154,Hypothalamus,,0.004405
+RE,ILA,Directed,2155,Hypothalamus,,0.000000
+RE,ORBm,Directed,2156,Hypothalamus,,0.000288
+RE,RSPv,Directed,2157,Hypothalamus,,0.000035
+RE,PERI,Directed,2158,Hypothalamus,,0.000940
+RE,TT,Directed,2159,Hypothalamus,,0.000000
+RE,DP,Directed,2160,Hypothalamus,,0.000000
+RE,PIR,Directed,2161,Hypothalamus,,0.022095
+RE,ENTl,Directed,2162,Hypothalamus,,0.000000
+RE,ENTm,Directed,2163,Hypothalamus,,0.000000
+RE,PAR,Directed,2164,Hypothalamus,,0.000108
+RE,POST,Directed,2165,Hypothalamus,,0.000000
+RE,PRE,Directed,2166,Hypothalamus,,0.000005
+RE,SUBd,Directed,2167,Hypothalamus,,0.006755
+RE,SUBv,Directed,2168,Hypothalamus,,0.000000
+RE,EPd,Directed,2169,Hypothalamus,,0.000059
+RE,IA,Directed,2170,Hypothalamus,,0.000691
+RE,SI,Directed,2171,Hypothalamus,,0.007401
+RE,BST,Directed,2172,Hypothalamus,,0.002457
+CM,FRP,Directed,2173,Isocortex,,0.006054
+CM,GU,Directed,2174,Isocortex,,0.008475
+CM,AId,Directed,2175,Isocortex,,0.019779
+CM,CLA,Directed,2176,Isocortex,,0.003785
+CM,CP,Directed,2177,Isocortex,,0.015091
+CM,GPe,Directed,2178,Isocortex,,0.021679
+CL,ACAd,Directed,2179,Isocortex,,0.006421
+CL,ACAv,Directed,2180,Isocortex,,0.000134
+RT,VAL,Directed,2181,Hypothalamus,,0.000000
+RT,VM,Directed,2182,Hypothalamus,,0.000000
+RT,VPL,Directed,2183,Hypothalamus,,0.003225
+RT,VPM,Directed,2184,Hypothalamus,,0.000000
+RT,VPMpc,Directed,2185,Hypothalamus,,0.000000
+RT,SPA,Directed,2186,Hypothalamus,,0.000127
+RT,PO,Directed,2187,Hypothalamus,,0.000001
+RT,AMd,Directed,2188,Hypothalamus,,0.001229
+RT,LD,Directed,2189,Hypothalamus,,0.002771
+RT,IMD,Directed,2190,Hypothalamus,,0.000025
+RT,MD,Directed,2191,Hypothalamus,,0.000000
+RT,RH,Directed,2192,Hypothalamus,,0.000443
+RT,CM,Directed,2193,Hypothalamus,,0.000000
+RT,CL,Directed,2194,Hypothalamus,,0.000000
+RT,PF,Directed,2195,Hypothalamus,,0.000000
+LGv,LGd,Directed,2196,Striatum,,0.000907
+LGv,LP,Directed,2197,Striatum,,0.000112
+LGv,LD,Directed,2198,Striatum,,0.002058
+LGv,CL,Directed,2199,Striatum,,0.008096
+LGv,LH,Directed,2200,Striatum,,0.009792
+LGv,PH,Directed,2201,Striatum,,0.008951
+LGv,SCs,Directed,2202,Striatum,,0.027254
+LGv,RR,Directed,2203,Striatum,,0.008932
+LGv,APN,Directed,2204,Striatum,,0.000000
+LGv,MPT,Directed,2205,Striatum,,0.000000
+LGv,NOT,Directed,2206,Striatum,,0.000000
+LGv,NPC,Directed,2207,Striatum,,0.000000
+LGv,IPN,Directed,2208,Striatum,,0.000007
+LGv,PCG,Directed,2209,Striatum,,0.000025
+LGv,TRN,Directed,2210,Striatum,,0.001880
+LGv,CS,Directed,2211,Striatum,,0.003589
+LGv,NI,Directed,2212,Striatum,,0.000000
+LGv,PRNr,Directed,2213,Striatum,,0.008229
+MH,IPN,Directed,2214,Pallidum,,0.000000
+MH,CLI,Directed,2215,Pallidum,,0.001022
+MH,CS,Directed,2216,Pallidum,,0.011942
+LH,AMv,Directed,2217,Striatum,,0.002313
+LH,SUM,Directed,2218,Striatum,,0.001642
+LH,VTA,Directed,2219,Striatum,,0.003005
+LH,IPN,Directed,2220,Striatum,,0.002135
+LH,CLI,Directed,2221,Striatum,,0.000000
+LH,DR,Directed,2222,Striatum,,0.000000
+LH,PCG,Directed,2223,Striatum,,0.008628
+LH,CS,Directed,2224,Striatum,,0.000000
+LH,NI,Directed,2225,Striatum,,0.000474
+PVH,PA,Directed,2226,Hypothalamus,,0.000493
+PVH,LSr,Directed,2227,Hypothalamus,,0.000001
+PVH,LSv,Directed,2228,Hypothalamus,,0.000000
+PVH,MS,Directed,2229,Hypothalamus,,0.003066
+PVH,SPFm,Directed,2230,Hypothalamus,,0.000359
+PVH,MH,Directed,2231,Hypothalamus,,0.000490
+PVH,ARH,Directed,2232,Hypothalamus,,0.000000
+PVH,DMH,Directed,2233,Hypothalamus,,0.000124
+PVH,MEPO,Directed,2234,Hypothalamus,,0.000126
+PVH,PVp,Directed,2235,Hypothalamus,,0.000000
+PVH,SUM,Directed,2236,Hypothalamus,,0.000270
+PVH,PMd,Directed,2237,Hypothalamus,,0.000186
+PVH,PH,Directed,2238,Hypothalamus,,0.000000
+PVH,LPO,Directed,2239,Hypothalamus,,0.001970
+PVH,TU,Directed,2240,Hypothalamus,,0.000000
+PVH,MPT,Directed,2241,Hypothalamus,,0.000011
+PVH,NTS,Directed,2242,Hypothalamus,,0.001723
+ARH,PA,Directed,2243,Isocortex,,0.000001
+ARH,LSv,Directed,2244,Isocortex,,0.000000
+ARH,MEA,Directed,2245,Isocortex,,0.000000
+ARH,BST,Directed,2246,Isocortex,,0.000022
+ARH,PVH,Directed,2247,Isocortex,,0.000000
+ARH,MPO,Directed,2248,Isocortex,,0.000001
+ARH,PVpo,Directed,2249,Isocortex,,0.000209
+ARH,SBPV,Directed,2250,Isocortex,,0.000000
+ARH,AHN,Directed,2251,Isocortex,,0.000000
+ARH,MPN,Directed,2252,Isocortex,,0.001707
+ARH,LHA,Directed,2253,Isocortex,,0.072507
+DMH,ECT,Directed,2254,Olfactory Areas,,0.015022
+DMH,BST,Directed,2255,Olfactory Areas,,0.000064
+DMH,SPFm,Directed,2256,Olfactory Areas,,0.000000
+DMH,SPFp,Directed,2257,Olfactory Areas,,0.001379
+DMH,SPA,Directed,2258,Olfactory Areas,,0.000017
+DMH,PP,Directed,2259,Olfactory Areas,,0.001006
+DMH,PVT,Directed,2260,Olfactory Areas,,0.000024
+DMH,PT,Directed,2261,Olfactory Areas,,0.000572
+DMH,RE,Directed,2262,Olfactory Areas,,0.004641
+DMH,PVH,Directed,2263,Olfactory Areas,,0.000000
+DMH,MEPO,Directed,2264,Olfactory Areas,,0.000055
+DMH,MPO,Directed,2265,Olfactory Areas,,0.001476
+DMH,PVpo,Directed,2266,Olfactory Areas,,0.000000
+DMH,SBPV,Directed,2267,Olfactory Areas,,0.000349
+DMH,RCH,Directed,2268,Olfactory Areas,,0.002561
+DMH,STN,Directed,2269,Olfactory Areas,,0.000436
+DMH,VTA,Directed,2270,Olfactory Areas,,0.000013
+DMH,PAG,Directed,2271,Olfactory Areas,,0.000000
+DMH,MPT,Directed,2272,Olfactory Areas,,0.000000
+DMH,CUN,Directed,2273,Olfactory Areas,,0.000348
+DMH,PPN,Directed,2274,Olfactory Areas,,0.003241
+DMH,IPN,Directed,2275,Olfactory Areas,,0.000097
+DMH,CLI,Directed,2276,Olfactory Areas,,0.000000
+DMH,DR,Directed,2277,Olfactory Areas,,0.000000
+DMH,PB,Directed,2278,Olfactory Areas,,0.000028
+DMH,PCG,Directed,2279,Olfactory Areas,,0.000000
+DMH,CS,Directed,2280,Olfactory Areas,,0.000292
+DMH,NTS,Directed,2281,Olfactory Areas,,0.001368
+MEPO,PVH,Directed,2282,Pallidum,,0.000073
+MEPO,SBPV,Directed,2283,Pallidum,,0.000000
+MEPO,AHN,Directed,2284,Pallidum,,0.000006
+MEPO,RCH,Directed,2285,Pallidum,,0.002380
+MPO,MS,Directed,2286,Thalamus,,0.000096
+MPO,SPFm,Directed,2287,Thalamus,,0.000267
+MPO,DMH,Directed,2288,Thalamus,,0.002507
+MPO,SUM,Directed,2289,Thalamus,,0.000192
+MPO,PH,Directed,2290,Thalamus,,0.000000
+MPO,LHA,Directed,2291,Thalamus,,0.000016
+MPO,VTA,Directed,2292,Thalamus,,0.000854
+MPO,PAG,Directed,2293,Thalamus,,0.001126
+MPO,IPN,Directed,2294,Thalamus,,0.000106
+MPO,CLI,Directed,2295,Thalamus,,0.000091
+PVp,PA,Directed,2296,Hypothalamus,,0.000001
+PVp,LSv,Directed,2297,Hypothalamus,,0.000000
+PVp,ARH,Directed,2298,Hypothalamus,,0.000000
+PVp,DMH,Directed,2299,Hypothalamus,,0.000502
+PVp,PVpo,Directed,2300,Hypothalamus,,0.000025
+PVp,MPN,Directed,2301,Hypothalamus,,0.000000
+PVp,VMH,Directed,2302,Hypothalamus,,0.011286
+PVp,RCH,Directed,2303,Hypothalamus,,0.000000
+PVp,TU,Directed,2304,Hypothalamus,,0.000000
+PVpo,LSv,Directed,2305,Hypothalamus,,0.000000
+PVpo,PT,Directed,2306,Hypothalamus,,0.000012
+PVpo,ARH,Directed,2307,Hypothalamus,,0.000000
+PVpo,PVp,Directed,2308,Hypothalamus,,0.000000
+SBPV,PVT,Directed,2309,Hypothalamus,,0.019276
+SBPV,PT,Directed,2310,Hypothalamus,,0.000000
+SBPV,ARH,Directed,2311,Hypothalamus,,0.000000
+SBPV,MPO,Directed,2312,Hypothalamus,,0.000636
+SBPV,PVp,Directed,2313,Hypothalamus,,0.003569
+AHN,LSr,Directed,2314,Isocortex,,0.000646
+AHN,LSv,Directed,2315,Isocortex,,0.000012
+AHN,MEA,Directed,2316,Isocortex,,0.006082
+AHN,MS,Directed,2317,Isocortex,,0.000000
+AHN,NDB,Directed,2318,Isocortex,,0.001844
+AHN,MH,Directed,2319,Isocortex,,0.000311
+AHN,DMH,Directed,2320,Isocortex,,0.001371
+AHN,MEPO,Directed,2321,Isocortex,,0.000000
+AHN,MM,Directed,2322,Isocortex,,0.002552
+AHN,SUM,Directed,2323,Isocortex,,0.000000
+AHN,PMd,Directed,2324,Isocortex,,0.000000
+AHN,VMH,Directed,2325,Isocortex,,0.000000
+AHN,PH,Directed,2326,Isocortex,,0.000001
+AHN,LHA,Directed,2327,Isocortex,,0.000118
+AHN,LPO,Directed,2328,Isocortex,,0.000013
+AHN,TU,Directed,2329,Isocortex,,0.000000
+MM,CA2,Directed,2330,Pallidum,,0.015085
+MM,CA3,Directed,2331,Pallidum,,0.052680
+MM,DG,Directed,2332,Pallidum,,0.000015
+MM,LSc,Directed,2333,Pallidum,,0.000046
+MM,LSr,Directed,2334,Pallidum,,0.000000
+MM,SF,Directed,2335,Pallidum,,0.000006
+MM,MS,Directed,2336,Pallidum,,0.000000
+MM,NDB,Directed,2337,Pallidum,,0.000000
+MM,TRS,Directed,2338,Pallidum,,0.000000
+MM,BST,Directed,2339,Pallidum,,0.010221
+MM,SPFm,Directed,2340,Pallidum,,0.000001
+MM,AV,Directed,2341,Pallidum,,0.000000
+MM,AMd,Directed,2342,Pallidum,,0.000000
+MM,AMv,Directed,2343,Pallidum,,0.000009
+MM,AD,Directed,2344,Pallidum,,0.000000
+MM,SMT,Directed,2345,Pallidum,,0.000215
+MM,PVT,Directed,2346,Pallidum,,0.000429
+MM,PT,Directed,2347,Pallidum,,0.000751
+MM,RE,Directed,2348,Pallidum,,0.000052
+MM,RH,Directed,2349,Pallidum,,0.000053
+MM,LGv,Directed,2350,Pallidum,,0.001886
+MM,MEPO,Directed,2351,Pallidum,,0.000000
+MM,MPO,Directed,2352,Pallidum,,0.000197
+MM,AHN,Directed,2353,Pallidum,,0.000647
+MM,LHA,Directed,2354,Pallidum,,0.030339
+MM,LPO,Directed,2355,Pallidum,,0.000000
+MM,MPT,Directed,2356,Pallidum,,0.000000
+MM,NOT,Directed,2357,Pallidum,,0.000690
+MM,IPN,Directed,2358,Pallidum,,0.000006
+MM,CLI,Directed,2359,Pallidum,,0.000000
+MM,PCG,Directed,2360,Pallidum,,0.000000
+MM,TRN,Directed,2361,Pallidum,,0.000638
+MM,CS,Directed,2362,Pallidum,,0.000000
+MM,NI,Directed,2363,Pallidum,,0.000000
+MM,IO,Directed,2364,Pallidum,,0.001704
+MM,RM,Directed,2365,Pallidum,,0.000013
+SUM,LSv,Directed,2366,Midbrain,,0.007187
+SUM,DMH,Directed,2367,Midbrain,,0.003070
+SUM,TU,Directed,2368,Midbrain,,0.000055
+MPN,RE,Directed,2369,Thalamus,,0.001234
+MPN,VMH,Directed,2370,Thalamus,,0.002909
+MPN,RCH,Directed,2371,Thalamus,,0.000016
+MPN,TU,Directed,2372,Thalamus,,0.000000
+PMd,PA,Directed,2373,Thalamus,,0.000131
+PMd,MEA,Directed,2374,Thalamus,,0.001754
+PMd,BST,Directed,2375,Thalamus,,0.025625
+PMd,PVH,Directed,2376,Thalamus,,0.001997
+PMd,SBPV,Directed,2377,Thalamus,,0.001224
+VMH,SPA,Directed,2378,Midbrain,,0.000000
+VMH,AHN,Directed,2379,Midbrain,,0.000124
+PH,LSr,Directed,2380,Thalamus,,0.000000
+PH,LSv,Directed,2381,Thalamus,,0.000083
+PH,MS,Directed,2382,Thalamus,,0.000000
+PH,NDB,Directed,2383,Thalamus,,0.000000
+PH,RE,Directed,2384,Thalamus,,0.000035
+PH,PVH,Directed,2385,Thalamus,,0.000531
+PH,MEPO,Directed,2386,Thalamus,,0.000000
+PH,MPO,Directed,2387,Thalamus,,0.000000
+PH,SBPV,Directed,2388,Thalamus,,0.000315
+PH,AHN,Directed,2389,Thalamus,,0.000000
+PH,MPN,Directed,2390,Thalamus,,0.000067
+PH,LHA,Directed,2391,Thalamus,,0.000000
+PH,LPO,Directed,2392,Thalamus,,0.000000
+PH,RCH,Directed,2393,Thalamus,,0.000020
+PH,TU,Directed,2394,Thalamus,,0.000971
+PH,DR,Directed,2395,Thalamus,,0.000144
+LHA,LSc,Directed,2396,Striatum,,0.000002
+LHA,LSr,Directed,2397,Striatum,,0.000000
+LHA,SF,Directed,2398,Striatum,,0.000140
+LHA,AAA,Directed,2399,Striatum,,0.000740
+LHA,CEA,Directed,2400,Striatum,,0.001382
+LHA,SI,Directed,2401,Striatum,,0.000000
+LHA,MA,Directed,2402,Striatum,,0.000000
+LHA,MS,Directed,2403,Striatum,,0.000000
+LHA,NDB,Directed,2404,Striatum,,0.000000
+LHA,BST,Directed,2405,Striatum,,0.000000
+LHA,VM,Directed,2406,Striatum,,0.000387
+LHA,SPFm,Directed,2407,Striatum,,0.000000
+LHA,SPFp,Directed,2408,Striatum,,0.000067
+LHA,SPA,Directed,2409,Striatum,,0.000000
+LHA,PP,Directed,2410,Striatum,,0.000112
+LHA,AMd,Directed,2411,Striatum,,0.000588
+LHA,AMv,Directed,2412,Striatum,,0.000026
+LHA,AD,Directed,2413,Striatum,,0.000000
+LHA,LD,Directed,2414,Striatum,,0.001269
+LHA,IMD,Directed,2415,Striatum,,0.000000
+LHA,MD,Directed,2416,Striatum,,0.000000
+LHA,SMT,Directed,2417,Striatum,,0.000001
+LHA,PVT,Directed,2418,Striatum,,0.000000
+LHA,PT,Directed,2419,Striatum,,0.000000
+LHA,RE,Directed,2420,Striatum,,0.000000
+LHA,RH,Directed,2421,Striatum,,0.000000
+LHA,CM,Directed,2422,Striatum,,0.000001
+LHA,CL,Directed,2423,Striatum,,0.000156
+LHA,PF,Directed,2424,Striatum,,0.000200
+LHA,RT,Directed,2425,Striatum,,0.000006
+LHA,LGv,Directed,2426,Striatum,,0.000003
+LHA,MH,Directed,2427,Striatum,,0.000000
+LHA,LH,Directed,2428,Striatum,,0.000000
+LHA,MEPO,Directed,2429,Striatum,,0.000002
+LHA,MPO,Directed,2430,Striatum,,0.000000
+LHA,PVp,Directed,2431,Striatum,,0.000061
+LHA,SUM,Directed,2432,Striatum,,0.000000
+LHA,PMd,Directed,2433,Striatum,,0.000000
+LHA,PH,Directed,2434,Striatum,,0.000000
+LHA,LHA,Directed,2435,Striatum,,0.000004
+LHA,LPO,Directed,2436,Striatum,,0.000000
+LHA,RCH,Directed,2437,Striatum,,0.000489
+LHA,STN,Directed,2438,Striatum,,0.000378
+LHA,VTA,Directed,2439,Striatum,,0.000000
+LHA,RR,Directed,2440,Striatum,,0.000000
+LHA,MRN,Directed,2441,Striatum,,0.000012
+LHA,PAG,Directed,2442,Striatum,,0.000000
+LHA,MPT,Directed,2443,Striatum,,0.000002
+LHA,NPC,Directed,2444,Striatum,,0.000003
+LHA,CUN,Directed,2445,Striatum,,0.000287
+LHA,SNc,Directed,2446,Striatum,,0.000005
+LHA,PPN,Directed,2447,Striatum,,0.000021
+LHA,IPN,Directed,2448,Striatum,,0.000000
+LHA,CLI,Directed,2449,Striatum,,0.000000
+LHA,DR,Directed,2450,Striatum,,0.000000
+LHA,PB,Directed,2451,Striatum,,0.000000
+LHA,PCG,Directed,2452,Striatum,,0.000000
+LHA,SUT,Directed,2453,Striatum,,0.000018
+LHA,V,Directed,2454,Striatum,,0.000161
+LHA,CS,Directed,2455,Striatum,,0.000000
+LHA,NI,Directed,2456,Striatum,,0.000002
+LHA,NTS,Directed,2457,Striatum,,0.000183
+LHA,AMB,Directed,2458,Striatum,,0.000036
+LHA,IRN,Directed,2459,Striatum,,0.000365
+LHA,PARN,Directed,2460,Striatum,,0.000469
+LPO,LSc,Directed,2461,Striatum,,0.000000
+LPO,LSr,Directed,2462,Striatum,,0.000000
+LPO,LSv,Directed,2463,Striatum,,0.000000
+LPO,SF,Directed,2464,Striatum,,0.000000
+LPO,MS,Directed,2465,Striatum,,0.000001
+LPO,NDB,Directed,2466,Striatum,,0.000000
+LPO,TRS,Directed,2467,Striatum,,0.000163
+LPO,BST,Directed,2468,Striatum,,0.000464
+LPO,PVT,Directed,2469,Striatum,,0.000014
+LPO,PT,Directed,2470,Striatum,,0.000000
+LPO,RE,Directed,2471,Striatum,,0.000000
+LPO,RT,Directed,2472,Striatum,,0.002477
+LPO,MH,Directed,2473,Striatum,,0.000127
+LPO,LH,Directed,2474,Striatum,,0.000000
+LPO,PVH,Directed,2475,Striatum,,0.000000
+LPO,ARH,Directed,2476,Striatum,,0.000127
+LPO,DMH,Directed,2477,Striatum,,0.000136
+LPO,MPO,Directed,2478,Striatum,,0.000001
+LPO,PVp,Directed,2479,Striatum,,0.000140
+LPO,PVpo,Directed,2480,Striatum,,0.000099
+LPO,SBPV,Directed,2481,Striatum,,0.000000
+LPO,AHN,Directed,2482,Striatum,,0.000012
+LPO,SUM,Directed,2483,Striatum,,0.000000
+LPO,PMd,Directed,2484,Striatum,,0.000344
+LPO,PH,Directed,2485,Striatum,,0.000000
+LPO,LHA,Directed,2486,Striatum,,0.000000
+LPO,LPO,Directed,2487,Striatum,,0.000961
+LPO,RCH,Directed,2488,Striatum,,0.000592
+LPO,TU,Directed,2489,Striatum,,0.000515
+LPO,VTA,Directed,2490,Striatum,,0.000000
+LPO,MPT,Directed,2491,Striatum,,0.000024
+LPO,IPN,Directed,2492,Striatum,,0.000010
+LPO,CLI,Directed,2493,Striatum,,0.000000
+LPO,DR,Directed,2494,Striatum,,0.000057
+LPO,PCG,Directed,2495,Striatum,,0.000496
+LPO,CS,Directed,2496,Striatum,,0.000000
+RCH,COAa,Directed,2497,Hypothalamus,,0.000790
+RCH,PAA,Directed,2498,Hypothalamus,,0.001211
+RCH,LA,Directed,2499,Hypothalamus,,0.004713
+RCH,BMA,Directed,2500,Hypothalamus,,0.006363
+RCH,AAA,Directed,2501,Hypothalamus,,0.011522
+RCH,CEA,Directed,2502,Hypothalamus,,0.023433
+RCH,IA,Directed,2503,Hypothalamus,,0.002136
+RCH,MA,Directed,2504,Hypothalamus,,0.002027
+RCH,SPFm,Directed,2505,Hypothalamus,,0.000042
+RCH,SPFp,Directed,2506,Hypothalamus,,0.001030
+RCH,PP,Directed,2507,Hypothalamus,,0.000000
+RCH,MGd,Directed,2508,Hypothalamus,,0.000005
+RCH,MGv,Directed,2509,Hypothalamus,,0.000004
+RCH,MGm,Directed,2510,Hypothalamus,,0.000000
+RCH,LGd,Directed,2511,Hypothalamus,,0.000002
+RCH,LP,Directed,2512,Hypothalamus,,0.000457
+RCH,POL,Directed,2513,Hypothalamus,,0.000005
+RCH,IMD,Directed,2514,Hypothalamus,,0.002684
+RCH,PVT,Directed,2515,Hypothalamus,,0.000116
+RCH,LGv,Directed,2516,Hypothalamus,,0.000000
+RCH,DMH,Directed,2517,Hypothalamus,,0.000000
+RCH,PVp,Directed,2518,Hypothalamus,,0.000000
+RCH,PMd,Directed,2519,Hypothalamus,,0.000001
+RCH,PH,Directed,2520,Hypothalamus,,0.000000
+RCH,LHA,Directed,2521,Hypothalamus,,0.000130
+RCH,SCm,Directed,2522,Hypothalamus,,0.000076
+RCH,PAG,Directed,2523,Hypothalamus,,0.000000
+RCH,APN,Directed,2524,Hypothalamus,,0.002680
+RCH,MPT,Directed,2525,Hypothalamus,,0.000000
+RCH,NOT,Directed,2526,Hypothalamus,,0.000003
+RCH,NPC,Directed,2527,Hypothalamus,,0.000031
+RCH,CUN,Directed,2528,Hypothalamus,,0.000694
+STN,SSs,Directed,2529,Midbrain,,0.061231
+STN,VISC,Directed,2530,Midbrain,,0.007064
+STN,GPe,Directed,2531,Midbrain,,0.000000
+STN,GPi,Directed,2532,Midbrain,,0.000000
+STN,SI,Directed,2533,Midbrain,,0.001881
+STN,VAL,Directed,2534,Midbrain,,0.000657
+STN,VM,Directed,2535,Midbrain,,0.000001
+STN,VPL,Directed,2536,Midbrain,,0.007692
+STN,VPM,Directed,2537,Midbrain,,0.001796
+STN,SPFm,Directed,2538,Midbrain,,0.000000
+STN,SPFp,Directed,2539,Midbrain,,0.000000
+STN,SPA,Directed,2540,Midbrain,,0.000022
+STN,PP,Directed,2541,Midbrain,,0.000080
+STN,MGm,Directed,2542,Midbrain,,0.000056
+STN,LP,Directed,2543,Midbrain,,0.002685
+STN,PO,Directed,2544,Midbrain,,0.000000
+STN,POL,Directed,2545,Midbrain,,0.000000
+STN,LD,Directed,2546,Midbrain,,0.004021
+STN,IMD,Directed,2547,Midbrain,,0.001647
+STN,MD,Directed,2548,Midbrain,,0.005449
+STN,SMT,Directed,2549,Midbrain,,0.000289
+STN,RE,Directed,2550,Midbrain,,0.003376
+STN,RH,Directed,2551,Midbrain,,0.000002
+STN,CM,Directed,2552,Midbrain,,0.001763
+STN,CL,Directed,2553,Midbrain,,0.000000
+STN,PF,Directed,2554,Midbrain,,0.000998
+STN,LGv,Directed,2555,Midbrain,,0.000006
+STN,PH,Directed,2556,Midbrain,,0.000000
+STN,LHA,Directed,2557,Midbrain,,0.007334
+STN,SNr,Directed,2558,Midbrain,,0.000000
+STN,VTA,Directed,2559,Midbrain,,0.000000
+STN,RR,Directed,2560,Midbrain,,0.000000
+STN,MRN,Directed,2561,Midbrain,,0.000000
+STN,SCm,Directed,2562,Midbrain,,0.000000
+STN,PAG,Directed,2563,Midbrain,,0.000000
+STN,APN,Directed,2564,Midbrain,,0.000000
+STN,MPT,Directed,2565,Midbrain,,0.000000
+STN,NOT,Directed,2566,Midbrain,,0.000000
+STN,NPC,Directed,2567,Midbrain,,0.000000
+STN,CUN,Directed,2568,Midbrain,,0.001504
+STN,RN,Directed,2569,Midbrain,,0.000000
+STN,SNc,Directed,2570,Midbrain,,0.000000
+STN,PPN,Directed,2571,Midbrain,,0.000000
+STN,DR,Directed,2572,Midbrain,,0.000000
+STN,PB,Directed,2573,Midbrain,,0.000001
+STN,PCG,Directed,2574,Midbrain,,0.000000
+STN,PRNc,Directed,2575,Midbrain,,0.000000
+STN,SUT,Directed,2576,Midbrain,,0.000000
+STN,TRN,Directed,2577,Midbrain,,0.000000
+STN,V,Directed,2578,Midbrain,,0.000286
+STN,CS,Directed,2579,Midbrain,,0.000014
+STN,NI,Directed,2580,Midbrain,,0.000000
+STN,PRNr,Directed,2581,Midbrain,,0.000000
+STN,NTS,Directed,2582,Midbrain,,0.001217
+STN,GRN,Directed,2583,Midbrain,,0.000004
+STN,IO,Directed,2584,Midbrain,,0.000123
+STN,IRN,Directed,2585,Midbrain,,0.000054
+STN,LRN,Directed,2586,Midbrain,,0.000886
+STN,MARN,Directed,2587,Midbrain,,0.000000
+STN,PARN,Directed,2588,Midbrain,,0.000017
+STN,PGRNd,Directed,2589,Midbrain,,0.001559
+STN,PGRNl,Directed,2590,Midbrain,,0.000061
+STN,MV,Directed,2591,Midbrain,,0.002725
+STN,SUV,Directed,2592,Midbrain,,0.000933
+STN,RM,Directed,2593,Midbrain,,0.000000
+TU,PAA,Directed,2594,Midbrain,,0.001083
+TU,LA,Directed,2595,Midbrain,,0.000683
+TU,LSr,Directed,2596,Midbrain,,0.000000
+TU,CEA,Directed,2597,Midbrain,,0.000466
+TU,IA,Directed,2598,Midbrain,,0.001180
+TU,SI,Directed,2599,Midbrain,,0.001138
+TU,MS,Directed,2600,Midbrain,,0.000000
+TU,SPFm,Directed,2601,Midbrain,,0.000035
+TU,SPFp,Directed,2602,Midbrain,,0.000000
+TU,PP,Directed,2603,Midbrain,,0.000000
+TU,MGd,Directed,2604,Midbrain,,0.001811
+TU,MGv,Directed,2605,Midbrain,,0.003738
+TU,MGm,Directed,2606,Midbrain,,0.000020
+TU,LGd,Directed,2607,Midbrain,,0.001739
+TU,POL,Directed,2608,Midbrain,,0.000442
+TU,RE,Directed,2609,Midbrain,,0.000807
+TU,LGv,Directed,2610,Midbrain,,0.000380
+TU,MEPO,Directed,2611,Midbrain,,0.000000
+TU,MPO,Directed,2612,Midbrain,,0.000000
+TU,SUM,Directed,2613,Midbrain,,0.000000
+TU,MPN,Directed,2614,Midbrain,,0.003344
+TU,PH,Directed,2615,Midbrain,,0.000000
+TU,LPO,Directed,2616,Midbrain,,0.000000
+TU,STN,Directed,2617,Midbrain,,0.000047
+TU,SCm,Directed,2618,Midbrain,,0.008096
+TU,PAG,Directed,2619,Midbrain,,0.000000
+TU,APN,Directed,2620,Midbrain,,0.011911
+TU,MPT,Directed,2621,Midbrain,,0.001478
+TU,IPN,Directed,2622,Midbrain,,0.000007
+TU,CLI,Directed,2623,Midbrain,,0.000159
+TU,PCG,Directed,2624,Midbrain,,0.000603
+SCs,PP,Directed,2625,Hypothalamus,,0.000000
+SCs,MGd,Directed,2626,Hypothalamus,,0.000000
+SCs,MGv,Directed,2627,Hypothalamus,,0.000000
+SCs,MGm,Directed,2628,Hypothalamus,,0.000000
+SCs,LGd,Directed,2629,Hypothalamus,,0.000000
+SCs,LP,Directed,2630,Hypothalamus,,0.000000
+SCs,POL,Directed,2631,Hypothalamus,,0.000050
+SCs,LGv,Directed,2632,Hypothalamus,,0.000000
+SCs,SCs,Directed,2633,Hypothalamus,,0.000054
+SCs,ICd,Directed,2634,Hypothalamus,,0.000789
+SCs,ICe,Directed,2635,Hypothalamus,,0.000000
+SCs,SCm,Directed,2636,Hypothalamus,,0.000031
+SCs,APN,Directed,2637,Hypothalamus,,0.000513
+SCs,MPT,Directed,2638,Hypothalamus,,0.000253
+SCs,NOT,Directed,2639,Hypothalamus,,0.000000
+SCs,CUN,Directed,2640,Hypothalamus,,0.000000
+SCs,NLL,Directed,2641,Hypothalamus,,0.000052
+ICc,MGv,Directed,2642,Hippocampal Formation,,0.000759
+ICc,ICd,Directed,2643,Hippocampal Formation,,0.000000
+ICc,ICe,Directed,2644,Hippocampal Formation,,0.008342
+ICc,NLL,Directed,2645,Hippocampal Formation,,0.000000
+ICc,SOC,Directed,2646,Hippocampal Formation,,0.000000
+ICc,DCO,Directed,2647,Hippocampal Formation,,0.000000
+ICc,VCO,Directed,2648,Hippocampal Formation,,0.000000
+ICd,SPFp,Directed,2649,Hippocampal Formation,,0.001607
+ICd,PP,Directed,2650,Hippocampal Formation,,0.000024
+ICd,MGd,Directed,2651,Hippocampal Formation,,0.001548
+ICd,MGv,Directed,2652,Hippocampal Formation,,0.002817
+ICd,MGm,Directed,2653,Hippocampal Formation,,0.000000
+ICd,POL,Directed,2654,Hippocampal Formation,,0.002854
+ICd,ICc,Directed,2655,Hippocampal Formation,,0.000000
+ICd,ICd,Directed,2656,Hippocampal Formation,,0.008116
+ICd,ICe,Directed,2657,Hippocampal Formation,,0.000000
+ICd,CUN,Directed,2658,Hippocampal Formation,,0.000000
+ICd,NLL,Directed,2659,Hippocampal Formation,,0.000011
+ICe,VPL,Directed,2660,Hippocampal Formation,,0.003283
+ICe,SPFm,Directed,2661,Hippocampal Formation,,0.000000
+ICe,SPFp,Directed,2662,Hippocampal Formation,,0.000000
+ICe,SPA,Directed,2663,Hippocampal Formation,,0.000028
+ICe,PP,Directed,2664,Hippocampal Formation,,0.000000
+ICe,MGd,Directed,2665,Hippocampal Formation,,0.000000
+ICe,MGv,Directed,2666,Hippocampal Formation,,0.000000
+ICe,MGm,Directed,2667,Hippocampal Formation,,0.000000
+ICe,LP,Directed,2668,Hippocampal Formation,,0.000236
+ICe,PO,Directed,2669,Hippocampal Formation,,0.002292
+ICe,POL,Directed,2670,Hippocampal Formation,,0.000000
+ICe,PH,Directed,2671,Hippocampal Formation,,0.000687
+ICe,SCs,Directed,2672,Hippocampal Formation,,0.000000
+ICe,ICc,Directed,2673,Hippocampal Formation,,0.000000
+ICe,ICd,Directed,2674,Hippocampal Formation,,0.000000
+ICe,ICe,Directed,2675,Hippocampal Formation,,0.000000
+ICe,RR,Directed,2676,Hippocampal Formation,,0.000000
+ICe,MRN,Directed,2677,Hippocampal Formation,,0.000002
+ICe,SCm,Directed,2678,Hippocampal Formation,,0.000000
+ICe,PAG,Directed,2679,Hippocampal Formation,,0.000000
+ICe,APN,Directed,2680,Hippocampal Formation,,0.000014
+ICe,MPT,Directed,2681,Hippocampal Formation,,0.000000
+ICe,NOT,Directed,2682,Hippocampal Formation,,0.000009
+ICe,NPC,Directed,2683,Hippocampal Formation,,0.000005
+ICe,CUN,Directed,2684,Hippocampal Formation,,0.000000
+ICe,PPN,Directed,2685,Hippocampal Formation,,0.000000
+ICe,NLL,Directed,2686,Hippocampal Formation,,0.000000
+ICe,PB,Directed,2687,Hippocampal Formation,,0.000001
+ICe,SOC,Directed,2688,Hippocampal Formation,,0.000000
+ICe,PCG,Directed,2689,Hippocampal Formation,,0.000846
+ICe,PG,Directed,2690,Hippocampal Formation,,0.000064
+ICe,PRNc,Directed,2691,Hippocampal Formation,,0.001740
+ICe,PRNr,Directed,2692,Hippocampal Formation,,0.000008
+ICe,VCO,Directed,2693,Hippocampal Formation,,0.000142
+ICe,MARN,Directed,2694,Hippocampal Formation,,0.001917
+SNr,GPe,Directed,2695,Hypothalamus,,0.000069
+SNr,GPi,Directed,2696,Hypothalamus,,0.000000
+SNr,VAL,Directed,2697,Hypothalamus,,0.000432
+SNr,VPMpc,Directed,2698,Hypothalamus,,0.000067
+SNr,MGm,Directed,2699,Hypothalamus,,0.000887
+SNr,POL,Directed,2700,Hypothalamus,,0.000365
+SNr,STN,Directed,2701,Hypothalamus,,0.004442
+SNr,VTA,Directed,2702,Hypothalamus,,0.000789
+SNr,SUT,Directed,2703,Hypothalamus,,0.000000
+SNr,V,Directed,2704,Hypothalamus,,0.001723
+SNr,PARN,Directed,2705,Hypothalamus,,0.000730
+VTA,AAA,Directed,2706,Midbrain,,0.003838
+VTA,SI,Directed,2707,Midbrain,,0.000086
+VTA,MA,Directed,2708,Midbrain,,0.000000
+VTA,AD,Directed,2709,Midbrain,,0.000370
+VTA,SMT,Directed,2710,Midbrain,,0.002510
+VTA,RH,Directed,2711,Midbrain,,0.000669
+VTA,DR,Directed,2712,Midbrain,,0.000113
+RR,SPFm,Directed,2713,Hypothalamus,,0.001989
+RR,SPA,Directed,2714,Hypothalamus,,0.000348
+RR,IMD,Directed,2715,Hypothalamus,,0.001413
+RR,SUM,Directed,2716,Hypothalamus,,0.003317
+RR,LHA,Directed,2717,Hypothalamus,,0.022304
+RR,PAG,Directed,2718,Hypothalamus,,0.048584
+RR,CUN,Directed,2719,Hypothalamus,,0.000082
+RR,CLI,Directed,2720,Hypothalamus,,0.000097
+RR,DR,Directed,2721,Hypothalamus,,0.000001
+RR,PB,Directed,2722,Hypothalamus,,0.009404
+RR,PCG,Directed,2723,Hypothalamus,,0.009230
+RR,RM,Directed,2724,Hypothalamus,,0.000359
+MRN,VM,Directed,2725,Thalamus,,0.000042
+MRN,SPFm,Directed,2726,Thalamus,,0.000083
+MRN,SPFp,Directed,2727,Thalamus,,0.000747
+MRN,SPA,Directed,2728,Thalamus,,0.000007
+MRN,POL,Directed,2729,Thalamus,,0.000086
+MRN,IMD,Directed,2730,Thalamus,,0.000126
+MRN,MD,Directed,2731,Thalamus,,0.001594
+MRN,RH,Directed,2732,Thalamus,,0.000009
+MRN,CM,Directed,2733,Thalamus,,0.000452
+MRN,PF,Directed,2734,Thalamus,,0.000102
+MRN,PH,Directed,2735,Thalamus,,0.000025
+MRN,LHA,Directed,2736,Thalamus,,0.003923
+MRN,STN,Directed,2737,Thalamus,,0.000225
+MRN,VTA,Directed,2738,Thalamus,,0.000025
+MRN,SCm,Directed,2739,Thalamus,,0.000156
+MRN,PAG,Directed,2740,Thalamus,,0.000002
+MRN,MPT,Directed,2741,Thalamus,,0.000099
+MRN,NPC,Directed,2742,Thalamus,,0.000621
+MRN,PPN,Directed,2743,Thalamus,,0.000000
+MRN,DR,Directed,2744,Thalamus,,0.000000
+MRN,PB,Directed,2745,Thalamus,,0.000000
+MRN,PCG,Directed,2746,Thalamus,,0.000000
+MRN,PRNc,Directed,2747,Thalamus,,0.000000
+MRN,SUT,Directed,2748,Thalamus,,0.000000
+MRN,TRN,Directed,2749,Thalamus,,0.000139
+MRN,V,Directed,2750,Thalamus,,0.000436
+MRN,NI,Directed,2751,Thalamus,,0.000000
+MRN,PRNr,Directed,2752,Thalamus,,0.000374
+MRN,AMB,Directed,2753,Thalamus,,0.000056
+MRN,GRN,Directed,2754,Thalamus,,0.000000
+MRN,IRN,Directed,2755,Thalamus,,0.000000
+MRN,LRN,Directed,2756,Thalamus,,0.000009
+MRN,MARN,Directed,2757,Thalamus,,0.000000
+MRN,MDRNv,Directed,2758,Thalamus,,0.000111
+MRN,PARN,Directed,2759,Thalamus,,0.000215
+MRN,PGRNd,Directed,2760,Thalamus,,0.000000
+MRN,PGRNl,Directed,2761,Thalamus,,0.000000
+MRN,PRP,Directed,2762,Thalamus,,0.000012
+MRN,MV,Directed,2763,Thalamus,,0.000001
+MRN,SUV,Directed,2764,Thalamus,,0.000054
+MRN,RM,Directed,2765,Thalamus,,0.000000
+SCm,VM,Directed,2766,Hypothalamus,,0.000018
+SCm,SPFm,Directed,2767,Hypothalamus,,0.000000
+SCm,SPFp,Directed,2768,Hypothalamus,,0.000000
+SCm,SPA,Directed,2769,Hypothalamus,,0.000000
+SCm,PP,Directed,2770,Hypothalamus,,0.000000
+SCm,MGm,Directed,2771,Hypothalamus,,0.000000
+SCm,LP,Directed,2772,Hypothalamus,,0.000000
+SCm,PO,Directed,2773,Hypothalamus,,0.000057
+SCm,POL,Directed,2774,Hypothalamus,,0.000000
+SCm,IMD,Directed,2775,Hypothalamus,,0.000039
+SCm,MD,Directed,2776,Hypothalamus,,0.000074
+SCm,RH,Directed,2777,Hypothalamus,,0.000042
+SCm,CM,Directed,2778,Hypothalamus,,0.000087
+SCm,CL,Directed,2779,Hypothalamus,,0.000000
+SCm,PF,Directed,2780,Hypothalamus,,0.000006
+SCm,PH,Directed,2781,Hypothalamus,,0.000659
+SCm,STN,Directed,2782,Hypothalamus,,0.000363
+SCm,ICe,Directed,2783,Hypothalamus,,0.001828
+SCm,VTA,Directed,2784,Hypothalamus,,0.000039
+SCm,RR,Directed,2785,Hypothalamus,,0.000000
+SCm,MRN,Directed,2786,Hypothalamus,,0.000000
+SCm,SCm,Directed,2787,Hypothalamus,,0.000152
+SCm,PAG,Directed,2788,Hypothalamus,,0.000000
+SCm,APN,Directed,2789,Hypothalamus,,0.000000
+SCm,MPT,Directed,2790,Hypothalamus,,0.000000
+SCm,NOT,Directed,2791,Hypothalamus,,0.000000
+SCm,NPC,Directed,2792,Hypothalamus,,0.000000
+SCm,CUN,Directed,2793,Hypothalamus,,0.000000
+SCm,RN,Directed,2794,Hypothalamus,,0.000019
+SCm,SNc,Directed,2795,Hypothalamus,,0.000869
+SCm,PPN,Directed,2796,Hypothalamus,,0.000000
+SCm,DR,Directed,2797,Hypothalamus,,0.000000
+SCm,NLL,Directed,2798,Hypothalamus,,0.000175
+SCm,PB,Directed,2799,Hypothalamus,,0.000000
+SCm,PCG,Directed,2800,Hypothalamus,,0.000132
+SCm,PRNc,Directed,2801,Hypothalamus,,0.000000
+SCm,SUT,Directed,2802,Hypothalamus,,0.000042
+SCm,TRN,Directed,2803,Hypothalamus,,0.000027
+SCm,CS,Directed,2804,Hypothalamus,,0.000413
+SCm,PRNr,Directed,2805,Hypothalamus,,0.000000
+SCm,MARN,Directed,2806,Hypothalamus,,0.000000
+SCm,PGRNl,Directed,2807,Hypothalamus,,0.000283
+SCm,RM,Directed,2808,Hypothalamus,,0.000000
+PAG,NDB,Directed,2809,Thalamus,,0.000166
+PAG,SPFm,Directed,2810,Thalamus,,0.000000
+PAG,SPA,Directed,2811,Thalamus,,0.000003
+PAG,IMD,Directed,2812,Thalamus,,0.000167
+PAG,PVT,Directed,2813,Thalamus,,0.000035
+PAG,RE,Directed,2814,Thalamus,,0.000587
+PAG,LH,Directed,2815,Thalamus,,0.000172
+PAG,DMH,Directed,2816,Thalamus,,0.000007
+PAG,AHN,Directed,2817,Thalamus,,0.001910
+PAG,SUM,Directed,2818,Thalamus,,0.000028
+PAG,PH,Directed,2819,Thalamus,,0.000000
+PAG,LHA,Directed,2820,Thalamus,,0.000000
+PAG,LPO,Directed,2821,Thalamus,,0.000906
+PAG,ICe,Directed,2822,Thalamus,,0.000048
+PAG,VTA,Directed,2823,Thalamus,,0.000028
+PAG,RR,Directed,2824,Thalamus,,0.000000
+PAG,MRN,Directed,2825,Thalamus,,0.000147
+PAG,PAG,Directed,2826,Thalamus,,0.000010
+PAG,MPT,Directed,2827,Thalamus,,0.000000
+PAG,NPC,Directed,2828,Thalamus,,0.000190
+PAG,CUN,Directed,2829,Thalamus,,0.000000
+PAG,PPN,Directed,2830,Thalamus,,0.000000
+PAG,DR,Directed,2831,Thalamus,,0.000000
+PAG,NLL,Directed,2832,Thalamus,,0.000000
+PAG,PB,Directed,2833,Thalamus,,0.000000
+PAG,PCG,Directed,2834,Thalamus,,0.000000
+PAG,PRNc,Directed,2835,Thalamus,,0.000000
+PAG,SUT,Directed,2836,Thalamus,,0.000038
+PAG,V,Directed,2837,Thalamus,,0.000479
+PAG,CS,Directed,2838,Thalamus,,0.000063
+PAG,NI,Directed,2839,Thalamus,,0.000000
+PAG,PRNr,Directed,2840,Thalamus,,0.000000
+PAG,GRN,Directed,2841,Thalamus,,0.000747
+PAG,IO,Directed,2842,Thalamus,,0.000277
+PAG,MARN,Directed,2843,Thalamus,,0.000000
+PAG,PGRNl,Directed,2844,Thalamus,,0.000442
+PAG,RM,Directed,2845,Thalamus,,0.000000
+APN,VPL,Directed,2846,Isocortex,,0.000423
+APN,VPM,Directed,2847,Isocortex,,0.000916
+APN,SPFp,Directed,2848,Isocortex,,0.001151
+APN,PO,Directed,2849,Isocortex,,0.000528
+APN,MRN,Directed,2850,Isocortex,,0.028261
+APN,RN,Directed,2851,Isocortex,,0.000000
+APN,TRN,Directed,2852,Isocortex,,0.000000
+APN,PRNr,Directed,2853,Isocortex,,0.000378
+MPT,SPFm,Directed,2854,Thalamus,,0.000000
+MPT,SPA,Directed,2855,Thalamus,,0.000119
+MPT,LP,Directed,2856,Thalamus,,0.029951
+MPT,AV,Directed,2857,Thalamus,,0.003175
+MPT,AD,Directed,2858,Thalamus,,0.000060
+MPT,LD,Directed,2859,Thalamus,,0.000019
+MPT,PVT,Directed,2860,Thalamus,,0.000001
+MPT,PT,Directed,2861,Thalamus,,0.000400
+MPT,RE,Directed,2862,Thalamus,,0.000000
+MPT,RH,Directed,2863,Thalamus,,0.001405
+MPT,LGv,Directed,2864,Thalamus,,0.000422
+MPT,PVH,Directed,2865,Thalamus,,0.000699
+MPT,DMH,Directed,2866,Thalamus,,0.000481
+MPT,SBPV,Directed,2867,Thalamus,,0.000001
+MPT,AHN,Directed,2868,Thalamus,,0.000253
+MPT,PH,Directed,2869,Thalamus,,0.000009
+MPT,SCs,Directed,2870,Thalamus,,0.064212
+MPT,PAG,Directed,2871,Thalamus,,0.001288
+MPT,NOT,Directed,2872,Thalamus,,0.001744
+NOT,POST,Directed,2873,Thalamus,,0.005216
+NOT,SPFm,Directed,2874,Thalamus,,0.002382
+NOT,SPFp,Directed,2875,Thalamus,,0.003676
+NOT,PP,Directed,2876,Thalamus,,0.000122
+NOT,MGd,Directed,2877,Thalamus,,0.001564
+NOT,MGv,Directed,2878,Thalamus,,0.010665
+NOT,MGm,Directed,2879,Thalamus,,0.002234
+NOT,LGd,Directed,2880,Thalamus,,0.000000
+NOT,LP,Directed,2881,Thalamus,,0.000000
+NOT,PO,Directed,2882,Thalamus,,0.023816
+NOT,POL,Directed,2883,Thalamus,,0.000488
+NOT,AV,Directed,2884,Thalamus,,0.000671
+NOT,LD,Directed,2885,Thalamus,,0.000000
+NOT,CL,Directed,2886,Thalamus,,0.001423
+NOT,RT,Directed,2887,Thalamus,,0.018376
+NOT,LGv,Directed,2888,Thalamus,,0.000000
+NOT,LH,Directed,2889,Thalamus,,0.007444
+NOT,PH,Directed,2890,Thalamus,,0.011818
+NOT,SCs,Directed,2891,Thalamus,,0.000000
+NOT,RR,Directed,2892,Thalamus,,0.012293
+NOT,SCm,Directed,2893,Thalamus,,0.000059
+NOT,APN,Directed,2894,Thalamus,,0.000077
+NOT,MPT,Directed,2895,Thalamus,,0.000005
+NOT,NPC,Directed,2896,Thalamus,,0.000043
+NOT,PG,Directed,2897,Thalamus,,0.000098
+NOT,NI,Directed,2898,Thalamus,,0.001252
+NOT,IO,Directed,2899,Thalamus,,0.000123
+NOT,PRP,Directed,2900,Thalamus,,0.000000
+NPC,LD,Directed,2901,Thalamus,,0.018817
+NPC,RT,Directed,2902,Thalamus,,0.008391
+NPC,LGv,Directed,2903,Thalamus,,0.003882
+NPC,SCm,Directed,2904,Thalamus,,0.000085
+NPC,IO,Directed,2905,Thalamus,,0.000703
+CUN,SCs,Directed,2906,Isocortex,,0.019930
+CUN,SCm,Directed,2907,Isocortex,,0.020886
+CUN,PAG,Directed,2908,Isocortex,,0.000145
+CUN,CLI,Directed,2909,Isocortex,,0.000000
+CUN,DR,Directed,2910,Isocortex,,0.000001
+CUN,RM,Directed,2911,Isocortex,,0.000021
+RN,ACB,Directed,2912,Hypothalamus,,0.029864
+RN,FS,Directed,2913,Hypothalamus,,0.000569
+RN,OT,Directed,2914,Hypothalamus,,0.016507
+RN,GPe,Directed,2915,Hypothalamus,,0.001620
+RN,SI,Directed,2916,Hypothalamus,,0.002448
+RN,MA,Directed,2917,Hypothalamus,,0.000699
+RN,LGv,Directed,2918,Hypothalamus,,0.000327
+RN,APN,Directed,2919,Hypothalamus,,0.000003
+RN,MPT,Directed,2920,Hypothalamus,,0.000980
+RN,NPC,Directed,2921,Hypothalamus,,0.000008
+RN,PG,Directed,2922,Hypothalamus,,0.001428
+RN,TRN,Directed,2923,Hypothalamus,,0.000010
+RN,CS,Directed,2924,Hypothalamus,,0.000357
+RN,PRNr,Directed,2925,Hypothalamus,,0.006379
+RN,IO,Directed,2926,Hypothalamus,,0.000000
+SNc,CP,Directed,2927,Hypothalamus,,0.008342
+SNc,VM,Directed,2928,Hypothalamus,,0.022903
+SNc,IMD,Directed,2929,Hypothalamus,,0.001469
+SNc,STN,Directed,2930,Hypothalamus,,0.006565
+SNc,SCm,Directed,2931,Hypothalamus,,0.004814
+SNc,PPN,Directed,2932,Hypothalamus,,0.000154
+SNc,CLI,Directed,2933,Hypothalamus,,0.000001
+SNc,DR,Directed,2934,Hypothalamus,,0.000001
+PPN,SPFp,Directed,2935,Thalamus,,0.013456
+PPN,PP,Directed,2936,Thalamus,,0.003367
+PPN,DMH,Directed,2937,Thalamus,,0.012059
+PPN,LHA,Directed,2938,Thalamus,,0.004118
+PPN,RCH,Directed,2939,Thalamus,,0.000529
+PPN,STN,Directed,2940,Thalamus,,0.003112
+PPN,TU,Directed,2941,Thalamus,,0.014525
+PPN,SNr,Directed,2942,Thalamus,,0.020819
+PPN,VTA,Directed,2943,Thalamus,,0.002251
+PPN,RR,Directed,2944,Thalamus,,0.002174
+PPN,MRN,Directed,2945,Thalamus,,0.154301
+PPN,NPC,Directed,2946,Thalamus,,0.011822
+PPN,SNc,Directed,2947,Thalamus,,0.004403
+PPN,CLI,Directed,2948,Thalamus,,0.000045
+PPN,DR,Directed,2949,Thalamus,,0.000000
+PPN,PCG,Directed,2950,Thalamus,,0.000527
+PPN,PRNc,Directed,2951,Thalamus,,0.005736
+PPN,PGRNl,Directed,2952,Thalamus,,0.009432
+IPN,SF,Directed,2953,Cortical Subplate,,0.000001
+IPN,MS,Directed,2954,Cortical Subplate,,0.003533
+IPN,NDB,Directed,2955,Cortical Subplate,,0.016187
+IPN,TRS,Directed,2956,Cortical Subplate,,0.000052
+IPN,LPO,Directed,2957,Cortical Subplate,,0.028897
+IPN,PCG,Directed,2958,Cortical Subplate,,0.000000
+IPN,CS,Directed,2959,Cortical Subplate,,0.005662
+IPN,NI,Directed,2960,Cortical Subplate,,0.000000
+CLI,SI,Directed,2961,Isocortex,,0.040253
+CLI,MA,Directed,2962,Isocortex,,0.000008
+CLI,NDB,Directed,2963,Isocortex,,0.000959
+CLI,LH,Directed,2964,Isocortex,,0.059911
+CLI,SUM,Directed,2965,Isocortex,,0.020074
+CLI,LHA,Directed,2966,Isocortex,,0.244775
+CLI,LPO,Directed,2967,Isocortex,,0.002316
+CLI,SNc,Directed,2968,Isocortex,,0.010171
+CLI,DR,Directed,2969,Isocortex,,0.000006
+CLI,NI,Directed,2970,Isocortex,,0.010034
+CLI,AMB,Directed,2971,Isocortex,,0.002604
+CLI,IO,Directed,2972,Isocortex,,0.000176
+DR,CLI,Directed,2973,Olfactory Areas,,0.000002
+NLL,PP,Directed,2974,Thalamus,,0.000579
+NLL,SCs,Directed,2975,Thalamus,,0.000000
+NLL,ICc,Directed,2976,Thalamus,,0.000001
+NLL,ICd,Directed,2977,Thalamus,,0.000000
+NLL,ICe,Directed,2978,Thalamus,,0.000000
+NLL,SCm,Directed,2979,Thalamus,,0.000000
+NLL,PAG,Directed,2980,Thalamus,,0.002369
+NLL,CUN,Directed,2981,Thalamus,,0.000000
+NLL,PB,Directed,2982,Thalamus,,0.002603
+NLL,SOC,Directed,2983,Thalamus,,0.000197
+NLL,AMB,Directed,2984,Thalamus,,0.000000
+NLL,LRN,Directed,2985,Thalamus,,0.001391
+NLL,PGRNl,Directed,2986,Thalamus,,0.000811
+NLL,SUV,Directed,2987,Thalamus,,0.001167
+NLL,CENT,Directed,2988,Thalamus,,0.000005
+NLL,CUL,Directed,2989,Thalamus,,0.000624
+PSV,ICc,Directed,2990,Hypothalamus,,0.000182
+PSV,IPN,Directed,2991,Hypothalamus,,0.000224
+PSV,NLL,Directed,2992,Hypothalamus,,0.001639
+PSV,PSV,Directed,2993,Hypothalamus,,0.000396
+PSV,PB,Directed,2994,Hypothalamus,,0.000000
+PSV,PCG,Directed,2995,Hypothalamus,,0.000210
+PSV,PRNc,Directed,2996,Hypothalamus,,0.000441
+PSV,SUT,Directed,2997,Hypothalamus,,0.000000
+PSV,V,Directed,2998,Hypothalamus,,0.000000
+PSV,CS,Directed,2999,Hypothalamus,,0.000000
+PSV,NI,Directed,3000,Hypothalamus,,0.000068
+PSV,PRNr,Directed,3001,Hypothalamus,,0.000293
+PSV,DCO,Directed,3002,Hypothalamus,,0.000000
+PSV,VCO,Directed,3003,Hypothalamus,,0.000000
+PSV,NTS,Directed,3004,Hypothalamus,,0.000423
+PSV,SPVC,Directed,3005,Hypothalamus,,0.000022
+PSV,SPVI,Directed,3006,Hypothalamus,,0.000000
+PSV,SPVO,Directed,3007,Hypothalamus,,0.000000
+PSV,VII,Directed,3008,Hypothalamus,,0.003103
+PSV,AMB,Directed,3009,Hypothalamus,,0.000000
+PSV,GRN,Directed,3010,Hypothalamus,,0.011461
+PSV,IRN,Directed,3011,Hypothalamus,,0.000001
+PSV,LRN,Directed,3012,Hypothalamus,,0.000589
+PSV,MDRNd,Directed,3013,Hypothalamus,,0.000548
+PSV,MDRNv,Directed,3014,Hypothalamus,,0.002689
+PSV,PARN,Directed,3015,Hypothalamus,,0.000001
+PSV,PGRNl,Directed,3016,Hypothalamus,,0.000072
+PSV,LAV,Directed,3017,Hypothalamus,,0.001131
+PSV,MV,Directed,3018,Hypothalamus,,0.000180
+PSV,SUV,Directed,3019,Hypothalamus,,0.000000
+PSV,XII,Directed,3020,Hypothalamus,,0.000016
+PSV,CENT,Directed,3021,Hypothalamus,,0.000711
+PSV,PYR,Directed,3022,Hypothalamus,,0.000000
+PSV,NOD,Directed,3023,Hypothalamus,,0.000000
+PSV,SIM,Directed,3024,Hypothalamus,,0.000000
+PSV,AN,Directed,3025,Hypothalamus,,0.000000
+PSV,PRM,Directed,3026,Hypothalamus,,0.000000
+PSV,PFL,Directed,3027,Hypothalamus,,0.000000
+PSV,FL,Directed,3028,Hypothalamus,,0.000000
+PSV,FN,Directed,3029,Hypothalamus,,0.000000
+PSV,IP,Directed,3030,Hypothalamus,,0.000020
+PSV,DN,Directed,3031,Hypothalamus,,0.000000
+PB,SPA,Directed,3032,Thalamus,,0.000000
+PB,IMD,Directed,3033,Thalamus,,0.001537
+PB,CM,Directed,3034,Thalamus,,0.004274
+PB,PF,Directed,3035,Thalamus,,0.000709
+PB,MEPO,Directed,3036,Thalamus,,0.000553
+PB,VTA,Directed,3037,Thalamus,,0.003223
+PB,RR,Directed,3038,Thalamus,,0.000700
+PB,DR,Directed,3039,Thalamus,,0.000252
+PB,V,Directed,3040,Thalamus,,0.002915
+PB,CENT,Directed,3041,Thalamus,,0.001477
+PCG,LSr,Directed,3042,Thalamus,,0.014598
+PCG,IMD,Directed,3043,Thalamus,,0.000079
+PCG,PVT,Directed,3044,Thalamus,,0.000010
+PCG,PT,Directed,3045,Thalamus,,0.000552
+PCG,PVH,Directed,3046,Thalamus,,0.001406
+PCG,DMH,Directed,3047,Thalamus,,0.000002
+PCG,MEPO,Directed,3048,Thalamus,,0.000854
+PCG,MPO,Directed,3049,Thalamus,,0.002012
+PCG,SBPV,Directed,3050,Thalamus,,0.000825
+PCG,LHA,Directed,3051,Thalamus,,0.047713
+PCG,RCH,Directed,3052,Thalamus,,0.001520
+PCG,RR,Directed,3053,Thalamus,,0.000605
+PCG,MRN,Directed,3054,Thalamus,,0.034904
+PCG,PAG,Directed,3055,Thalamus,,0.000003
+PCG,MPT,Directed,3056,Thalamus,,0.000944
+PCG,NPC,Directed,3057,Thalamus,,0.000186
+PCG,PPN,Directed,3058,Thalamus,,0.000090
+PCG,DR,Directed,3059,Thalamus,,0.000028
+PCG,PB,Directed,3060,Thalamus,,0.000797
+PCG,PRNc,Directed,3061,Thalamus,,0.000661
+PCG,GRN,Directed,3062,Thalamus,,0.004866
+PCG,IO,Directed,3063,Thalamus,,0.001232
+PCG,LRN,Directed,3064,Thalamus,,0.000563
+PCG,MARN,Directed,3065,Thalamus,,0.000579
+PCG,PGRNl,Directed,3066,Thalamus,,0.000608
+PCG,SPIV,Directed,3067,Thalamus,,0.000000
+PCG,RM,Directed,3068,Thalamus,,0.000005
+PCG,NOD,Directed,3069,Thalamus,,0.000000
+PCG,FL,Directed,3070,Thalamus,,0.000000
+PG,SIM,Directed,3071,Thalamus,,0.000000
+PG,AN,Directed,3072,Thalamus,,0.000000
+PG,PRM,Directed,3073,Thalamus,,0.000504
+PG,FN,Directed,3074,Thalamus,,0.000000
+PG,IP,Directed,3075,Thalamus,,0.000000
+PG,DN,Directed,3076,Thalamus,,0.000000
+PRNc,RR,Directed,3077,Hypothalamus,,0.000011
+PRNc,MRN,Directed,3078,Hypothalamus,,0.000001
+PRNc,PAG,Directed,3079,Hypothalamus,,0.000380
+PRNc,APN,Directed,3080,Hypothalamus,,0.000235
+PRNc,NPC,Directed,3081,Hypothalamus,,0.000006
+PRNc,RN,Directed,3082,Hypothalamus,,0.000820
+PRNc,PPN,Directed,3083,Hypothalamus,,0.000000
+PRNc,DR,Directed,3084,Hypothalamus,,0.000000
+PRNc,PB,Directed,3085,Hypothalamus,,0.000063
+PRNc,SUT,Directed,3086,Hypothalamus,,0.000090
+PRNc,TRN,Directed,3087,Hypothalamus,,0.000047
+PRNc,PRNr,Directed,3088,Hypothalamus,,0.000056
+PRNc,SPVO,Directed,3089,Hypothalamus,,0.000595
+PRNc,AMB,Directed,3090,Hypothalamus,,0.000000
+PRNc,GRN,Directed,3091,Hypothalamus,,0.000000
+PRNc,IO,Directed,3092,Hypothalamus,,0.000083
+PRNc,IRN,Directed,3093,Hypothalamus,,0.000063
+PRNc,LRN,Directed,3094,Hypothalamus,,0.000000
+PRNc,MARN,Directed,3095,Hypothalamus,,0.000000
+PRNc,MDRNd,Directed,3096,Hypothalamus,,0.000015
+PRNc,MDRNv,Directed,3097,Hypothalamus,,0.000000
+PRNc,PARN,Directed,3098,Hypothalamus,,0.001559
+PRNc,PGRNd,Directed,3099,Hypothalamus,,0.000000
+PRNc,PGRNl,Directed,3100,Hypothalamus,,0.000000
+PRNc,PRP,Directed,3101,Hypothalamus,,0.000000
+PRNc,LAV,Directed,3102,Hypothalamus,,0.000000
+PRNc,MV,Directed,3103,Hypothalamus,,0.000000
+PRNc,SPIV,Directed,3104,Hypothalamus,,0.000000
+PRNc,SUV,Directed,3105,Hypothalamus,,0.000000
+PRNc,XII,Directed,3106,Hypothalamus,,0.000606
+PRNc,FL,Directed,3107,Hypothalamus,,0.000144
+PRNc,FN,Directed,3108,Hypothalamus,,0.000001
+TRN,LHA,Directed,3109,Midbrain,,0.016410
+TRN,VTA,Directed,3110,Midbrain,,0.001518
+TRN,RR,Directed,3111,Midbrain,,0.001948
+TRN,IPN,Directed,3112,Midbrain,,0.000000
+TRN,CLI,Directed,3113,Midbrain,,0.000023
+TRN,DR,Directed,3114,Midbrain,,0.000002
+TRN,PCG,Directed,3115,Midbrain,,0.001109
+TRN,PG,Directed,3116,Midbrain,,0.000000
+TRN,NI,Directed,3117,Midbrain,,0.000258
+TRN,VCO,Directed,3118,Midbrain,,0.000000
+TRN,CUL,Directed,3119,Midbrain,,0.005083
+TRN,PYR,Directed,3120,Midbrain,,0.000000
+TRN,NOD,Directed,3121,Midbrain,,0.000000
+TRN,SIM,Directed,3122,Midbrain,,0.000865
+TRN,AN,Directed,3123,Midbrain,,0.000000
+TRN,PRM,Directed,3124,Midbrain,,0.000785
+TRN,PFL,Directed,3125,Midbrain,,0.000000
+TRN,FL,Directed,3126,Midbrain,,0.000000
+TRN,DN,Directed,3127,Midbrain,,0.000000
+V,CS,Directed,3128,Midbrain,,0.013280
+CS,CA2,Directed,3129,Isocortex,,0.001751
+CS,CA3,Directed,3130,Isocortex,,0.016297
+CS,TRS,Directed,3131,Isocortex,,0.000581
+CS,RE,Directed,3132,Isocortex,,0.001448
+CS,DMH,Directed,3133,Isocortex,,0.000415
+CS,MPO,Directed,3134,Isocortex,,0.004028
+CS,MM,Directed,3135,Isocortex,,0.000000
+CS,SUM,Directed,3136,Isocortex,,0.000000
+CS,PH,Directed,3137,Isocortex,,0.000000
+CS,VTA,Directed,3138,Isocortex,,0.000001
+CS,PAG,Directed,3139,Isocortex,,0.015287
+CS,IPN,Directed,3140,Isocortex,,0.000000
+CS,PCG,Directed,3141,Isocortex,,0.000000
+CS,NI,Directed,3142,Isocortex,,0.000000
+NI,NDB,Directed,3143,Thalamus,,0.004073
+NI,MM,Directed,3144,Thalamus,,0.000000
+NI,SUM,Directed,3145,Thalamus,,0.000000
+NI,PMd,Directed,3146,Thalamus,,0.000000
+NI,VTA,Directed,3147,Thalamus,,0.002538
+NI,IPN,Directed,3148,Thalamus,,0.000000
+NI,CLI,Directed,3149,Thalamus,,0.000102
+NI,CS,Directed,3150,Thalamus,,0.000001
+NI,PRP,Directed,3151,Thalamus,,0.000108
+NI,MV,Directed,3152,Thalamus,,0.004353
+PRNr,PCG,Directed,3153,Hypothalamus,,0.000006
+PRNr,PRNc,Directed,3154,Hypothalamus,,0.002630
+PRNr,NI,Directed,3155,Hypothalamus,,0.000000
+PRNr,GRN,Directed,3156,Hypothalamus,,0.000686
+PRNr,PGRNd,Directed,3157,Hypothalamus,,0.000035
+PRNr,PRP,Directed,3158,Hypothalamus,,0.000460
+PRNr,RM,Directed,3159,Hypothalamus,,0.000000
+DCO,PSV,Directed,3160,Isocortex,,0.000258
+DCO,PCG,Directed,3161,Isocortex,,0.002262
+DCO,NI,Directed,3162,Isocortex,,0.001508
+DCO,DCO,Directed,3163,Isocortex,,0.000000
+DCO,VCO,Directed,3164,Isocortex,,0.000000
+DCO,SPVC,Directed,3165,Isocortex,,0.000394
+DCO,SPVI,Directed,3166,Isocortex,,0.000120
+DCO,SPVO,Directed,3167,Isocortex,,0.004437
+DCO,PGRNd,Directed,3168,Isocortex,,0.000529
+DCO,PRP,Directed,3169,Isocortex,,0.000000
+DCO,LAV,Directed,3170,Isocortex,,0.000000
+DCO,MV,Directed,3171,Isocortex,,0.000000
+DCO,SPIV,Directed,3172,Isocortex,,0.000000
+DCO,SUV,Directed,3173,Isocortex,,0.000000
+DCO,CENT,Directed,3174,Isocortex,,0.002255
+DCO,PYR,Directed,3175,Isocortex,,0.000000
+DCO,NOD,Directed,3176,Isocortex,,0.000000
+DCO,PFL,Directed,3177,Isocortex,,0.007330
+DCO,FL,Directed,3178,Isocortex,,0.000000
+DCO,FN,Directed,3179,Isocortex,,0.000000
+DCO,IP,Directed,3180,Isocortex,,0.000480
+VCO,SOC,Directed,3181,Midbrain,,0.000000
+VCO,DCO,Directed,3182,Midbrain,,0.000000
+VCO,VCO,Directed,3183,Midbrain,,0.002246
+VCO,FL,Directed,3184,Midbrain,,0.000000
+NTS,PSV,Directed,3185,Thalamus,,0.000000
+NTS,PB,Directed,3186,Thalamus,,0.000000
+NTS,PCG,Directed,3187,Thalamus,,0.003523
+NTS,PRNc,Directed,3188,Thalamus,,0.031556
+NTS,SUT,Directed,3189,Thalamus,,0.000000
+NTS,V,Directed,3190,Thalamus,,0.000000
+NTS,NTS,Directed,3191,Thalamus,,0.000000
+NTS,SPVC,Directed,3192,Thalamus,,0.000000
+NTS,SPVI,Directed,3193,Thalamus,,0.000000
+NTS,SPVO,Directed,3194,Thalamus,,0.000000
+NTS,VII,Directed,3195,Thalamus,,0.000458
+NTS,AMB,Directed,3196,Thalamus,,0.000001
+NTS,IO,Directed,3197,Thalamus,,0.002372
+NTS,IRN,Directed,3198,Thalamus,,0.000000
+NTS,LRN,Directed,3199,Thalamus,,0.000023
+NTS,MDRNd,Directed,3200,Thalamus,,0.000000
+NTS,MDRNv,Directed,3201,Thalamus,,0.000000
+NTS,PARN,Directed,3202,Thalamus,,0.000000
+NTS,PGRNl,Directed,3203,Thalamus,,0.000756
+NTS,SUV,Directed,3204,Thalamus,,0.000001
+NTS,XII,Directed,3205,Thalamus,,0.000000
+SPVC,PSV,Directed,3206,Hypothalamus,,0.000000
+SPVC,PB,Directed,3207,Hypothalamus,,0.000511
+SPVC,NTS,Directed,3208,Hypothalamus,,0.000002
+SPVC,SPVC,Directed,3209,Hypothalamus,,0.000000
+SPVC,SPVI,Directed,3210,Hypothalamus,,0.000000
+SPVC,SPVO,Directed,3211,Hypothalamus,,0.000000
+SPVC,VII,Directed,3212,Hypothalamus,,0.000000
+SPVC,AMB,Directed,3213,Hypothalamus,,0.000000
+SPVC,GRN,Directed,3214,Hypothalamus,,0.004969
+SPVC,IRN,Directed,3215,Hypothalamus,,0.000000
+SPVC,LRN,Directed,3216,Hypothalamus,,0.000000
+SPVC,MDRNd,Directed,3217,Hypothalamus,,0.000000
+SPVC,MDRNv,Directed,3218,Hypothalamus,,0.000000
+SPVC,PARN,Directed,3219,Hypothalamus,,0.000033
+SPVC,PGRNl,Directed,3220,Hypothalamus,,0.000000
+SPVC,LAV,Directed,3221,Hypothalamus,,0.000901
+SPVC,SUV,Directed,3222,Hypothalamus,,0.000703
+SPVC,IP,Directed,3223,Hypothalamus,,0.000003
+SPVI,PSV,Directed,3224,Hypothalamus,,0.000000
+SPVI,PB,Directed,3225,Hypothalamus,,0.000109
+SPVI,SUT,Directed,3226,Hypothalamus,,0.000438
+SPVI,DCO,Directed,3227,Hypothalamus,,0.000025
+SPVI,VCO,Directed,3228,Hypothalamus,,0.000009
+SPVI,NTS,Directed,3229,Hypothalamus,,0.000000
+SPVI,SPVC,Directed,3230,Hypothalamus,,0.000000
+SPVI,SPVO,Directed,3231,Hypothalamus,,0.000000
+SPVI,AMB,Directed,3232,Hypothalamus,,0.000000
+SPVI,GRN,Directed,3233,Hypothalamus,,0.000000
+SPVI,IO,Directed,3234,Hypothalamus,,0.000000
+SPVI,IRN,Directed,3235,Hypothalamus,,0.000000
+SPVI,LRN,Directed,3236,Hypothalamus,,0.000035
+SPVI,MARN,Directed,3237,Hypothalamus,,0.000002
+SPVI,MDRNd,Directed,3238,Hypothalamus,,0.000000
+SPVI,PARN,Directed,3239,Hypothalamus,,0.000000
+SPVI,PGRNd,Directed,3240,Hypothalamus,,0.000002
+SPVI,PGRNl,Directed,3241,Hypothalamus,,0.000011
+SPVI,SPIV,Directed,3242,Hypothalamus,,0.000576
+SPVI,SUV,Directed,3243,Hypothalamus,,0.000000
+SPVI,CUL,Directed,3244,Hypothalamus,,0.000670
+SPVI,PYR,Directed,3245,Hypothalamus,,0.000060
+SPVI,SIM,Directed,3246,Hypothalamus,,0.000000
+SPVI,AN,Directed,3247,Hypothalamus,,0.000000
+SPVI,PRM,Directed,3248,Hypothalamus,,0.000000
+SPVI,PFL,Directed,3249,Hypothalamus,,0.001661
+SPVI,FL,Directed,3250,Hypothalamus,,0.000094
+SPVI,FN,Directed,3251,Hypothalamus,,0.000018
+SPVI,IP,Directed,3252,Hypothalamus,,0.000000
+SPVI,DN,Directed,3253,Hypothalamus,,0.000000
+SPVO,PSV,Directed,3254,Hypothalamus,,0.000000
+SPVO,PB,Directed,3255,Hypothalamus,,0.000000
+SPVO,PRNc,Directed,3256,Hypothalamus,,0.001546
+SPVO,SUT,Directed,3257,Hypothalamus,,0.000132
+SPVO,NTS,Directed,3258,Hypothalamus,,0.000001
+SPVO,SPVI,Directed,3259,Hypothalamus,,0.000000
+SPVO,SPVO,Directed,3260,Hypothalamus,,0.000038
+SPVO,GRN,Directed,3261,Hypothalamus,,0.000000
+SPVO,IRN,Directed,3262,Hypothalamus,,0.000004
+SPVO,MDRNd,Directed,3263,Hypothalamus,,0.003633
+SPVO,PARN,Directed,3264,Hypothalamus,,0.000000
+SPVO,PGRNd,Directed,3265,Hypothalamus,,0.000000
+SPVO,PGRNl,Directed,3266,Hypothalamus,,0.000145
+SPVO,PRP,Directed,3267,Hypothalamus,,0.000096
+SPVO,MV,Directed,3268,Hypothalamus,,0.000035
+SPVO,SPIV,Directed,3269,Hypothalamus,,0.000000
+SPVO,SUV,Directed,3270,Hypothalamus,,0.000000
+SPVO,NOD,Directed,3271,Hypothalamus,,0.000032
+SPVO,SIM,Directed,3272,Hypothalamus,,0.000073
+SPVO,AN,Directed,3273,Hypothalamus,,0.000000
+SPVO,PRM,Directed,3274,Hypothalamus,,0.000000
+SPVO,FL,Directed,3275,Hypothalamus,,0.000783
+SPVO,FN,Directed,3276,Hypothalamus,,0.000428
+SPVO,DN,Directed,3277,Hypothalamus,,0.000240
+VII,AMB,Directed,3278,Midbrain,,0.000017
+VII,GRN,Directed,3279,Midbrain,,0.000011
+VII,IRN,Directed,3280,Midbrain,,0.000980
+VII,MDRNv,Directed,3281,Midbrain,,0.000080
+VII,PGRNd,Directed,3282,Midbrain,,0.000092
+VII,XII,Directed,3283,Midbrain,,0.000974
+AMB,VII,Directed,3284,Isocortex,,0.000000
+AMB,IRN,Directed,3285,Isocortex,,0.025125
+AMB,PGRNd,Directed,3286,Isocortex,,0.004811
+AMB,NOD,Directed,3287,Isocortex,,0.000226
+GRN,SUT,Directed,3288,Hippocampal Formation,,0.000000
+GRN,V,Directed,3289,Hippocampal Formation,,0.000000
+GRN,SPVI,Directed,3290,Hippocampal Formation,,0.000894
+GRN,SPVO,Directed,3291,Hippocampal Formation,,0.000657
+GRN,VII,Directed,3292,Hippocampal Formation,,0.000000
+GRN,AMB,Directed,3293,Hippocampal Formation,,0.000003
+GRN,GRN,Directed,3294,Hippocampal Formation,,0.008386
+GRN,IRN,Directed,3295,Hippocampal Formation,,0.000000
+GRN,MDRNv,Directed,3296,Hippocampal Formation,,0.000000
+GRN,PARN,Directed,3297,Hippocampal Formation,,0.000000
+GRN,PGRNd,Directed,3298,Hippocampal Formation,,0.000001
+GRN,PGRNl,Directed,3299,Hippocampal Formation,,0.000094
+GRN,LAV,Directed,3300,Hippocampal Formation,,0.000065
+GRN,MV,Directed,3301,Hippocampal Formation,,0.000000
+GRN,SPIV,Directed,3302,Hippocampal Formation,,0.000000
+GRN,SUV,Directed,3303,Hippocampal Formation,,0.000109
+GRN,XII,Directed,3304,Hippocampal Formation,,0.001194
+GRN,AN,Directed,3305,Hippocampal Formation,,0.000005
+GRN,FL,Directed,3306,Hippocampal Formation,,0.000212
+IO,SOC,Directed,3307,Hippocampal Formation,,0.004276
+IO,VCO,Directed,3308,Hippocampal Formation,,0.000182
+IO,SPVC,Directed,3309,Hippocampal Formation,,0.003301
+IO,CENT,Directed,3310,Hippocampal Formation,,0.000000
+IO,PYR,Directed,3311,Hippocampal Formation,,0.000000
+IRN,PB,Directed,3312,Cortical Subplate,,0.002020
+IRN,PRNc,Directed,3313,Cortical Subplate,,0.003015
+IRN,V,Directed,3314,Cortical Subplate,,0.000005
+IRN,VII,Directed,3315,Cortical Subplate,,0.000000
+IRN,GRN,Directed,3316,Cortical Subplate,,0.000302
+IRN,PGRNl,Directed,3317,Cortical Subplate,,0.000001
+IRN,XII,Directed,3318,Cortical Subplate,,0.000001
+IRN,SIM,Directed,3319,Cortical Subplate,,0.000000
+IRN,IP,Directed,3320,Cortical Subplate,,0.000015
+IRN,DN,Directed,3321,Cortical Subplate,,0.000002
+LRN,PB,Directed,3322,Striatum,,0.002594
+LRN,NTS,Directed,3323,Striatum,,0.000029
+LRN,VII,Directed,3324,Striatum,,0.000001
+LRN,IO,Directed,3325,Striatum,,0.000000
+LRN,PGRNl,Directed,3326,Striatum,,0.000000
+LRN,XII,Directed,3327,Striatum,,0.000337
+LRN,RM,Directed,3328,Striatum,,0.000029
+LRN,CENT,Directed,3329,Striatum,,0.000000
+LRN,CUL,Directed,3330,Striatum,,0.000000
+LRN,PYR,Directed,3331,Striatum,,0.000000
+LRN,SIM,Directed,3332,Striatum,,0.000000
+LRN,AN,Directed,3333,Striatum,,0.000000
+LRN,PRM,Directed,3334,Striatum,,0.000000
+LRN,FL,Directed,3335,Striatum,,0.000704
+LRN,FN,Directed,3336,Striatum,,0.000000
+LRN,IP,Directed,3337,Striatum,,0.000000
+LRN,DN,Directed,3338,Striatum,,0.000000
+MARN,PSV,Directed,3339,Striatum,,0.001854
+MARN,PRNc,Directed,3340,Striatum,,0.000079
+MARN,SPVC,Directed,3341,Striatum,,0.000785
+MARN,SPVI,Directed,3342,Striatum,,0.001090
+MARN,AMB,Directed,3343,Striatum,,0.000000
+MARN,GRN,Directed,3344,Striatum,,0.002451
+MARN,LRN,Directed,3345,Striatum,,0.000000
+MARN,MDRNd,Directed,3346,Striatum,,0.000000
+MARN,MDRNv,Directed,3347,Striatum,,0.000791
+MARN,PGRNd,Directed,3348,Striatum,,0.000389
+MARN,PRP,Directed,3349,Striatum,,0.000729
+MARN,SPIV,Directed,3350,Striatum,,0.000080
+MARN,RM,Directed,3351,Striatum,,0.000000
+MARN,NOD,Directed,3352,Striatum,,0.000000
+MDRNd,PSV,Directed,3353,Striatum,,0.006939
+MDRNd,SPVO,Directed,3354,Striatum,,0.000010
+MDRNv,VCO,Directed,3355,Striatum,,0.000171
+MDRNv,SPVC,Directed,3356,Striatum,,0.000000
+MDRNv,SPVI,Directed,3357,Striatum,,0.000476
+MDRNv,PYR,Directed,3358,Striatum,,0.000020
+PARN,SUT,Directed,3359,Thalamus,,0.000262
+PARN,V,Directed,3360,Thalamus,,0.000000
+PARN,SPVC,Directed,3361,Thalamus,,0.000265
+PARN,IRN,Directed,3362,Thalamus,,0.007468
+PARN,MDRNd,Directed,3363,Thalamus,,0.000000
+PARN,MDRNv,Directed,3364,Thalamus,,0.001768
+PGRNd,FL,Directed,3365,Thalamus,,0.011143
+PGRNl,PAG,Directed,3366,Thalamus,,0.008309
+PGRNl,PPN,Directed,3367,Thalamus,,0.000994
+PGRNl,IPN,Directed,3368,Thalamus,,0.000224
+PGRNl,DR,Directed,3369,Thalamus,,0.000000
+PGRNl,PSV,Directed,3370,Thalamus,,0.003232
+PGRNl,SOC,Directed,3371,Thalamus,,0.000000
+PGRNl,PCG,Directed,3372,Thalamus,,0.000000
+PGRNl,PRNc,Directed,3373,Thalamus,,0.020003
+PGRNl,SUT,Directed,3374,Thalamus,,0.000004
+PGRNl,V,Directed,3375,Thalamus,,0.000000
+PGRNl,PRNr,Directed,3376,Thalamus,,0.001244
+PGRNl,VCO,Directed,3377,Thalamus,,0.000000
+PGRNl,NTS,Directed,3378,Thalamus,,0.000867
+PGRNl,SPVC,Directed,3379,Thalamus,,0.000027
+PGRNl,SPVI,Directed,3380,Thalamus,,0.000000
+PGRNl,GRN,Directed,3381,Thalamus,,0.002442
+PGRNl,IRN,Directed,3382,Thalamus,,0.000340
+PGRNl,MDRNd,Directed,3383,Thalamus,,0.000000
+PGRNl,MDRNv,Directed,3384,Thalamus,,0.000000
+PGRNl,PGRNd,Directed,3385,Thalamus,,0.000007
+PGRNl,PRP,Directed,3386,Thalamus,,0.001373
+PGRNl,LAV,Directed,3387,Thalamus,,0.000214
+PGRNl,MV,Directed,3388,Thalamus,,0.000003
+PGRNl,SPIV,Directed,3389,Thalamus,,0.000000
+PGRNl,XII,Directed,3390,Thalamus,,0.000000
+PGRNl,RM,Directed,3391,Thalamus,,0.000016
+PGRNl,PYR,Directed,3392,Thalamus,,0.000061
+PGRNl,FL,Directed,3393,Thalamus,,0.000062
+PRP,NI,Directed,3394,Hypothalamus,,0.000000
+PRP,DCO,Directed,3395,Hypothalamus,,0.002250
+PRP,SPVI,Directed,3396,Hypothalamus,,0.001810
+PRP,LAV,Directed,3397,Hypothalamus,,0.000000
+PRP,MV,Directed,3398,Hypothalamus,,0.000000
+PRP,SPIV,Directed,3399,Hypothalamus,,0.000000
+PRP,SUV,Directed,3400,Hypothalamus,,0.000000
+PRP,CENT,Directed,3401,Hypothalamus,,0.000000
+PRP,PYR,Directed,3402,Hypothalamus,,0.000000
+PRP,NOD,Directed,3403,Hypothalamus,,0.000000
+PRP,AN,Directed,3404,Hypothalamus,,0.000247
+PRP,PFL,Directed,3405,Hypothalamus,,0.000020
+PRP,FL,Directed,3406,Hypothalamus,,0.002612
+PRP,FN,Directed,3407,Hypothalamus,,0.000131
+PRP,IP,Directed,3408,Hypothalamus,,0.000805
+PRP,DN,Directed,3409,Hypothalamus,,0.000052
+MV,SPVC,Directed,3410,Thalamus,,0.000172
+MV,SPVI,Directed,3411,Thalamus,,0.000098
+MV,GRN,Directed,3412,Thalamus,,0.000159
+MV,PGRNd,Directed,3413,Thalamus,,0.000000
+MV,PRP,Directed,3414,Thalamus,,0.000000
+MV,SPIV,Directed,3415,Thalamus,,0.000000
+MV,SUV,Directed,3416,Thalamus,,0.000000
+MV,XII,Directed,3417,Thalamus,,0.000124
+MV,NOD,Directed,3418,Thalamus,,0.000000
+MV,FL,Directed,3419,Thalamus,,0.000219
+MV,FN,Directed,3420,Thalamus,,0.000000
+MV,IP,Directed,3421,Thalamus,,0.000161
+SPIV,SPVC,Directed,3422,Hypothalamus,,0.000040
+SPIV,SPVI,Directed,3423,Hypothalamus,,0.000000
+SPIV,SPVO,Directed,3424,Hypothalamus,,0.000052
+SPIV,GRN,Directed,3425,Hypothalamus,,0.022102
+SPIV,IRN,Directed,3426,Hypothalamus,,0.011236
+SPIV,MDRNd,Directed,3427,Hypothalamus,,0.000008
+SPIV,PARN,Directed,3428,Hypothalamus,,0.000409
+SPIV,PGRNd,Directed,3429,Hypothalamus,,0.000000
+SPIV,PGRNl,Directed,3430,Hypothalamus,,0.000256
+SPIV,PRP,Directed,3431,Hypothalamus,,0.000000
+SPIV,LAV,Directed,3432,Hypothalamus,,0.000000
+SPIV,MV,Directed,3433,Hypothalamus,,0.000000
+SPIV,SUV,Directed,3434,Hypothalamus,,0.000000
+SPIV,CENT,Directed,3435,Hypothalamus,,0.002374
+SPIV,PYR,Directed,3436,Hypothalamus,,0.000000
+SPIV,FN,Directed,3437,Hypothalamus,,0.000000
+SUV,PCG,Directed,3438,Midbrain,,0.003676
+SUV,PRNc,Directed,3439,Midbrain,,0.004654
+SUV,NI,Directed,3440,Midbrain,,0.000109
+SUV,DCO,Directed,3441,Midbrain,,0.001220
+SUV,VCO,Directed,3442,Midbrain,,0.000220
+SUV,GRN,Directed,3443,Midbrain,,0.002805
+SUV,LRN,Directed,3444,Midbrain,,0.001034
+SUV,MARN,Directed,3445,Midbrain,,0.001659
+SUV,PGRNd,Directed,3446,Midbrain,,0.000000
+SUV,PRP,Directed,3447,Midbrain,,0.000000
+SUV,MV,Directed,3448,Midbrain,,0.000000
+SUV,SPIV,Directed,3449,Midbrain,,0.000000
+SUV,RM,Directed,3450,Midbrain,,0.000445
+SUV,PYR,Directed,3451,Midbrain,,0.000000
+SUV,FL,Directed,3452,Midbrain,,0.000000
+XII,NTS,Directed,3453,Midbrain,,0.000000
+XII,SPVI,Directed,3454,Midbrain,,0.001772
+XII,SPVO,Directed,3455,Midbrain,,0.000023
+XII,VII,Directed,3456,Midbrain,,0.003194
+XII,AMB,Directed,3457,Midbrain,,0.000000
+XII,GRN,Directed,3458,Midbrain,,0.004218
+XII,IRN,Directed,3459,Midbrain,,0.000006
+XII,LRN,Directed,3460,Midbrain,,0.000956
+XII,MDRNd,Directed,3461,Midbrain,,0.001656
+XII,PARN,Directed,3462,Midbrain,,0.001851
+XII,PGRNl,Directed,3463,Midbrain,,0.002001
+RM,RR,Directed,3464,Hypothalamus,,0.019564
+RM,DR,Directed,3465,Hypothalamus,,0.000012
+RM,SOC,Directed,3466,Hypothalamus,,0.006485
+RM,PCG,Directed,3467,Hypothalamus,,0.001123
+RM,PRNr,Directed,3468,Hypothalamus,,0.026629
+RM,IO,Directed,3469,Hypothalamus,,0.000965
+RM,LRN,Directed,3470,Hypothalamus,,0.007700
+RM,PGRNl,Directed,3471,Hypothalamus,,0.000000
+RM,PRP,Directed,3472,Hypothalamus,,0.000000
+RM,LAV,Directed,3473,Hypothalamus,,0.000046
+RM,MV,Directed,3474,Hypothalamus,,0.009880
+RM,PFL,Directed,3475,Hypothalamus,,0.004893
+CENT,LAV,Directed,3476,Isocortex,,0.000256
+CENT,CENT,Directed,3477,Isocortex,,0.000000
+CENT,NOD,Directed,3478,Isocortex,,0.000057
+CUL,CUL,Directed,3479,Isocortex,,0.000000
+CUL,FN,Directed,3480,Isocortex,,0.000000
+PYR,FN,Directed,3481,Hypothalamus,,0.000001
+NOD,LAV,Directed,3482,Thalamus,,0.000630
+NOD,CENT,Directed,3483,Thalamus,,0.000000
+NOD,CUL,Directed,3484,Thalamus,,0.015859
+NOD,PYR,Directed,3485,Thalamus,,0.000000
+NOD,NOD,Directed,3486,Thalamus,,0.000000
+SIM,SIM,Directed,3487,Hypothalamus,,0.000000
+SIM,IP,Directed,3488,Hypothalamus,,0.000000
+AN,AN,Directed,3489,Isocortex,,0.000081
+AN,IP,Directed,3490,Isocortex,,0.000000
+AN,DN,Directed,3491,Isocortex,,0.000000
+PRM,DN,Directed,3492,Thalamus,,0.000019
+PFL,SIM,Directed,3493,Thalamus,,0.005942
+PFL,AN,Directed,3494,Thalamus,,0.000000
+PFL,PFL,Directed,3495,Thalamus,,0.000000
+PFL,FL,Directed,3496,Thalamus,,0.000002
+PFL,DN,Directed,3497,Thalamus,,0.000234
+FL,DCO,Directed,3498,Olfactory Areas,,0.000000
+FL,FL,Directed,3499,Olfactory Areas,,0.000000
+FN,NTS,Directed,3500,Hippocampal Formation,,0.002563
+FN,GRN,Directed,3501,Hippocampal Formation,,0.000127
+FN,PGRNd,Directed,3502,Hippocampal Formation,,0.000000
+FN,PRP,Directed,3503,Hippocampal Formation,,0.000000
+FN,LAV,Directed,3504,Hippocampal Formation,,0.000000
+FN,MV,Directed,3505,Hippocampal Formation,,0.000000
+FN,SPIV,Directed,3506,Hippocampal Formation,,0.000000
+FN,SUV,Directed,3507,Hippocampal Formation,,0.000000
+FN,CENT,Directed,3508,Hippocampal Formation,,0.000000
+FN,CUL,Directed,3509,Hippocampal Formation,,0.000000
+FN,PYR,Directed,3510,Hippocampal Formation,,0.000000
+FN,AN,Directed,3511,Hippocampal Formation,,0.001155
+IP,PSV,Directed,3512,Cortical Subplate,,0.001135
+IP,PB,Directed,3513,Cortical Subplate,,0.008940
+IP,SUT,Directed,3514,Cortical Subplate,,0.001380
+IP,SPVO,Directed,3515,Cortical Subplate,,0.000069
+IP,MDRNd,Directed,3516,Cortical Subplate,,0.003181
+IP,PARN,Directed,3517,Cortical Subplate,,0.000343
+IP,SUV,Directed,3518,Cortical Subplate,,0.000289
+IP,CUL,Directed,3519,Cortical Subplate,,0.000001
+IP,SIM,Directed,3520,Cortical Subplate,,0.000168
+DN,CLI,Directed,3521,Olfactory Areas,,0.000053
+DN,SUV,Directed,3522,Olfactory Areas,,0.005255
+DN,NOD,Directed,3523,Olfactory Areas,,0.000024
+DN,AN,Directed,3524,Olfactory Areas,,0.000000
+DN,PFL,Directed,3525,Olfactory Areas,,0.000000
+DN,FL,Directed,3526,Olfactory Areas,,0.004608
+DN,FN,Directed,3527,Olfactory Areas,,0.000162
+DN,IP,Directed,3528,Olfactory Areas,,0.000000
